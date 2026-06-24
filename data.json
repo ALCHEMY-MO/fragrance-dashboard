@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-24",
   "materials": [
     {
       "name": "1,3,5,-Undecatriene FCC",
       "category": "Synthetic Aroma Chemical",
-      "low": 6630.55,
+      "low": 5377.5,
       "high": 6630.55,
       "commodity": "Crude Oil",
       "region": null,
@@ -32,11 +32,31 @@
       "notes": null
     },
     {
+      "name": "1-Lydrotropic Aldehyde",
+      "category": "Synthetic Aroma Chemical",
+      "low": 66.94,
+      "high": 126.31,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "1-OCTEN-3-OL",
       "category": "Synthetic Aroma Chemical",
-      "low": 427.0,
+      "low": 118.28,
       "high": 6175.0,
       "commodity": "Crude Oil",
+      "region": null,
+      "flag": true,
+      "notes": null
+    },
+    {
+      "name": "1-OCTEN-3-YL ACETATE BIOSYNTHETIC",
+      "category": "Synthetic Aroma Chemical",
+      "low": 151.53,
+      "high": 637.56,
+      "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": false,
       "notes": null
@@ -65,7 +85,7 @@
       "name": "2,3 Hexanedione",
       "category": "Synthetic Aroma Chemical",
       "low": 255.0,
-      "high": 255.0,
+      "high": 657.25,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -74,7 +94,7 @@
     {
       "name": "2,3,5,6-TETRAMETHYLPYRAZINE",
       "category": "Synthetic Aroma Chemical",
-      "low": 563.0,
+      "low": 222.27,
       "high": 890.0,
       "commodity": "Corn",
       "region": null,
@@ -104,8 +124,8 @@
     {
       "name": "2,3-PENTANEDIONE",
       "category": "Synthetic Aroma Chemical",
-      "low": 132.0,
-      "high": 184.0,
+      "low": 71.7,
+      "high": 475.61,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -126,6 +146,16 @@
       "category": "Synthetic Aroma Chemical",
       "low": 772.0,
       "high": 772.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "2,6 NONADIENAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1445.95,
+      "high": 3226.5,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -215,7 +245,7 @@
       "name": "2-ETHYLFENCHOL",
       "category": "Synthetic Aroma Chemical",
       "low": 1062.0,
-      "high": 1062.0,
+      "high": 1147.2,
       "commodity": "Pine/Turpentine",
       "region": null,
       "flag": false,
@@ -325,7 +355,7 @@
       "name": "2-Methyl-2-Pentenoic Acid",
       "category": "Synthetic Aroma Chemical",
       "low": 130.0,
-      "high": 130.0,
+      "high": 418.25,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -374,7 +404,7 @@
     {
       "name": "2.6 Dimethyl Phenol",
       "category": "Synthetic Aroma Chemical",
-      "low": 81.0,
+      "low": 52.58,
       "high": 81.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -482,11 +512,181 @@
       "notes": null
     },
     {
+      "name": "ACETALDEHYDE EXOR 96 FTNJ",
+      "category": "Synthetic Aroma Chemical",
+      "low": 32.03,
+      "high": 32.03,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ACETATE C 9 CRUDE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 181.64,
+      "high": 181.64,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "ACETOXY METHYL FURANONE BIOSYNTHETIC",
       "category": "Synthetic Aroma Chemical",
       "low": 228.0,
       "high": 228.0,
       "commodity": "Corn",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ACID C 11 UNDECYLENIC REDIST",
+      "category": "Synthetic Aroma Chemical",
+      "low": 33.0,
+      "high": 33.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "AGRUDIENES",
+      "category": "Synthetic Aroma Chemical",
+      "low": 2355.0,
+      "high": 2355.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ALCOHOL C 11 UNDECYLENIC",
+      "category": "Synthetic Aroma Chemical",
+      "low": 219.0,
+      "high": 219.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ALD DIHYDRO BETA C 14 CRUDE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 851.0,
+      "high": 950.03,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ALDEHYDE BETA C 14",
+      "category": "Synthetic Aroma Chemical",
+      "low": 334.0,
+      "high": 1268.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ALDEHYDE C 11 UNDECYLIC",
+      "category": "Synthetic Aroma Chemical",
+      "low": 21.63,
+      "high": 47.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ALDEHYDE MOA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 47.0,
+      "high": 47.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ALDEHYDE SUPRA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 292.0,
+      "high": 292.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ALDEHYDE TPM CONCENTRATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 154.0,
+      "high": 274.85,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ALDRON",
+      "category": "Synthetic Aroma Chemical",
+      "low": 907.0,
+      "high": 1655.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ALMOND OIL, VIRGIN  BIO",
+      "category": "Essential Oil",
+      "low": 13.5,
+      "high": 13.5,
+      "commodity": "Almonds",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "AMBER XTREME",
+      "category": "Synthetic Aroma Chemical",
+      "low": 926.0,
+      "high": 1130.76,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "AMBRETTOLIDE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 498.31,
+      "high": 3320.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "AMBROX DL PR AMBROX DL COEUR",
+      "category": "Synthetic Aroma Chemical",
+      "low": 876.0,
+      "high": 1344.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ANISE OIL USP (STAR) \"P&N\"",
+      "category": "Essential Oil",
+      "low": 84.84,
+      "high": 84.84,
+      "commodity": "No identified commodity proxy",
       "region": null,
       "flag": false,
       "notes": null
@@ -512,6 +712,36 @@
       "notes": null
     },
     {
+      "name": "ANISYL PHENYLACETATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 447.0,
+      "high": 447.0,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "APO Patchone (Folrosia)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 153.92,
+      "high": 218.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "APRITONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 254.0,
+      "high": 254.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "ARGAN OIL",
       "category": "Essential Oil",
       "low": 76.48,
@@ -519,7 +749,27 @@
       "commodity": "No major public future",
       "region": "Morocco",
       "flag": false,
-      "notes": "No acute 2026 event, but real ongoing STRUCTURAL supply risk: chronic multi-year drought is reducing argan fruit yield per tree and oil extraction rates, compounded by overharvesting of wild argan forests. Fragmented supply chain (multiple intermediaries between harvester cooperatives and exporters) limits cooperatives ability to hold inventory and negotiate, keeping farmgate prices volatile/low even as retail argan oil prices stay high. A new government storage-center program is expected in 2026 aiming to ease this, outcome unconfirmed."
+      "notes": "No acute 2026 event, but real ongoing STRUCTURAL supply risk: chronic multi-year drought reducing argan fruit yield, compounded by overharvesting and a fragmented supply chain that keeps farmgate prices volatile even as retail prices stay high."
+    },
+    {
+      "name": "AROMATONE BRUT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 560.0,
+      "high": 560.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ASMAROL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 52.02,
+      "high": 158.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "AURANTIA",
@@ -542,9 +792,19 @@
       "notes": null
     },
     {
+      "name": "AZURIL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 190.36,
+      "high": 193.59,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Abbalide",
       "category": "Synthetic Aroma Chemical",
-      "low": 20.0,
+      "low": 16.8,
       "high": 95.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -574,8 +834,8 @@
     {
       "name": "Acetate C-10",
       "category": "Synthetic Aroma Chemical",
-      "low": 63.0,
-      "high": 63.0,
+      "low": 23.9,
+      "high": 155.35,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": false,
@@ -624,7 +884,7 @@
     {
       "name": "Acetoin",
       "category": "Synthetic Aroma Chemical",
-      "low": 42.0,
+      "low": 13.15,
       "high": 52.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -715,7 +975,17 @@
       "name": "Aldehyde C-10",
       "category": "Synthetic Aroma Chemical",
       "low": 15.0,
-      "high": 420.0,
+      "high": 693.7,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Aldehyde C-11 (ISO)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 21.63,
+      "high": 35.25,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -764,7 +1034,7 @@
     {
       "name": "Aldehyde C-18 Natural",
       "category": "Natural Isolate",
-      "low": 21.0,
+      "low": 19.36,
       "high": 5248.44,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -854,8 +1124,8 @@
     {
       "name": "Allyl Phenoxy Acetate",
       "category": "Synthetic Aroma Chemical",
-      "low": 42.0,
-      "high": 42.0,
+      "low": 23.9,
+      "high": 86.04,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": false,
@@ -905,7 +1175,7 @@
       "name": "Alpha Ionone",
       "category": "Synthetic Aroma Chemical",
       "low": 37.52,
-      "high": 962.0,
+      "high": 1075.5,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": false,
@@ -942,9 +1212,19 @@
       "notes": null
     },
     {
+      "name": "Alpha Tocopherols",
+      "category": "Synthetic Aroma Chemical",
+      "low": 230.0,
+      "high": 230.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Ambercore",
       "category": "Synthetic Aroma Chemical",
-      "low": 39.63,
+      "low": 35.66,
       "high": 247.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -954,7 +1234,7 @@
     {
       "name": "Ambrarom Absolute",
       "category": "Absolute",
-      "low": 1279.0,
+      "low": 908.2,
       "high": 1279.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -974,7 +1254,7 @@
     {
       "name": "Ambrocenide",
       "category": "Synthetic Aroma Chemical",
-      "low": 2200.0,
+      "low": 792.76,
       "high": 5264.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -1015,7 +1295,7 @@
       "name": "Amyl Cinnamic Aldehyde",
       "category": "Synthetic Aroma Chemical",
       "low": 11.0,
-      "high": 645.0,
+      "high": 907.72,
       "commodity": "Crude Oil",
       "region": null,
       "flag": true,
@@ -1034,8 +1314,18 @@
     {
       "name": "Amyris Alcohol",
       "category": "Synthetic Aroma Chemical",
-      "low": 242.0,
+      "low": 179.97,
       "high": 242.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Andrane",
+      "category": "Synthetic Aroma Chemical",
+      "low": 759.0,
+      "high": 759.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -1044,7 +1334,7 @@
     {
       "name": "Anethole Natural",
       "category": "Natural Isolate",
-      "low": 28.0,
+      "low": 21.51,
       "high": 72.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -1055,7 +1345,7 @@
       "name": "Anisic Aldehyde",
       "category": "Synthetic Aroma Chemical",
       "low": 20.96,
-      "high": 320.0,
+      "high": 361.73,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -1064,7 +1354,7 @@
     {
       "name": "Anisyl Alcohol",
       "category": "Synthetic Aroma Chemical",
-      "low": 39.0,
+      "low": 13.53,
       "high": 446.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -1102,9 +1392,19 @@
       "notes": null
     },
     {
+      "name": "Armoise Oil \"P&N\"",
+      "category": "Essential Oil",
+      "low": 344.16,
+      "high": 344.16,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "BASIL OIL (METHYLCHAVICOL TYPE) METHYL EUGENOL FREE",
       "category": "Essential Oil",
-      "low": 498.0,
+      "low": 310.7,
       "high": 498.0,
       "commodity": "No major public future",
       "region": null,
@@ -1132,10 +1432,40 @@
       "notes": null
     },
     {
+      "name": "BENZOIN BAUMAROME TRIAC",
+      "category": "Synthetic Aroma Chemical",
+      "low": 197.18,
+      "high": 197.18,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BENZOIN SIAM 50%BB",
+      "category": "Synthetic Aroma Chemical",
+      "low": 69.31,
+      "high": 1225.42,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BENZONITRILE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 59.75,
+      "high": 90.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "BENZYL ACETATE NATURAL EU BESTALLY",
       "category": "Natural Isolate",
       "low": 4.97,
-      "high": 309.0,
+      "high": 764.8,
       "commodity": "Varies by parent oil",
       "region": null,
       "flag": true,
@@ -1152,9 +1482,39 @@
       "notes": null
     },
     {
+      "name": "BENZYL GLYCERYL ACETAL FIRINC",
+      "category": "Synthetic Aroma Chemical",
+      "low": 62.0,
+      "high": 62.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BENZYLISOEUGENOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 597.0,
+      "high": 597.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BERGAMAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 219.0,
+      "high": 274.85,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "BERGAMOT OIL,  BERGAPTENE FREE COLORLESS",
       "category": "Essential Oil",
-      "low": 431.0,
+      "low": 151.77,
       "high": 649.5,
       "commodity": "Orange Juice",
       "region": null,
@@ -1172,11 +1532,111 @@
       "notes": null
     },
     {
+      "name": "BERRYFLOR",
+      "category": "Synthetic Aroma Chemical",
+      "low": 82.05,
+      "high": 1118.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BETA BISABOLENE NAT",
+      "category": "Natural Isolate",
+      "low": 1496.0,
+      "high": 1496.0,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BETA N-METHYL-IONONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 263.0,
+      "high": 263.0,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BISABOLENE FLV",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1472.0,
+      "high": 1472.0,
+      "commodity": "Cedarwood Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BOISAMBRENE FORTE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 59.0,
+      "high": 218.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BORONIA ABS",
+      "category": "Absolute",
+      "low": 1157.0,
+      "high": 1157.0,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BOULEAU ESSENCE RECT DEPHENOLE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 391.0,
+      "high": 391.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BRAHMANOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 250.0,
+      "high": 482.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "BRAN ABSOLUTE IFF",
       "category": "Absolute",
       "low": 1340.0,
       "high": 1340.0,
       "commodity": "Wheat",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BROOM ABS",
+      "category": "Absolute",
+      "low": 25266.67,
+      "high": 25266.67,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BUCCOXIME",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1643.75,
+      "high": 1643.75,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -1192,9 +1652,29 @@
       "notes": null
     },
     {
+      "name": "BUTYL CARBITOL  (Glycol Ether DB)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 8.7,
+      "high": 10.44,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "BUTYL CELLOSOLVE (GLYCOL ETHER EB)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 8.03,
+      "high": 8.03,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Balsam Copaiba",
       "category": "Essential Oil",
-      "low": 227.0,
+      "low": 122.13,
       "high": 290.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -1234,11 +1714,11 @@
     {
       "name": "Benzaldehyde Food Grade",
       "category": "Synthetic Aroma Chemical",
-      "low": 14.0,
-      "high": 162.0,
+      "low": 5.26,
+      "high": 647.0,
       "commodity": "Crude Oil",
       "region": null,
-      "flag": false,
+      "flag": true,
       "notes": null
     },
     {
@@ -1305,10 +1785,10 @@
       "name": "Benzyl Alcohol",
       "category": "Synthetic Aroma Chemical",
       "low": 6.88,
-      "high": 340.0,
+      "high": 394.35,
       "commodity": "Crude Oil",
       "region": null,
-      "flag": false,
+      "flag": true,
       "notes": null
     },
     {
@@ -1375,10 +1855,10 @@
       "name": "Benzyl Salicylate",
       "category": "Synthetic Aroma Chemical",
       "low": 8.37,
-      "high": 150.0,
+      "high": 1075.5,
       "commodity": "Crude Oil",
       "region": null,
-      "flag": false,
+      "flag": true,
       "notes": null
     },
     {
@@ -1397,6 +1877,16 @@
       "low": 30.18,
       "high": 1243.0,
       "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Beta Pinene",
+      "category": "Synthetic Aroma Chemical",
+      "low": 11.45,
+      "high": 33.46,
+      "commodity": "Pine/Turpentine",
       "region": null,
       "flag": false,
       "notes": null
@@ -1424,18 +1914,28 @@
     {
       "name": "Black Pepper Oil",
       "category": "Essential Oil",
-      "low": 157.0,
+      "low": 148.18,
       "high": 994.0,
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply - a clove harvest year can temporarily reduce patchouli oil output as farmers redirect stills, and vice versa."
+      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply."
     },
     {
       "name": "Boise de Rose",
       "category": "Synthetic Aroma Chemical",
       "low": 760.0,
-      "high": 760.0,
+      "high": 994.24,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Bornafix",
+      "category": "Synthetic Aroma Chemical",
+      "low": 118.9,
+      "high": 193.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -1465,7 +1965,17 @@
       "name": "Butyl Butyryl Lactate",
       "category": "Synthetic Aroma Chemical",
       "low": 15.85,
-      "high": 418.0,
+      "high": 734.69,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Butyl Isobutyrate",
+      "category": "Synthetic Aroma Chemical",
+      "low": 57.36,
+      "high": 57.36,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -1494,7 +2004,7 @@
     {
       "name": "Butylated Hydroxy Toluene (BHT)",
       "category": "Synthetic Aroma Chemical",
-      "low": 15.0,
+      "low": 10.11,
       "high": 198.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -1524,7 +2034,7 @@
     {
       "name": "CARDAMOM ABSOLUTE",
       "category": "Absolute",
-      "low": 1493.0,
+      "low": 239.0,
       "high": 1613.5,
       "commodity": "Cardamom",
       "region": "India",
@@ -1532,11 +2042,111 @@
       "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event)."
     },
     {
+      "name": "CASCALONE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1935.0,
+      "high": 3287.5,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CASCARILLA OIL ARR",
+      "category": "Essential Oil",
+      "low": 4000.0,
+      "high": 4000.0,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CASSIE ABS",
+      "category": "Absolute",
+      "low": 670.0,
+      "high": 7340.0,
+      "commodity": "No major public future",
+      "region": "Morocco",
+      "flag": false,
+      "notes": "No acute 2026 event, but real ongoing STRUCTURAL supply risk: chronic multi-year drought reducing argan fruit yield, compounded by overharvesting and a fragmented supply chain that keeps farmgate prices volatile even as retail prices stay high."
+    },
+    {
       "name": "CASSIS ABSOLUTE",
       "category": "Absolute",
       "low": 8562.5,
       "high": 8562.5,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CASTOREUM ABS",
+      "category": "Absolute",
+      "low": 5770.0,
+      "high": 5770.0,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CEDRENE ALPHA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 132.65,
+      "high": 450.0,
+      "commodity": "Cedarwood Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CEDROXYDE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 112.35,
+      "high": 454.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CHAMOMILE ABS MATRICARIA NAT",
+      "category": "Absolute",
+      "low": 1359.5,
+      "high": 2760.0,
+      "commodity": "No major public future",
+      "region": "Egypt",
+      "flag": false,
+      "notes": "No acute supply/crop disruption identified. Real current logistics/compliance risk: mandatory digital customs system (Nafeza/ACI) can strand unfamiliar suppliers shipments at port for weeks with fines."
+    },
+    {
+      "name": "CHAMPAGNE FINE 70 NAT",
+      "category": "Natural Isolate",
+      "low": 2629.0,
+      "high": 2629.0,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CHAR OIL B NAT",
+      "category": "Essential Oil",
+      "low": 2550.0,
+      "high": 2550.0,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CINNAMON INF 68",
+      "category": "Synthetic Aroma Chemical",
+      "low": 573.6,
+      "high": 573.6,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -1556,6 +2166,16 @@
       "category": "Synthetic Aroma Chemical",
       "low": 255.0,
       "high": 255.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CINNAMYL FORMATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 105.0,
+      "high": 105.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -1602,11 +2222,171 @@
       "notes": null
     },
     {
+      "name": "CISTULATE   DO NOT USE IN NEW",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1210.0,
+      "high": 1210.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "CISTUS ABSOLUTE",
       "category": "Absolute",
-      "low": 999.0,
+      "low": 207.93,
       "high": 4210.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CITRAL DIMETHYLACETAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 149.38,
+      "high": 194.0,
+      "commodity": "Citronella Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CITRAL NAT EX LEMON 7360 ARR",
+      "category": "Natural Isolate",
+      "low": 1045.0,
+      "high": 1045.0,
+      "commodity": "Orange Juice",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CITRATHAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 72.97,
+      "high": 418.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CITRONELLYL PROPIONATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 36.73,
+      "high": 171.84,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CITRONELLYL TIGLATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 87.02,
+      "high": 717.0,
+      "commodity": "Citronella Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CITRONITRILE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 64.12,
+      "high": 89.62,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CITRONOVA 6000 ORANGE DIST KP",
+      "category": "Synthetic Aroma Chemical",
+      "low": 182.0,
+      "high": 1031.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CITROWANIL B",
+      "category": "Synthetic Aroma Chemical",
+      "low": 100.0,
+      "high": 100.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CIVETTONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 9968.0,
+      "high": 28437.5,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CLARITONE (Symrise 600285) DO NOT USE IN NEW",
+      "category": "Synthetic Aroma Chemical",
+      "low": 160.0,
+      "high": 770.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CLONAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 21.01,
+      "high": 150.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CLOVE TERPENES",
+      "category": "Essential Oil",
+      "low": 8.6,
+      "high": 8.6,
+      "commodity": "No major public future",
+      "region": "Madagascar",
+      "flag": false,
+      "notes": "Madagascar (Sava region, ~80% of world vanilla supply) hit by Cyclone Gezani, Feb 2026 - landfall as Cat 3 equivalent, ~$2B damage, 59 dead in-country. Came 10 days after Cyclone Fytia. Vanilla orchids take ~4 years to reach harvest, so repeated storm damage compounds across seasons. Clove (same Sava region) likely faces logistics/labor disruption even though the plant itself is less storm-fragile than vanilla vines."
+    },
+    {
+      "name": "CO-630 SURFACTANT(TERGITOL NP-9)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 9.01,
+      "high": 9.75,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "COCOA BEAN EXTR P",
+      "category": "Synthetic Aroma Chemical",
+      "low": 42.0,
+      "high": 175.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "COCOA BUTTER",
+      "category": "Synthetic Aroma Chemical",
+      "low": 46.0,
+      "high": 149.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -1617,6 +2397,216 @@
       "low": 1160.0,
       "high": 1160.0,
       "commodity": "Palm Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "COFFEE EXTR CONC HIGH ROAST 47 B",
+      "category": "Synthetic Aroma Chemical",
+      "low": 51.0,
+      "high": 2640.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": true,
+      "notes": null
+    },
+    {
+      "name": "CONIFERAN",
+      "category": "Synthetic Aroma Chemical",
+      "low": 86.64,
+      "high": 150.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "COOLACT P",
+      "category": "Synthetic Aroma Chemical",
+      "low": 77.0,
+      "high": 221.67,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CORANOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 33.0,
+      "high": 446.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CORPS RACINE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 866.0,
+      "high": 1240.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CORPS RHUBARBE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 131.0,
+      "high": 329.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CORPS UA 1362",
+      "category": "Synthetic Aroma Chemical",
+      "low": 334.6,
+      "high": 334.6,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "COUMAREX DB",
+      "category": "Synthetic Aroma Chemical",
+      "low": 149.38,
+      "high": 222.27,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CREMOPHOR RH 40",
+      "category": "Synthetic Aroma Chemical",
+      "low": 12.19,
+      "high": 235.5,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CUMIN NITRILE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 688.0,
+      "high": 688.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CURGIX PURE (CPL# 01712)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1414.0,
+      "high": 1414.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CYASORB UV531",
+      "category": "Synthetic Aroma Chemical",
+      "low": 54.37,
+      "high": 54.37,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CYASORB UV5411",
+      "category": "Synthetic Aroma Chemical",
+      "low": 43.59,
+      "high": 43.59,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CYCLACET DIHYDRO",
+      "category": "Synthetic Aroma Chemical",
+      "low": 52.58,
+      "high": 52.58,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CYCLAPROP",
+      "category": "Synthetic Aroma Chemical",
+      "low": 6.19,
+      "high": 10.04,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CYCLEMONE A",
+      "category": "Synthetic Aroma Chemical",
+      "low": 47.0,
+      "high": 254.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CYCLOGERANIATE DE METH BRUT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 976.0,
+      "high": 976.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CYCLOMYRAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 112.33,
+      "high": 113.53,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CYCLONOL (3,5,5-Trimethyl Cyclohexanol)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 23.0,
+      "high": 23.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "CYCLOPIDENE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 284.0,
+      "high": 880.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Cade Oil",
+      "category": "Essential Oil",
+      "low": 57.36,
+      "high": 750.46,
+      "commodity": "No identified commodity proxy",
       "region": null,
       "flag": false,
       "notes": null
@@ -1642,11 +2632,31 @@
       "notes": null
     },
     {
+      "name": "Calamus",
+      "category": "Synthetic Aroma Chemical",
+      "low": 346.55,
+      "high": 346.55,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Calone 1951",
       "category": "Synthetic Aroma Chemical",
       "low": 359.0,
       "high": 886.0,
       "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Camellia Seed Oil P&N Organic",
+      "category": "Essential Oil",
+      "low": 98.0,
+      "high": 98.0,
+      "commodity": "No identified commodity proxy",
       "region": null,
       "flag": false,
       "notes": null
@@ -1664,7 +2674,7 @@
     {
       "name": "Camphor",
       "category": "Synthetic Aroma Chemical",
-      "low": 22.06,
+      "low": 16.61,
       "high": 268.75,
       "commodity": "Pine/Turpentine",
       "region": null,
@@ -1674,7 +2684,7 @@
     {
       "name": "Camphor Gum Natural",
       "category": "Natural Isolate",
-      "low": 208.0,
+      "low": 12.21,
       "high": 208.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -1686,6 +2696,16 @@
       "category": "Essential Oil",
       "low": 44.0,
       "high": 315.0,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Cananga Oil",
+      "category": "Essential Oil",
+      "low": 246.17,
+      "high": 246.17,
       "commodity": "No identified commodity proxy",
       "region": null,
       "flag": false,
@@ -1809,12 +2829,22 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply - a clove harvest year can temporarily reduce patchouli oil output as farmers redirect stills, and vice versa."
+      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply."
+    },
+    {
+      "name": "Cedarleaf Oil",
+      "category": "Essential Oil",
+      "low": 346.79,
+      "high": 346.79,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "Cedarwood Oil",
       "category": "Essential Oil",
-      "low": 85.0,
+      "low": 63.34,
       "high": 319.0,
       "commodity": "Lumber futures",
       "region": null,
@@ -1824,7 +2854,7 @@
     {
       "name": "Cedarwood Oil Atlas",
       "category": "Essential Oil",
-      "low": 131.25,
+      "low": 40.63,
       "high": 198.0,
       "commodity": "Lumber futures",
       "region": null,
@@ -1844,7 +2874,7 @@
     {
       "name": "Cedarwood Oil White",
       "category": "Essential Oil",
-      "low": 85.0,
+      "low": 58.32,
       "high": 285.0,
       "commodity": "Lumber futures",
       "region": null,
@@ -1865,7 +2895,7 @@
       "name": "Cedrenyl Acetate",
       "category": "Synthetic Aroma Chemical",
       "low": 34.3,
-      "high": 48.04,
+      "high": 174.47,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": false,
@@ -1884,7 +2914,7 @@
     {
       "name": "Cedryl Acetate 50%",
       "category": "Synthetic Aroma Chemical",
-      "low": 95.0,
+      "low": 34.3,
       "high": 95.0,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
@@ -1894,8 +2924,8 @@
     {
       "name": "Cedryl Methyl Ether",
       "category": "Synthetic Aroma Chemical",
-      "low": 70.74,
-      "high": 70.74,
+      "low": 50.26,
+      "high": 80.23,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -1939,13 +2969,23 @@
       "commodity": "No major public future",
       "region": "Egypt",
       "flag": false,
-      "notes": "No acute supply/crop disruption identified. Real current logistics/compliance risk: Egypt requires a mandatory digital customs system (Nafeza/ACI) for all imports and exports as of 2026 - shipments from suppliers unfamiliar with the system can be held at port for weeks with fines, risking spoilage of perishable aromatics. This is a supplier-competence/logistics risk rather than a price-driving event."
+      "notes": "No acute supply/crop disruption identified. Real current logistics/compliance risk: mandatory digital customs system (Nafeza/ACI) can strand unfamiliar suppliers shipments at port for weeks with fines."
+    },
+    {
+      "name": "Chamomile Syn OLIFFAC \"N&A\"",
+      "category": "Synthetic Aroma Chemical",
+      "low": 35.73,
+      "high": 45.17,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "Cinnamaldehyde",
       "category": "Synthetic Aroma Chemical",
       "low": 8.37,
-      "high": 340.0,
+      "high": 402.95,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -1954,7 +2994,7 @@
     {
       "name": "Cinnamalua (Cinnamyl Nitrile)",
       "category": "Synthetic Aroma Chemical",
-      "low": 143.0,
+      "low": 38.24,
       "high": 143.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -1964,8 +3004,8 @@
     {
       "name": "Cinnamic Alcohol",
       "category": "Synthetic Aroma Chemical",
-      "low": 21.0,
-      "high": 596.0,
+      "low": 16.25,
+      "high": 788.7,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -1974,12 +3014,12 @@
     {
       "name": "Cinnamon Bark Oil",
       "category": "Essential Oil",
-      "low": 72.0,
+      "low": 57.36,
       "high": 1063.55,
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply - a clove harvest year can temporarily reduce patchouli oil output as farmers redirect stills, and vice versa."
+      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply."
     },
     {
       "name": "Cinnamyl Cinnamate",
@@ -2002,10 +3042,20 @@
       "notes": null
     },
     {
+      "name": "Cipriol  / Cypriol \"P&N\"",
+      "category": "Synthetic Aroma Chemical",
+      "low": 758.0,
+      "high": 758.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Cis 3 Hexenol",
       "category": "Synthetic Aroma Chemical",
       "low": 130.73,
-      "high": 1308.0,
+      "high": 1673.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -2124,7 +3174,7 @@
     {
       "name": "Citral Ex Litsea(Citral )",
       "category": "Synthetic Aroma Chemical",
-      "low": 22.0,
+      "low": 17.21,
       "high": 310.0,
       "commodity": "Citronella Oil",
       "region": null,
@@ -2134,7 +3184,7 @@
     {
       "name": "Citronella Java",
       "category": "Synthetic Aroma Chemical",
-      "low": 63.0,
+      "low": 35.61,
       "high": 191.5,
       "commodity": "Citronella Oil",
       "region": null,
@@ -2154,7 +3204,7 @@
     {
       "name": "Citronellol 80",
       "category": "Synthetic Aroma Chemical",
-      "low": 25.0,
+      "low": 21.03,
       "high": 555.0,
       "commodity": "Citronella Oil",
       "region": null,
@@ -2164,8 +3214,8 @@
     {
       "name": "Citronelly Isobutyrate",
       "category": "Synthetic Aroma Chemical",
-      "low": 55.0,
-      "high": 55.0,
+      "low": 36.73,
+      "high": 59.75,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -2204,7 +3254,7 @@
     {
       "name": "Clary Sage Oil",
       "category": "Essential Oil",
-      "low": 594.0,
+      "low": 227.05,
       "high": 7330.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -2214,8 +3264,18 @@
     {
       "name": "Clove Bud Oil",
       "category": "Essential Oil",
-      "low": 48.0,
+      "low": 43.5,
       "high": 420.0,
+      "commodity": "No major public future",
+      "region": "Madagascar",
+      "flag": false,
+      "notes": "Madagascar (Sava region, ~80% of world vanilla supply) hit by Cyclone Gezani, Feb 2026 - landfall as Cat 3 equivalent, ~$2B damage, 59 dead in-country. Came 10 days after Cyclone Fytia. Vanilla orchids take ~4 years to reach harvest, so repeated storm damage compounds across seasons. Clove (same Sava region) likely faces logistics/labor disruption even though the plant itself is less storm-fragile than vanilla vines."
+    },
+    {
+      "name": "Clove Stem Oil FCC  *RIFM* \"P&N\"",
+      "category": "Essential Oil",
+      "low": 56.17,
+      "high": 56.17,
       "commodity": "No major public future",
       "region": "Madagascar",
       "flag": false,
@@ -2224,12 +3284,42 @@
     {
       "name": "Coriander Herb Oil (Cilantro Oil)",
       "category": "Essential Oil",
-      "low": 620.0,
+      "low": 358.5,
       "high": 875.0,
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
       "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event)."
+    },
+    {
+      "name": "Cornmint Oil",
+      "category": "Essential Oil",
+      "low": 37.88,
+      "high": 44.81,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Cornmint Terpenes",
+      "category": "Essential Oil",
+      "low": 28.68,
+      "high": 28.68,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Cosmone",
+      "category": "Synthetic Aroma Chemical",
+      "low": 2318.0,
+      "high": 2318.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "Coumarin",
@@ -2284,7 +3374,7 @@
     {
       "name": "Cyclamen Aldehyde",
       "category": "Synthetic Aroma Chemical",
-      "low": 32.0,
+      "low": 30.95,
       "high": 179.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -2334,7 +3424,7 @@
     {
       "name": "Cypress Oil",
       "category": "Essential Oil",
-      "low": 168.0,
+      "low": 100.14,
       "high": 396.0,
       "commodity": "No major public future",
       "region": "India",
@@ -2364,9 +3454,189 @@
     {
       "name": "D-Limonene",
       "category": "Synthetic Aroma Chemical",
-      "low": 39.0,
+      "low": 13.03,
       "high": 340.0,
       "commodity": "Pine/Turpentine",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DAMASCOL-4  Do Not Use in New",
+      "category": "Synthetic Aroma Chemical",
+      "low": 690.0,
+      "high": 690.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DATILAT  Do not use in new",
+      "category": "Synthetic Aroma Chemical",
+      "low": 125.0,
+      "high": 296.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DECATONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 2329.0,
+      "high": 2329.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DELPHOL HC\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 53.0,
+      "high": 102.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DELPHONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 45.0,
+      "high": 186.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DIHYDRO ISOJASMONATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 136.23,
+      "high": 136.23,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DIHYDROMYRCENYL ACETATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 34.01,
+      "high": 202.03,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DIHYDROTERPINYL ACETATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 25.0,
+      "high": 46.37,
+      "commodity": "Pine/Turpentine",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DIMETHYL BENZYL CARBINYL PROPIONATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 22.9,
+      "high": 164.91,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DIMETHYL OCTENONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 336.0,
+      "high": 538.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DIMYRCETOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 47.44,
+      "high": 87.22,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DIOXYCARBINOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 341.0,
+      "high": 418.25,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DIPG METHYL ETHER ACETATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 10.32,
+      "high": 15.7,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DIPG MONOMETHYL ETHER",
+      "category": "Synthetic Aroma Chemical",
+      "low": 9.08,
+      "high": 16.35,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DODECENAL MIX",
+      "category": "Synthetic Aroma Chemical",
+      "low": 60.9,
+      "high": 478.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DOREMOX\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 114.0,
+      "high": 790.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DORYSANE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 188.0,
+      "high": 515.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "DYNASCONE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 975.0,
+      "high": 1692.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -2385,7 +3655,7 @@
       "name": "Davana Oil",
       "category": "Essential Oil",
       "low": 1869.5,
-      "high": 2538.0,
+      "high": 3250.4,
       "commodity": "No major public future",
       "region": null,
       "flag": false,
@@ -2394,11 +3664,11 @@
     {
       "name": "Delta 3 Carene",
       "category": "Synthetic Aroma Chemical",
-      "low": 21.0,
+      "low": 6.43,
       "high": 340.0,
       "commodity": "Pine/Turpentine",
       "region": null,
-      "flag": false,
+      "flag": true,
       "notes": null
     },
     {
@@ -2494,7 +3764,7 @@
     {
       "name": "Diethyl Hexyl Adipate",
       "category": "Synthetic Aroma Chemical",
-      "low": 122.0,
+      "low": 6.57,
       "high": 122.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -2514,7 +3784,7 @@
     {
       "name": "Diethyl Phthalate",
       "category": "Synthetic Aroma Chemical",
-      "low": 9.0,
+      "low": 4.33,
       "high": 9.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -2566,6 +3836,16 @@
       "category": "Synthetic Aroma Chemical",
       "low": 84.0,
       "high": 450.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Dihydro Jasmone (3-Methyl-pentyl-2-cylcopentenone)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 121.32,
+      "high": 149.38,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -2634,8 +3914,8 @@
     {
       "name": "Dimethyl Anthranilate",
       "category": "Synthetic Aroma Chemical",
-      "low": 83.0,
-      "high": 504.0,
+      "low": 54.85,
+      "high": 597.5,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -2646,6 +3926,16 @@
       "category": "Synthetic Aroma Chemical",
       "low": 19.48,
       "high": 395.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Dimethyl Benzyl Carbinol Isobutyrate",
+      "category": "Synthetic Aroma Chemical",
+      "low": 107.0,
+      "high": 260.51,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -2732,6 +4022,26 @@
       "notes": null
     },
     {
+      "name": "Dioctyl Tere Phthalate  DOTP  DO NOT USE IN NEW",
+      "category": "Synthetic Aroma Chemical",
+      "low": 10.49,
+      "high": 10.49,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Dipentene 5100",
+      "category": "Synthetic Aroma Chemical",
+      "low": 5.66,
+      "high": 5.66,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Dipentene P.G.",
       "category": "Synthetic Aroma Chemical",
       "low": 43.0,
@@ -2764,7 +4074,7 @@
     {
       "name": "Dipropylene Glycol",
       "category": "Synthetic Aroma Chemical",
-      "low": 27.0,
+      "low": 5.47,
       "high": 42.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -2792,6 +4102,36 @@
       "notes": null
     },
     {
+      "name": "Dupical",
+      "category": "Synthetic Aroma Chemical",
+      "low": 362.97,
+      "high": 1686.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "EDENOLIDE (IFF #00012375)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 485.0,
+      "high": 485.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "EICOSANE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 343.0,
+      "high": 343.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "ETHYL 2-METHYLBUTYRATE",
       "category": "Synthetic Aroma Chemical",
       "low": 17.42,
@@ -2804,7 +4144,7 @@
     {
       "name": "ETHYL 2-METHYLPENTANOATE (MANZANATE)",
       "category": "Synthetic Aroma Chemical",
-      "low": 25.0,
+      "low": 15.68,
       "high": 340.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -2822,11 +4162,41 @@
       "notes": null
     },
     {
+      "name": "ETHYL DAMASCENATE FIRINC 940846 -captive",
+      "category": "Synthetic Aroma Chemical",
+      "low": 167.68,
+      "high": 600.08,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "EUGENYL ACETATE, NATURAL",
       "category": "Natural Isolate",
       "low": 55.62,
       "high": 735.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "EXALTENONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 11355.0,
+      "high": 11355.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "EXALTONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 7456.0,
+      "high": 7456.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -2844,12 +4214,12 @@
     {
       "name": "Elemi Oil",
       "category": "Essential Oil",
-      "low": 356.0,
+      "low": 42.42,
       "high": 995.0,
       "commodity": "No major public future",
       "region": "Philippines",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Elemi sourcing is a long-standing, stable smallholder-tapped resin trade (Canarium luzonicum) - no current event flagged."
+      "notes": "No acute disruption identified as of June 2026. Elemi sourcing is a long-standing, stable smallholder-tapped resin trade."
     },
     {
       "name": "Elintaal",
@@ -2922,6 +4292,16 @@
       "notes": null
     },
     {
+      "name": "Ethyl Alcohol  / PG Blend 45/55 GRAS  Shake before use",
+      "category": "Synthetic Aroma Chemical",
+      "low": 47.44,
+      "high": 87.22,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Ethyl Amyl Ketone",
       "category": "Synthetic Aroma Chemical",
       "low": 71.92,
@@ -2974,7 +4354,7 @@
     {
       "name": "Ethyl Caprate",
       "category": "Synthetic Aroma Chemical",
-      "low": 21.0,
+      "low": 14.08,
       "high": 169.0,
       "commodity": "Palm Oil / Coconut Oil",
       "region": null,
@@ -3114,7 +4494,7 @@
     {
       "name": "Ethyl Maltol",
       "category": "Synthetic Aroma Chemical",
-      "low": 102.0,
+      "low": 2.39,
       "high": 107.0,
       "commodity": "Corn",
       "region": null,
@@ -3264,7 +4644,7 @@
     {
       "name": "Eucalyptus Citriodora Brazil",
       "category": "Essential Oil",
-      "low": 94.0,
+      "low": 41.83,
       "high": 94.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -3274,8 +4654,8 @@
     {
       "name": "Eucalyptus Oil",
       "category": "Essential Oil",
-      "low": 47.0,
-      "high": 238.0,
+      "low": 25.1,
+      "high": 423.03,
       "commodity": "No identified commodity proxy",
       "region": null,
       "flag": false,
@@ -3292,6 +4672,26 @@
       "notes": null
     },
     {
+      "name": "FENCHONE ALPHA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 130.25,
+      "high": 130.25,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FENUGREEK ABSOLUTE",
+      "category": "Absolute",
+      "low": 1457.9,
+      "high": 1457.9,
+      "commodity": "Fenugreek",
+      "region": "India",
+      "flag": false,
+      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event)."
+    },
+    {
       "name": "FENUGREEK ABSOLUTE",
       "category": "Absolute",
       "low": 42.0,
@@ -3300,6 +4700,136 @@
       "region": "India",
       "flag": false,
       "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event)."
+    },
+    {
+      "name": "FIRASCONE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 643.0,
+      "high": 946.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FIRSANTOL HEXYLENEGLYCOL TBMIX",
+      "category": "Synthetic Aroma Chemical",
+      "low": 7.29,
+      "high": 17.85,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FIRSANTOL\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 927.0,
+      "high": 1492.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FLEURAMONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 69.96,
+      "high": 106.59,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FLEURVERT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 48.8,
+      "high": 130.25,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FLORAL SUPER",
+      "category": "Synthetic Aroma Chemical",
+      "low": 425.71,
+      "high": 425.71,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FLORALATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 68.45,
+      "high": 182.36,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FLORANTONE T",
+      "category": "Synthetic Aroma Chemical",
+      "low": 214.5,
+      "high": 214.5,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FLORHYDRAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 141.27,
+      "high": 460.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FLOROPAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 32.19,
+      "high": 395.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FRUCTALATE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 22.0,
+      "high": 184.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FRUITATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 121.32,
+      "high": 194.78,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "FRUTINAT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 48.8,
+      "high": 100.38,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "Farnesol Synthetic",
@@ -3324,7 +4854,7 @@
     {
       "name": "Fennel Oil Sweet",
       "category": "Essential Oil",
-      "low": 171.0,
+      "low": 109.94,
       "high": 900.0,
       "commodity": "No major public future",
       "region": "India",
@@ -3336,6 +4866,26 @@
       "category": "Absolute",
       "low": 1500.0,
       "high": 1500.0,
+      "commodity": "Lumber futures",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Fir Needle Oil Canada \"P&N\"",
+      "category": "Essential Oil",
+      "low": 132.5,
+      "high": 278.0,
+      "commodity": "Lumber futures",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Fir Needle Oil Canadian",
+      "category": "Essential Oil",
+      "low": 1529.6,
+      "high": 1529.6,
       "commodity": "Lumber futures",
       "region": null,
       "flag": false,
@@ -3402,6 +4952,16 @@
       "notes": null
     },
     {
+      "name": "Frescile (3-Methyldodecanonitrile)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1164.0,
+      "high": 1164.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Fructone",
       "category": "Synthetic Aroma Chemical",
       "low": 9.87,
@@ -3414,7 +4974,7 @@
     {
       "name": "Furaneol 15% PG",
       "category": "Synthetic Aroma Chemical",
-      "low": 195.0,
+      "low": 188.81,
       "high": 464.0,
       "commodity": "Corn",
       "region": null,
@@ -3444,9 +5004,39 @@
     {
       "name": "Fusel Oil",
       "category": "Essential Oil",
-      "low": 71.0,
+      "low": 28.68,
       "high": 71.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "GAIACARB",
+      "category": "Synthetic Aroma Chemical",
+      "low": 176.0,
+      "high": 620.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "GELSONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 172.08,
+      "high": 178.06,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "GEOSMIN",
+      "category": "Synthetic Aroma Chemical",
+      "low": 11580.0,
+      "high": 11580.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -3455,8 +5045,48 @@
       "name": "GERANYL ACETATE, NATURAL EU BESTALLY",
       "category": "Natural Isolate",
       "low": 22.94,
-      "high": 403.0,
+      "high": 573.6,
       "commodity": "Varies by parent oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "GINGER P GRND",
+      "category": "Synthetic Aroma Chemical",
+      "low": 452.0,
+      "high": 452.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "GIVESCONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 365.0,
+      "high": 596.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "GLYCOLIERRAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 266.0,
+      "high": 784.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "GRISALVA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1504.0,
+      "high": 1504.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -3474,7 +5104,7 @@
     {
       "name": "GURJUN BALSAM (GURJUNENE) MD",
       "category": "Essential Oil",
-      "low": 95.0,
+      "low": 24.93,
       "high": 95.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -3482,14 +5112,24 @@
       "notes": null
     },
     {
+      "name": "GYRANE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 255.0,
+      "high": 255.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Galbanum Oil",
       "category": "Essential Oil",
-      "low": 1240.0,
+      "low": 334.6,
       "high": 2062.5,
       "commodity": "No major public future",
       "region": "Iran",
       "flag": false,
-      "notes": "No current sourcing-specific disruption identified via search. Iran is a long-standing source of Galbanum resin; general awareness of US/Western sanctions on Iran remains a standing background risk for any Iran-origin trade, but no Galbanum-specific 2026 disruption was found in this pass - worth a follow-up search with different terms if this material matters significantly to your sourcing."
+      "notes": "No current sourcing-specific disruption identified via search. General awareness of US/Western sanctions on Iran remains a standing background risk for Iran-origin trade."
     },
     {
       "name": "Gamma Butyrolactone",
@@ -3564,7 +5204,7 @@
     {
       "name": "Gamma Methyl Ionone",
       "category": "Synthetic Aroma Chemical",
-      "low": 145.5,
+      "low": 28.44,
       "high": 145.5,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
@@ -3594,8 +5234,8 @@
     {
       "name": "Gamma Undecalactone(C-14)",
       "category": "Synthetic Aroma Chemical",
-      "low": 23.0,
-      "high": 189.0,
+      "low": 16.87,
+      "high": 236.61,
       "commodity": "Palm Oil / Coconut Oil",
       "region": null,
       "flag": false,
@@ -3607,6 +5247,16 @@
       "low": 91.0,
       "high": 548.0,
       "commodity": "Palm Oil / Coconut Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Gardamide",
+      "category": "Synthetic Aroma Chemical",
+      "low": 588.0,
+      "high": 588.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -3624,7 +5274,7 @@
     {
       "name": "Geraniol 60%",
       "category": "Synthetic Aroma Chemical",
-      "low": 21.69,
+      "low": 18.64,
       "high": 278.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -3639,7 +5289,17 @@
       "commodity": "No major public future",
       "region": "China",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Geranium oil production concentrated in Yunnan Province (China is the world's largest producer) - normal seasonal trade, no current event flagged."
+      "notes": "No acute disruption identified as of June 2026. Geranium oil production concentrated in Yunnan Province (China is the world's largest producer) - normal seasonal trade."
+    },
+    {
+      "name": "Geranodyle (Reaction Mixture)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 185.0,
+      "high": 185.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "Geranyl Acetone",
@@ -3704,8 +5364,8 @@
     {
       "name": "Geranyl iso Butyrate",
       "category": "Synthetic Aroma Chemical",
-      "low": 57.0,
-      "high": 57.0,
+      "low": 33.7,
+      "high": 107.55,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -3717,6 +5377,16 @@
       "low": 94.0,
       "high": 705.0,
       "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Germacrene D Natural",
+      "category": "Natural Isolate",
+      "low": 1312.0,
+      "high": 1312.0,
+      "commodity": "No identified commodity proxy",
       "region": null,
       "flag": false,
       "notes": null
@@ -3754,8 +5424,18 @@
     {
       "name": "Grapefruit Flower Oil",
       "category": "Essential Oil",
-      "low": 218.0,
+      "low": 49.0,
       "high": 532.25,
+      "commodity": "Orange Juice",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Grapefruit Oil Terpenes",
+      "category": "Essential Oil",
+      "low": 27.49,
+      "high": 27.49,
       "commodity": "Orange Juice",
       "region": null,
       "flag": false,
@@ -3779,7 +5459,47 @@
       "commodity": "No major public future",
       "region": "Paraguay",
       "flag": false,
-      "notes": "No acute disruption identified. Structural/regulatory note: Guaiacwood (the primary Paraguay-sourced material here) is CITES-restricted due to historical overharvesting of the Bulnesia sarmienti tree - this caps/regulates available supply by design, distinct from a market shock, but worth knowing as a standing constraint on volume."
+      "notes": "No acute disruption identified. Guaiacwood is CITES-restricted due to historical overharvesting - caps available supply by design, distinct from a market shock."
+    },
+    {
+      "name": "HABANOLIDE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 56.0,
+      "high": 153.5,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HELIOTROPYL ACETATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 370.45,
+      "high": 537.75,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HELVETOLIDE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 305.0,
+      "high": 497.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HEPTADECANE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 391.0,
+      "high": 391.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "HEPTYL ACETATE, NATURAL",
@@ -3787,6 +5507,86 @@
       "low": 45.0,
       "high": 45.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HERBANATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 295.21,
+      "high": 301.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HERBOXANE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 32.19,
+      "high": 254.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HEXADECANOLIDE (DihydroAmbrettolide) (Store at Room Temp)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 4295.0,
+      "high": 4295.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HEXYL BENZOATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 61.0,
+      "high": 236.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HEXYL FORMATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 98.0,
+      "high": 98.0,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HIVERNAL BRUT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 685.0,
+      "high": 685.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HYACINTH BODY 3",
+      "category": "Synthetic Aroma Chemical",
+      "low": 51.67,
+      "high": 271.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "HYDRATROPIC ALCOHOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 104.06,
+      "high": 104.08,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -3824,7 +5624,7 @@
     {
       "name": "Helichrysum Oil",
       "category": "Essential Oil",
-      "low": 3488.5,
+      "low": 1536.25,
       "high": 4330.0,
       "commodity": "No major public future",
       "region": null,
@@ -3835,7 +5635,7 @@
       "name": "Heliotropin",
       "category": "Synthetic Aroma Chemical",
       "low": 46.75,
-      "high": 1933.0,
+      "high": 2186.85,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -3855,7 +5655,7 @@
       "name": "Hexyl Acetate",
       "category": "Synthetic Aroma Chemical",
       "low": 10.64,
-      "high": 196.0,
+      "high": 442.39,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": false,
@@ -3894,7 +5694,7 @@
     {
       "name": "Hexyl Isobutyrate",
       "category": "Synthetic Aroma Chemical",
-      "low": 40.0,
+      "low": 20.58,
       "high": 40.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -3934,17 +5734,17 @@
     {
       "name": "Ho Leaf Oil",
       "category": "Essential Oil",
-      "low": 239.0,
+      "low": 72.3,
       "high": 239.0,
       "commodity": "No major public future",
       "region": "China",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Geranium oil production concentrated in Yunnan Province (China is the world's largest producer) - normal seasonal trade, no current event flagged."
+      "notes": "No acute disruption identified as of June 2026. Geranium oil production concentrated in Yunnan Province (China is the world's largest producer) - normal seasonal trade."
     },
     {
       "name": "Hydratropic Aldehyde Dimethyl Acetal",
       "category": "Synthetic Aroma Chemical",
-      "low": 515.0,
+      "low": 62.5,
       "high": 515.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -3992,10 +5792,180 @@
       "notes": null
     },
     {
+      "name": "IFFOCIMENE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 207.93,
+      "high": 2891.9,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "IMBENTIN 70",
+      "category": "Synthetic Aroma Chemical",
+      "low": 15.61,
+      "high": 20.08,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "INDOCOLORE TOP",
+      "category": "Synthetic Aroma Chemical",
+      "low": 667.0,
+      "high": 1480.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "INDOLENE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 446.0,
+      "high": 446.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "INDOMETHYLENE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 99.42,
+      "high": 248.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "IRISNITRILE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1560.0,
+      "high": 1560.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "IRONE ALPHA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 3368.75,
+      "high": 3368.75,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ISO CYCLO GERANIOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 100.38,
+      "high": 109.94,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ISO DAMASCONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 626.0,
+      "high": 626.0,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ISOBUTYL QUINOLINE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 215.41,
+      "high": 1990.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ISOBUTYL QUINOLINE G",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1125.0,
+      "high": 1125.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ISOFRESHAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 528.0,
+      "high": 528.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ISOPAR H NOV",
+      "category": "Synthetic Aroma Chemical",
+      "low": 8.22,
+      "high": 14.58,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ISOPAR L",
+      "category": "Synthetic Aroma Chemical",
+      "low": 8.15,
+      "high": 20.2,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ISOPHYTOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 199.0,
+      "high": 306.92,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "ISOPROPYL 2-METHYLBUTYRATE",
       "category": "Synthetic Aroma Chemical",
-      "low": 103.0,
+      "low": 60.3,
       "high": 640.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ISOPROPYL QUINOLINE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1179.0,
+      "high": 1269.59,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ISOSTEARYL ALCOHOL NOV",
+      "category": "Synthetic Aroma Chemical",
+      "low": 61.92,
+      "high": 61.92,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -4054,7 +6024,7 @@
     {
       "name": "Iso E Super",
       "category": "Synthetic Aroma Chemical",
-      "low": 44.0,
+      "low": 18.24,
       "high": 883.33,
       "commodity": "Crude Oil",
       "region": null,
@@ -4084,7 +6054,7 @@
     {
       "name": "Iso Valeraldehyde",
       "category": "Synthetic Aroma Chemical",
-      "low": 105.0,
+      "low": 11.95,
       "high": 105.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -4104,7 +6074,7 @@
     {
       "name": "IsoMenthone",
       "category": "Synthetic Aroma Chemical",
-      "low": 495.0,
+      "low": 71.7,
       "high": 495.0,
       "commodity": "Mint Oil",
       "region": null,
@@ -4112,9 +6082,19 @@
       "notes": null
     },
     {
+      "name": "IsoPropyl Palmitate",
+      "category": "Synthetic Aroma Chemical",
+      "low": 18.0,
+      "high": 18.0,
+      "commodity": "Palm Oil / Coconut Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Isoamyl Acetate",
       "category": "Synthetic Aroma Chemical",
-      "low": 21.0,
+      "low": 6.98,
       "high": 340.0,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
@@ -4124,7 +6104,7 @@
     {
       "name": "Isoamyl Benzoate",
       "category": "Synthetic Aroma Chemical",
-      "low": 45.0,
+      "low": 10.13,
       "high": 45.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -4184,7 +6164,7 @@
     {
       "name": "Isobornyl Acetate",
       "category": "Synthetic Aroma Chemical",
-      "low": 150.0,
+      "low": 10.76,
       "high": 150.0,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
@@ -4294,8 +6274,28 @@
     {
       "name": "Isoeugenol",
       "category": "Synthetic Aroma Chemical",
-      "low": 60.0,
+      "low": 57.77,
       "high": 790.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Isononyl Aldehyde",
+      "category": "Synthetic Aroma Chemical",
+      "low": 227.05,
+      "high": 227.05,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Isoproponal",
+      "category": "Synthetic Aroma Chemical",
+      "low": 5.11,
+      "high": 6.62,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -4304,7 +6304,7 @@
     {
       "name": "Isopropyl Myristate",
       "category": "Synthetic Aroma Chemical",
-      "low": 18.0,
+      "low": 9.32,
       "high": 18.0,
       "commodity": "Palm Oil / Coconut Oil",
       "region": null,
@@ -4332,9 +6332,19 @@
       "notes": null
     },
     {
+      "name": "JASMATONE  (Dihydro isojasmone)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 211.0,
+      "high": 394.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "JASMINE ABSOLUTE",
       "category": "Absolute",
-      "low": 6425.0,
+      "low": 4416.5,
       "high": 12190.0,
       "commodity": "No major public future",
       "region": "India",
@@ -4362,6 +6372,26 @@
       "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event)."
     },
     {
+      "name": "JASMINLACTONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 4940.0,
+      "high": 4940.0,
+      "commodity": "Palm Oil / Coconut Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "JASMOLACTONE DELTA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1391.0,
+      "high": 2755.0,
+      "commodity": "Palm Oil / Coconut Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "JOJOBA OIL",
       "category": "Essential Oil",
       "low": 40.63,
@@ -4369,7 +6399,7 @@
       "commodity": "No major public future",
       "region": "Argentina",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Argentina is a minor/secondary source for materials like Jojoba and Guaiacwood (the latter primarily sourced from Paraguay) - no current event flagged."
+      "notes": "No acute disruption identified as of June 2026. Minor/secondary source for materials like Jojoba."
     },
     {
       "name": "JUNIPERBERRY OIL, RECTIFIED EXTRA",
@@ -4384,7 +6414,7 @@
     {
       "name": "Jasmal / Jorasmin Plus",
       "category": "Synthetic Aroma Chemical",
-      "low": 138.0,
+      "low": 64.12,
       "high": 220.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -4412,10 +6442,60 @@
       "notes": null
     },
     {
+      "name": "KARANAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 315.48,
+      "high": 592.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "KOAVONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 34.25,
+      "high": 55.45,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "KOHINOOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 89.62,
+      "high": 430.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "KOHINOOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 89.62,
+      "high": 89.62,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Kephalis",
       "category": "Synthetic Aroma Chemical",
       "low": 99.0,
       "high": 237.5,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Ketone 101",
+      "category": "Synthetic Aroma Chemical",
+      "low": 19.36,
+      "high": 38.24,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -4432,11 +6512,111 @@
       "notes": null
     },
     {
+      "name": "L-MENTHYL ACETATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 47.8,
+      "high": 107.55,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LACTONE OF CIS JASMONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1315.0,
+      "high": 1315.0,
+      "commodity": "Palm Oil / Coconut Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LAEVO MENTHONE FCC",
+      "category": "Synthetic Aroma Chemical",
+      "low": 45.41,
+      "high": 74.09,
+      "commodity": "Mint Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LAUREL LEAF OIL  P&N",
+      "category": "Essential Oil",
+      "low": 1633.33,
+      "high": 1633.33,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "LEMON OIL, PESTICIDE FREE",
       "category": "Essential Oil",
-      "low": 33.0,
+      "low": 19.26,
       "high": 385.0,
       "commodity": "Orange Juice",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LEMON OIL, PESTICIDE FREE",
+      "category": "Essential Oil",
+      "low": 9.56,
+      "high": 9.56,
+      "commodity": "Orange Juice",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LILYFLORE CRUDE CONC",
+      "category": "Synthetic Aroma Chemical",
+      "low": 594.0,
+      "high": 594.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LIME OIL TAHITI CP BIOCITRUS",
+      "category": "Essential Oil",
+      "low": 1366.67,
+      "high": 1366.67,
+      "commodity": "Orange Juice",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LIME OXIDE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 242.0,
+      "high": 660.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LIMETOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 183.0,
+      "high": 421.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LINALOOL OXIDE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 89.6,
+      "high": 119.5,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -4447,6 +6627,36 @@
       "low": 21.99,
       "high": 518.0,
       "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LINALYL CINNAMATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 846.0,
+      "high": 846.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "LONGIFOLENE 60",
+      "category": "Synthetic Aroma Chemical",
+      "low": 28.18,
+      "high": 69.31,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Laevo Borneol",
+      "category": "Synthetic Aroma Chemical",
+      "low": 57.36,
+      "high": 130.25,
+      "commodity": "Pine/Turpentine",
       "region": null,
       "flag": false,
       "notes": null
@@ -4464,7 +6674,7 @@
     {
       "name": "Lantral/Triplal",
       "category": "Synthetic Aroma Chemical",
-      "low": 21.0,
+      "low": 19.36,
       "high": 196.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -4484,7 +6694,7 @@
     {
       "name": "Lavandin Grosso",
       "category": "Essential Oil",
-      "low": 177.5,
+      "low": 45.63,
       "high": 992.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -4494,7 +6704,7 @@
     {
       "name": "Lavender Absolute Bulgarian",
       "category": "Absolute",
-      "low": 574.0,
+      "low": 117.11,
       "high": 1388.0,
       "commodity": "No major public future",
       "region": null,
@@ -4504,7 +6714,7 @@
     {
       "name": "Lavender Oil Spike",
       "category": "Essential Oil",
-      "low": 366.5,
+      "low": 313.09,
       "high": 366.5,
       "commodity": "No major public future",
       "region": null,
@@ -4514,7 +6724,7 @@
     {
       "name": "Laveo Carvone",
       "category": "Synthetic Aroma Chemical",
-      "low": 65.0,
+      "low": 23.9,
       "high": 440.0,
       "commodity": "Mint Oil",
       "region": null,
@@ -4544,12 +6754,12 @@
     {
       "name": "Lemongrass Oil",
       "category": "Essential Oil",
-      "low": 83.0,
+      "low": 69.19,
       "high": 628.0,
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply - a clove harvest year can temporarily reduce patchouli oil output as farmers redirect stills, and vice versa."
+      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply."
     },
     {
       "name": "Lemonile",
@@ -4584,7 +6794,7 @@
     {
       "name": "Liliphenal(Bourgeonal)",
       "category": "Synthetic Aroma Chemical",
-      "low": 168.0,
+      "low": 143.4,
       "high": 288.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -4594,8 +6804,8 @@
     {
       "name": "Lily Aldehyde",
       "category": "Synthetic Aroma Chemical",
-      "low": 21.0,
-      "high": 21.0,
+      "low": 14.82,
+      "high": 23.78,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -4604,8 +6814,18 @@
     {
       "name": "Lime Distilled",
       "category": "Essential Oil",
-      "low": 165.0,
+      "low": 78.87,
       "high": 996.0,
+      "commodity": "Orange Juice",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Lime Expressed Terpenes",
+      "category": "Essential Oil",
+      "low": 19.26,
+      "high": 78.87,
       "commodity": "Orange Juice",
       "region": null,
       "flag": false,
@@ -4624,7 +6844,7 @@
     {
       "name": "Linalool Oxide",
       "category": "Synthetic Aroma Chemical",
-      "low": 89.6,
+      "low": 50.31,
       "high": 412.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -4662,20 +6882,160 @@
       "notes": null
     },
     {
+      "name": "Linpar 1416-V   Sasol",
+      "category": "Synthetic Aroma Chemical",
+      "low": 7.36,
+      "high": 7.36,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Litsea Cubeba Oil",
       "category": "Essential Oil",
-      "low": 104.0,
+      "low": 21.15,
       "high": 465.0,
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply - a clove harvest year can temporarily reduce patchouli oil output as farmers redirect stills, and vice versa."
+      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply."
     },
     {
       "name": "Lyral",
       "category": "Synthetic Aroma Chemical",
-      "low": 150.0,
+      "low": 39.44,
       "high": 150.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MACE ABS",
+      "category": "Absolute",
+      "low": 132.0,
+      "high": 222.27,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MAGNOLAN",
+      "category": "Synthetic Aroma Chemical",
+      "low": 66.92,
+      "high": 478.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MAJENTOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 73.0,
+      "high": 304.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MALT EXTR NATUROME",
+      "category": "Synthetic Aroma Chemical",
+      "low": 208.0,
+      "high": 208.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MALTODEXTRIN EX POTATO 10 DE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 5.0,
+      "high": 5.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MANDARIN TERP DIST STAB",
+      "category": "Synthetic Aroma Chemical",
+      "low": 18.0,
+      "high": 18.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MARITIMA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 989.0,
+      "high": 989.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MELOZONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 203.63,
+      "high": 470.06,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MELUSAT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 57.96,
+      "high": 59.63,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MENTHENETHIOL BRUT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1374.25,
+      "high": 1673.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MENTHYL ACETATE NAT USOC",
+      "category": "Natural Isolate",
+      "low": 113.0,
+      "high": 113.0,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "METHOXYMELONAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 239.84,
+      "high": 239.84,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "METHYL 2 NONENOATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 116.27,
+      "high": 484.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -4692,14 +7052,74 @@
       "notes": null
     },
     {
-      "name": "MIMOSA ABSOLUTE",
-      "category": "Absolute",
-      "low": 1630.0,
-      "high": 1630.0,
-      "commodity": "No major public future",
-      "region": "Morocco",
+      "name": "METHYL 5-Z-OCTENOATE CRUDE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1240.0,
+      "high": 1240.0,
+      "commodity": "Crude Oil",
+      "region": null,
       "flag": false,
-      "notes": "No acute 2026 event, but real ongoing STRUCTURAL supply risk: chronic multi-year drought is reducing argan fruit yield per tree and oil extraction rates, compounded by overharvesting of wild argan forests. Fragmented supply chain (multiple intermediaries between harvester cooperatives and exporters) limits cooperatives ability to hold inventory and negotiate, keeping farmgate prices volatile/low even as retail argan oil prices stay high. A new government storage-center program is expected in 2026 aiming to ease this, outcome unconfirmed."
+      "notes": null
+    },
+    {
+      "name": "METHYL DIANTILIS",
+      "category": "Synthetic Aroma Chemical",
+      "low": 302.55,
+      "high": 752.85,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "METHYL TERPENYL ETHER",
+      "category": "Synthetic Aroma Chemical",
+      "low": 148.18,
+      "high": 388.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "METHYL UNDECYLENATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 53.0,
+      "high": 53.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "METHYLDECANILE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 398.0,
+      "high": 398.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "METHYLNAPHTHYLKETONE LIQUID",
+      "category": "Synthetic Aroma Chemical",
+      "low": 32.0,
+      "high": 32.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MEVANTRAAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1368.94,
+      "high": 1434.67,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "MIMOSA ABSOLUTE",
@@ -4709,12 +7129,132 @@
       "commodity": "No major public future",
       "region": "Morocco",
       "flag": false,
-      "notes": "No acute 2026 event, but real ongoing STRUCTURAL supply risk: chronic multi-year drought is reducing argan fruit yield per tree and oil extraction rates, compounded by overharvesting of wild argan forests. Fragmented supply chain (multiple intermediaries between harvester cooperatives and exporters) limits cooperatives ability to hold inventory and negotiate, keeping farmgate prices volatile/low even as retail argan oil prices stay high. A new government storage-center program is expected in 2026 aiming to ease this, outcome unconfirmed."
+      "notes": "No acute 2026 event, but real ongoing STRUCTURAL supply risk: chronic multi-year drought reducing argan fruit yield, compounded by overharvesting and a fragmented supply chain that keeps farmgate prices volatile even as retail prices stay high."
+    },
+    {
+      "name": "MIMOSA ABSOLUTE",
+      "category": "Absolute",
+      "low": 1362.3,
+      "high": 1630.0,
+      "commodity": "No major public future",
+      "region": "Morocco",
+      "flag": false,
+      "notes": "No acute 2026 event, but real ongoing STRUCTURAL supply risk: chronic multi-year drought reducing argan fruit yield, compounded by overharvesting and a fragmented supply chain that keeps farmgate prices volatile even as retail prices stay high."
+    },
+    {
+      "name": "MIMOSAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 607.0,
+      "high": 607.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MINT BLEND RD 12-48A FIRCAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 81.26,
+      "high": 81.26,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MINT OIL PURIF  FIRINC 957504 -captive \"P&N\"",
+      "category": "Essential Oil",
+      "low": 55.0,
+      "high": 55.0,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MINT PENNYROYAL EO",
+      "category": "Synthetic Aroma Chemical",
+      "low": 155.35,
+      "high": 155.35,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MINT SPICATA TERPENLESS SX",
+      "category": "Synthetic Aroma Chemical",
+      "low": 196.0,
+      "high": 196.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MUGUET ALDEHYDE ARR",
+      "category": "Synthetic Aroma Chemical",
+      "low": 348.82,
+      "high": 379.89,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MUSCENONE\u00ae DELTA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 812.0,
+      "high": 812.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MUSK 781",
+      "category": "Synthetic Aroma Chemical",
+      "low": 710.0,
+      "high": 1300.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "MUSKINA FIRINDIA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 426.0,
+      "high": 426.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Magnolia Flower Oil P&N",
+      "category": "Essential Oil",
+      "low": 6437.5,
+      "high": 6437.5,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Mahagonate",
+      "category": "Synthetic Aroma Chemical",
+      "low": 55.16,
+      "high": 284.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "Maltol",
       "category": "Synthetic Aroma Chemical",
-      "low": 117.0,
+      "low": 29.13,
       "high": 434.38,
       "commodity": "Corn",
       "region": null,
@@ -4734,7 +7274,7 @@
     {
       "name": "Mandarin Oil Red Argentina",
       "category": "Essential Oil",
-      "low": 238.0,
+      "low": 53.78,
       "high": 442.0,
       "commodity": "Orange Juice",
       "region": null,
@@ -4785,7 +7325,7 @@
       "name": "Melonal",
       "category": "Synthetic Aroma Chemical",
       "low": 67.76,
-      "high": 1040.0,
+      "high": 2629.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -4797,6 +7337,16 @@
       "low": 39.41,
       "high": 90.0,
       "commodity": "Mint Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Menthol Crystals Natural",
+      "category": "Natural Isolate",
+      "low": 43.02,
+      "high": 90.82,
+      "commodity": "No identified commodity proxy",
       "region": null,
       "flag": false,
       "notes": null
@@ -4814,7 +7364,7 @@
     {
       "name": "Menthone",
       "category": "Synthetic Aroma Chemical",
-      "low": 98.0,
+      "low": 78.27,
       "high": 304.0,
       "commodity": "Mint Oil",
       "region": null,
@@ -4922,9 +7472,19 @@
       "notes": null
     },
     {
+      "name": "Methyl Cedryl Ketone",
+      "category": "Synthetic Aroma Chemical",
+      "low": 38.26,
+      "high": 55.09,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Methyl Chavicol",
       "category": "Synthetic Aroma Chemical",
-      "low": 145.0,
+      "low": 119.5,
       "high": 145.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -4936,6 +7496,26 @@
       "category": "Synthetic Aroma Chemical",
       "low": 13.62,
       "high": 425.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Methyl Cyclo Pentenolone",
+      "category": "Synthetic Aroma Chemical",
+      "low": 44.36,
+      "high": 95.12,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Methyl Diphenyl Ether",
+      "category": "Synthetic Aroma Chemical",
+      "low": 550.54,
+      "high": 550.54,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -4984,7 +7564,7 @@
     {
       "name": "Methyl Hexyl Ketone",
       "category": "Synthetic Aroma Chemical",
-      "low": 435.0,
+      "low": 11.04,
       "high": 435.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -5004,7 +7584,7 @@
     {
       "name": "Methyl Ionone BJ",
       "category": "Synthetic Aroma Chemical",
-      "low": 40.0,
+      "low": 29.46,
       "high": 1013.0,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
@@ -5104,7 +7684,7 @@
     {
       "name": "Mousse de Metra",
       "category": "Synthetic Aroma Chemical",
-      "low": 197.0,
+      "low": 113.53,
       "high": 220.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -5134,7 +7714,7 @@
     {
       "name": "Musk Amberol (Velvione)",
       "category": "Synthetic Aroma Chemical",
-      "low": 893.0,
+      "low": 597.5,
       "high": 1505.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -5144,7 +7724,7 @@
     {
       "name": "Musk C-14",
       "category": "Synthetic Aroma Chemical",
-      "low": 150.0,
+      "low": 18.28,
       "high": 150.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -5154,8 +7734,8 @@
     {
       "name": "Musk Cashmeran (Cashmeran Type)",
       "category": "Synthetic Aroma Chemical",
-      "low": 204.5,
-      "high": 220.0,
+      "low": 166.67,
+      "high": 336.75,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -5219,13 +7799,53 @@
       "commodity": "No major public future",
       "region": "Somalia",
       "flag": false,
-      "notes": "Frankincense/Myrrh harvesting is concentrated in Somaliland and Puntland (northern Somalia), which function largely independent of the conflict-affected south and have an active, ongoing export trade as of June 2026 - no acute current disruption identified. Structurally fragile long-term (harvester communities in conflict-adjacent areas, climate pressure reducing moisture for the Boswellia/Commiphora trees) but not in active crisis right now."
+      "notes": "Frankincense/Myrrh harvesting is concentrated in Somaliland and Puntland (northern Somalia), which function largely independent of the conflict-affected south - active, ongoing export trade as of June 2026, no acute current disruption identified."
     },
     {
       "name": "Mysornaol",
       "category": "Synthetic Aroma Chemical",
-      "low": 84.0,
-      "high": 137.0,
+      "low": 44.29,
+      "high": 143.4,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "N-BUTYL ANTHRANILATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 101.0,
+      "high": 101.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "NEOBEE M 5",
+      "category": "Synthetic Aroma Chemical",
+      "low": 17.0,
+      "high": 32.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "NEROLIONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 221.0,
+      "high": 860.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "NORLIMBANOL\u00ae DEXTRO",
+      "category": "Synthetic Aroma Chemical",
+      "low": 87.33,
+      "high": 786.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -5355,7 +7975,7 @@
       "name": "Nat. Cinnamyl Isobutyrate",
       "category": "Natural Isolate",
       "low": 200.0,
-      "high": 200.0,
+      "high": 250.95,
       "commodity": "Varies by parent oil",
       "region": null,
       "flag": false,
@@ -5374,7 +7994,7 @@
     {
       "name": "Nat. Cocal",
       "category": "Natural Isolate",
-      "low": 697.0,
+      "low": 259.05,
       "high": 816.0,
       "commodity": "Varies by parent oil",
       "region": null,
@@ -5484,7 +8104,7 @@
     {
       "name": "Nat. Octanoic Acid(Caprylic acid )",
       "category": "Natural Isolate",
-      "low": 27.0,
+      "low": 26.17,
       "high": 27.0,
       "commodity": "Varies by parent oil",
       "region": null,
@@ -5534,8 +8154,8 @@
     {
       "name": "Nat. Phenyl Ethyl Alcohol",
       "category": "Natural Isolate",
-      "low": 15.0,
-      "high": 866.0,
+      "low": 8.63,
+      "high": 1493.75,
       "commodity": "Varies by parent oil",
       "region": null,
       "flag": true,
@@ -5544,7 +8164,7 @@
     {
       "name": "Nat. Phenylacetic Acid",
       "category": "Natural Isolate",
-      "low": 127.0,
+      "low": 71.7,
       "high": 1992.0,
       "commodity": "Varies by parent oil",
       "region": null,
@@ -5574,7 +8194,7 @@
     {
       "name": "Nat. Phenylethyl Benzoate",
       "category": "Natural Isolate",
-      "low": 535.0,
+      "low": 12.12,
       "high": 535.0,
       "commodity": "Varies by parent oil",
       "region": null,
@@ -5625,7 +8245,7 @@
       "name": "Nat. Phenylethyl Propionate",
       "category": "Natural Isolate",
       "low": 60.0,
-      "high": 60.0,
+      "high": 90.82,
       "commodity": "Varies by parent oil",
       "region": null,
       "flag": false,
@@ -5705,7 +8325,7 @@
       "name": "Nat. Raspberry Ketone",
       "category": "Natural Isolate",
       "low": 41.59,
-      "high": 429.0,
+      "high": 752.85,
       "commodity": "Varies by parent oil",
       "region": null,
       "flag": false,
@@ -5724,7 +8344,7 @@
     {
       "name": "Nat. Spearmint Oil",
       "category": "Essential Oil",
-      "low": 77.67,
+      "low": 51.39,
       "high": 219.5,
       "commodity": "Varies by parent oil",
       "region": null,
@@ -5735,7 +8355,7 @@
       "name": "Nat. Styrallyl Acetate",
       "category": "Natural Isolate",
       "low": 10.76,
-      "high": 1861.0,
+      "high": 7229.75,
       "commodity": "Varies by parent oil",
       "region": null,
       "flag": true,
@@ -5782,9 +8402,19 @@
       "notes": null
     },
     {
+      "name": "Nat. Terpinen-4-ol",
+      "category": "Natural Isolate",
+      "low": 44.22,
+      "high": 179.25,
+      "commodity": "Varies by parent oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Nat. Terpinolene",
       "category": "Natural Isolate",
-      "low": 25.0,
+      "low": 8.63,
       "high": 340.0,
       "commodity": "Varies by parent oil",
       "region": null,
@@ -5824,7 +8454,7 @@
     {
       "name": "Nat. Trans-2-Hexenal",
       "category": "Natural Isolate",
-      "low": 55.0,
+      "low": 49.26,
       "high": 1203.0,
       "commodity": "Varies by parent oil",
       "region": null,
@@ -5836,6 +8466,16 @@
       "category": "Natural Isolate",
       "low": 90.0,
       "high": 2981.0,
+      "commodity": "Varies by parent oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Nat. Trans-2-Nonenal",
+      "category": "Natural Isolate",
+      "low": 478.0,
+      "high": 478.0,
       "commodity": "Varies by parent oil",
       "region": null,
       "flag": false,
@@ -5902,6 +8542,16 @@
       "notes": null
     },
     {
+      "name": "Nat. Whiskey Lactone",
+      "category": "Natural Isolate",
+      "low": 442.15,
+      "high": 442.15,
+      "commodity": "Varies by parent oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Nat. Zingerone",
       "category": "Natural Isolate",
       "low": 352.0,
@@ -5914,9 +8564,19 @@
     {
       "name": "Nat. a- Pinene Laevo",
       "category": "Natural Isolate",
-      "low": 19.0,
-      "high": 19.0,
+      "low": 9.82,
+      "high": 31.07,
       "commodity": "Varies by parent oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Nectarate",
+      "category": "Synthetic Aroma Chemical",
+      "low": 33.46,
+      "high": 150.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -5944,7 +8604,7 @@
     {
       "name": "Neroli Oil",
       "category": "Essential Oil",
-      "low": 12400.0,
+      "low": 4660.5,
       "high": 13470.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -5964,7 +8624,7 @@
     {
       "name": "Nerolin Bromelia Crystals",
       "category": "Synthetic Aroma Chemical",
-      "low": 44.0,
+      "low": 12.57,
       "high": 44.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -5974,8 +8634,18 @@
     {
       "name": "Neroline Yara Yara",
       "category": "Synthetic Aroma Chemical",
-      "low": 45.0,
+      "low": 9.54,
       "high": 636.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": true,
+      "notes": null
+    },
+    {
+      "name": "Nerone",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1063.0,
+      "high": 1063.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -5985,7 +8655,7 @@
       "name": "Neryl Acetate",
       "category": "Synthetic Aroma Chemical",
       "low": 32.19,
-      "high": 340.0,
+      "high": 84.84,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": false,
@@ -5995,7 +8665,7 @@
       "name": "Neryl Acetate",
       "category": "Synthetic Aroma Chemical",
       "low": 32.19,
-      "high": 84.84,
+      "high": 340.0,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": false,
@@ -6024,7 +8694,7 @@
     {
       "name": "Nutmeg Oil East Indian",
       "category": "Essential Oil",
-      "low": 384.0,
+      "low": 186.42,
       "high": 809.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -6044,9 +8714,109 @@
     {
       "name": "OAKMOSS ABSOLUTE",
       "category": "Absolute",
-      "low": 1373.0,
+      "low": 521.02,
       "high": 1373.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OAKWOOD CHIPS SFE PG CRUDE MT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 861.0,
+      "high": 861.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OAKWOOD EXTR 65 BRIX",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1795.0,
+      "high": 1795.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OCTAHYDRO COUMARIN",
+      "category": "Synthetic Aroma Chemical",
+      "low": 69.95,
+      "high": 237.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OCTANILE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 115.5,
+      "high": 115.5,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OCTYL BUTYRATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 51.0,
+      "high": 51.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OCTYL ISOBUTYRATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 83.0,
+      "high": 83.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OCTYL P METHOXY CINNAMATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 138.62,
+      "high": 138.62,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OENANTHIC ETHER (Ethyl Oenanthate)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 15.58,
+      "high": 59.75,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OKOUMAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 444.0,
+      "high": 595.97,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OMS - Mineral Spirits Odorless",
+      "category": "Synthetic Aroma Chemical",
+      "low": 6.05,
+      "high": 8.96,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -6062,6 +8832,16 @@
       "notes": null
     },
     {
+      "name": "ORIVONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 97.99,
+      "high": 127.5,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "OSMANTHUS ABSOLUTE",
       "category": "Absolute",
       "low": 1356.25,
@@ -6077,6 +8857,36 @@
       "low": 1356.25,
       "high": 1356.25,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OUD BOYA AJ MD BRUT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 140716.67,
+      "high": 140716.67,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OXYOCTALINE FORMATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 429.12,
+      "high": 792.0,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "OZONIL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 235.0,
+      "high": 392.84,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -6089,7 +8899,7 @@
       "commodity": "No major public future",
       "region": "Somalia",
       "flag": false,
-      "notes": "Frankincense/Myrrh harvesting is concentrated in Somaliland and Puntland (northern Somalia), which function largely independent of the conflict-affected south and have an active, ongoing export trade as of June 2026 - no acute current disruption identified. Structurally fragile long-term (harvester communities in conflict-adjacent areas, climate pressure reducing moisture for the Boswellia/Commiphora trees) but not in active crisis right now."
+      "notes": "Frankincense/Myrrh harvesting is concentrated in Somaliland and Puntland (northern Somalia), which function largely independent of the conflict-affected south - active, ongoing export trade as of June 2026, no acute current disruption identified."
     },
     {
       "name": "Olibanum resinoid",
@@ -6099,7 +8909,7 @@
       "commodity": "No major public future",
       "region": "Somalia",
       "flag": false,
-      "notes": "Frankincense/Myrrh harvesting is concentrated in Somaliland and Puntland (northern Somalia), which function largely independent of the conflict-affected south and have an active, ongoing export trade as of June 2026 - no acute current disruption identified. Structurally fragile long-term (harvester communities in conflict-adjacent areas, climate pressure reducing moisture for the Boswellia/Commiphora trees) but not in active crisis right now."
+      "notes": "Frankincense/Myrrh harvesting is concentrated in Somaliland and Puntland (northern Somalia), which function largely independent of the conflict-affected south - active, ongoing export trade as of June 2026, no acute current disruption identified."
     },
     {
       "name": "Omega-pentadecalactone",
@@ -6112,9 +8922,19 @@
       "notes": null
     },
     {
+      "name": "Orange Flower Absolute  \"P&N\"",
+      "category": "Absolute",
+      "low": 5240.0,
+      "high": 5240.0,
+      "commodity": "Orange Juice",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Orange Oil",
       "category": "Essential Oil",
-      "low": 22.0,
+      "low": 19.91,
       "high": 4326.0,
       "commodity": "Orange Juice",
       "region": null,
@@ -6124,8 +8944,8 @@
     {
       "name": "Orange Oil California",
       "category": "Essential Oil",
-      "low": 150.0,
-      "high": 158.0,
+      "low": 47.2,
+      "high": 571.21,
       "commodity": "Orange Juice",
       "region": null,
       "flag": false,
@@ -6134,7 +8954,7 @@
     {
       "name": "Orange Terpene Light",
       "category": "Synthetic Aroma Chemical",
-      "low": 22.0,
+      "low": 12.55,
       "high": 340.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -6144,7 +8964,7 @@
     {
       "name": "Oranger Crystals",
       "category": "Synthetic Aroma Chemical",
-      "low": 45.0,
+      "low": 26.65,
       "high": 300.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -6164,7 +8984,7 @@
     {
       "name": "Organic Rose Oil Bulgarian",
       "category": "Essential Oil",
-      "low": 18280.0,
+      "low": 5736.0,
       "high": 18280.0,
       "commodity": "No major public future",
       "region": null,
@@ -6184,7 +9004,7 @@
     {
       "name": "Organic Sage Oil",
       "category": "Essential Oil",
-      "low": 420.0,
+      "low": 170.89,
       "high": 444.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -6204,7 +9024,7 @@
     {
       "name": "Organic Thyme Oil",
       "category": "Essential Oil",
-      "low": 260.0,
+      "low": 131.45,
       "high": 1550.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -6214,12 +9034,12 @@
     {
       "name": "Organic Vetiver Oil",
       "category": "Essential Oil",
-      "low": 885.0,
+      "low": 489.95,
       "high": 2100.0,
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply - a clove harvest year can temporarily reduce patchouli oil output as farmers redirect stills, and vice versa."
+      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply."
     },
     {
       "name": "Organic Wormwood Oil",
@@ -6252,14 +9072,44 @@
       "notes": null
     },
     {
-      "name": "PATCHOULI ABSOLUTE",
-      "category": "Absolute",
-      "low": 220.0,
-      "high": 697.0,
-      "commodity": "No major public future",
-      "region": "Indonesia",
+      "name": "PAEGA (PHEN.ACETALD.ET.GLY.ACETAL)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 160.0,
+      "high": 430.2,
+      "commodity": "Crude Oil",
+      "region": null,
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply - a clove harvest year can temporarily reduce patchouli oil output as farmers redirect stills, and vice versa."
+      "notes": null
+    },
+    {
+      "name": "PALMAROSA EO",
+      "category": "Synthetic Aroma Chemical",
+      "low": 83.29,
+      "high": 850.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PARAFFIN OIL",
+      "category": "Essential Oil",
+      "low": 9.75,
+      "high": 14.82,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PARSLEY OIL",
+      "category": "Essential Oil",
+      "low": 363.0,
+      "high": 592.72,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "PATCHOULI ABSOLUTE",
@@ -6269,7 +9119,67 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply - a clove harvest year can temporarily reduce patchouli oil output as farmers redirect stills, and vice versa."
+      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply."
+    },
+    {
+      "name": "PATCHOULI ABSOLUTE",
+      "category": "Absolute",
+      "low": 118.9,
+      "high": 697.0,
+      "commodity": "No major public future",
+      "region": "Indonesia",
+      "flag": false,
+      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply."
+    },
+    {
+      "name": "PATCHOULOL CRIST SEED",
+      "category": "Synthetic Aroma Chemical",
+      "low": 2050.0,
+      "high": 2050.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PEANUT SFE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 18.0,
+      "high": 515.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PELARGODIENOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 3107.0,
+      "high": 3107.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PENTYL FORMATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 132.0,
+      "high": 132.0,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PEOMOSA (2,2 Methylphenyl ethanol)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 131.45,
+      "high": 350.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
     },
     {
       "name": "PEPPERMINT ABSOLUTE",
@@ -6277,6 +9187,136 @@
       "low": 98.0,
       "high": 98.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PERANAT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 41.16,
+      "high": 100.38,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PETIOLE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 376.0,
+      "high": 376.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PETITGRAIN EO TERPENELESS",
+      "category": "Synthetic Aroma Chemical",
+      "low": 209.0,
+      "high": 209.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PHELLANDRENE (ALPHA)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 290.0,
+      "high": 760.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PHENEXAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 376.0,
+      "high": 376.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PHENOXYETHYL PROPIONATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 13.0,
+      "high": 13.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PHENYLETHYL FORMATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 12.57,
+      "high": 670.0,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": true,
+      "notes": null
+    },
+    {
+      "name": "PHENYLETHYL PIVALATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 223.0,
+      "high": 223.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PHENYLETHYL TIGLATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 76.74,
+      "high": 394.35,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PHYSEOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 936.0,
+      "high": 1428.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PHYTOL TAMA BASE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 800.0,
+      "high": 800.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PICONIA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 19.36,
+      "high": 119.98,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PINE ABS",
+      "category": "Absolute",
+      "low": 326.0,
+      "high": 470.0,
+      "commodity": "Lumber futures",
       "region": null,
       "flag": false,
       "notes": null
@@ -6292,11 +9332,141 @@
       "notes": null
     },
     {
+      "name": "PINE OIL TYROL",
+      "category": "Essential Oil",
+      "low": 983.33,
+      "high": 983.33,
+      "commodity": "Lumber futures",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PINE SIBERIAN EO",
+      "category": "Synthetic Aroma Chemical",
+      "low": 129.06,
+      "high": 137.43,
+      "commodity": "Pine/Turpentine",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PINK PEPPER WW SFE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 2350.0,
+      "high": 2350.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PINOACETALDEHYDE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 721.78,
+      "high": 900.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PIPERITONE EX EUCALYPTUS",
+      "category": "Synthetic Aroma Chemical",
+      "low": 105.0,
+      "high": 164.79,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PIPERONYL ACETONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 334.6,
+      "high": 482.78,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "POTASSIUM BENZOATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 19.0,
+      "high": 19.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PRECYCLEMONE B",
+      "category": "Synthetic Aroma Chemical",
+      "low": 45.79,
+      "high": 288.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PRISMANTOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 388.0,
+      "high": 388.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PROTEA ASCA  ASCORBIC ACID",
+      "category": "Synthetic Aroma Chemical",
+      "low": 20.0,
+      "high": 20.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PROTEA ORCEL  OLEORESIN CELERY",
+      "category": "Synthetic Aroma Chemical",
+      "low": 2910.0,
+      "high": 2910.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "PYROPRUNAT",
+      "category": "Synthetic Aroma Chemical",
+      "low": 131.0,
+      "high": 438.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Palo Santo Oil",
       "category": "Essential Oil",
       "low": 799.25,
       "high": 799.25,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Pamplefleur",
+      "category": "Synthetic Aroma Chemical",
+      "low": 489.95,
+      "high": 552.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -6334,8 +9504,18 @@
     {
       "name": "Para Tolyl Aldehyde",
       "category": "Synthetic Aroma Chemical",
-      "low": 34.0,
+      "low": 30.47,
       "high": 485.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Paradisamide",
+      "category": "Synthetic Aroma Chemical",
+      "low": 169.0,
+      "high": 409.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -6344,7 +9524,7 @@
     {
       "name": "Patchone",
       "category": "Synthetic Aroma Chemical",
-      "low": 10.06,
+      "low": 9.61,
       "high": 24.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -6364,7 +9544,7 @@
     {
       "name": "Peony Acetonitrile / Geranium Nitrile",
       "category": "Synthetic Aroma Chemical",
-      "low": 46.0,
+      "low": 20.12,
       "high": 455.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -6404,7 +9584,7 @@
     {
       "name": "Phenethyl salicylate",
       "category": "Synthetic Aroma Chemical",
-      "low": 72.0,
+      "low": 25.41,
       "high": 228.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -6424,7 +9604,7 @@
     {
       "name": "Phenoxy Ethyl Iso Butyrate",
       "category": "Synthetic Aroma Chemical",
-      "low": 10.4,
+      "low": 9.92,
       "high": 340.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -6472,6 +9652,16 @@
       "notes": null
     },
     {
+      "name": "Phenyl Propyl Cinnamate",
+      "category": "Synthetic Aroma Chemical",
+      "low": 473.0,
+      "high": 473.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Piconia",
       "category": "Synthetic Aroma Chemical",
       "low": 19.36,
@@ -6494,7 +9684,7 @@
     {
       "name": "Polysantol(Megasantol)",
       "category": "Synthetic Aroma Chemical",
-      "low": 196.0,
+      "low": 123.32,
       "high": 590.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -6512,10 +9702,20 @@
       "notes": null
     },
     {
+      "name": "Profarnesal S/A Oncidal",
+      "category": "Synthetic Aroma Chemical",
+      "low": 462.0,
+      "high": 462.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Propylene Glycol",
       "category": "Synthetic Aroma Chemical",
       "low": 11.0,
-      "high": 11.0,
+      "high": 13.12,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -6532,10 +9732,110 @@
       "notes": null
     },
     {
+      "name": "RESEDA BODY",
+      "category": "Synthetic Aroma Chemical",
+      "low": 327.31,
+      "high": 327.31,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "RHAMNOSE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 142.0,
+      "high": 142.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "RHUBAFURAN",
+      "category": "Synthetic Aroma Chemical",
+      "low": 185.2,
+      "high": 384.67,
+      "commodity": "Corn",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "RHUBOFIX\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 154.11,
+      "high": 740.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "RMI COFFEE EXTRACT BLEND ORG",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1642.0,
+      "high": 1642.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ROMANDOLIDE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 68.0,
+      "high": 143.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ROMASCONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1130.0,
+      "high": 1650.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ROSALVA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 122.37,
+      "high": 374.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ROSAMUSK",
+      "category": "Synthetic Aroma Chemical",
+      "low": 95.0,
+      "high": 95.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Rhodinol",
       "category": "Synthetic Aroma Chemical",
       "low": 816.0,
       "high": 816.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Rhodiol Ex Geranium",
+      "category": "Synthetic Aroma Chemical",
+      "low": 125.48,
+      "high": 125.48,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -6572,10 +9872,60 @@
       "notes": null
     },
     {
+      "name": "Rosaphen (2-Meth-5-Phen.pentan-1-ol)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 58.0,
+      "high": 58.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Rose Oxide",
       "category": "Synthetic Aroma Chemical",
-      "low": 96.0,
+      "low": 64.53,
       "high": 1660.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Rosehip Oil CP \"P&N\"",
+      "category": "Essential Oil",
+      "low": 69.07,
+      "high": 69.07,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SAFRALEINE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 604.93,
+      "high": 742.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SALICYNILE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 282.0,
+      "high": 835.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SCENTENAL\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 119.0,
+      "high": 119.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -6612,11 +9962,121 @@
       "notes": null
     },
     {
+      "name": "SCHINUS MOLLE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 537.75,
+      "high": 2000.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SCLAREOLATE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 30.0,
+      "high": 30.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SOLUBILIZER TERGITOL 15 S9",
+      "category": "Synthetic Aroma Chemical",
+      "low": 16.25,
+      "high": 24.09,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SOLVENT APV FIRINDIA",
+      "category": "Synthetic Aroma Chemical",
+      "low": 8.7,
+      "high": 10.87,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SOLVENT MMB",
+      "category": "Synthetic Aroma Chemical",
+      "low": 11.47,
+      "high": 13.65,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SOYBEAN METHYL ESTER NOV",
+      "category": "Synthetic Aroma Chemical",
+      "low": 10.48,
+      "high": 10.48,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SPIROGALBANONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 2402.5,
+      "high": 3442.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "STAR ANISE EO",
+      "category": "Synthetic Aroma Chemical",
+      "low": 95.0,
+      "high": 95.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "STYRAX BALSAM MD",
+      "category": "Essential Oil",
+      "low": 97.99,
+      "high": 97.99,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "SUNFLOWER OIL",
       "category": "Essential Oil",
       "low": 18.0,
       "high": 680.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SUSTANE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 47.0,
+      "high": 47.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "SYVERTAL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 63.34,
+      "high": 304.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -6665,7 +10125,7 @@
       "name": "Sandalwood Oil",
       "category": "Essential Oil",
       "low": 4130.0,
-      "high": 4130.0,
+      "high": 4290.05,
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
@@ -6682,6 +10142,26 @@
       "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event)."
     },
     {
+      "name": "Sandenol 803",
+      "category": "Synthetic Aroma Chemical",
+      "low": 24.5,
+      "high": 28.68,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Silvial  / Suzaral",
+      "category": "Synthetic Aroma Chemical",
+      "low": 84.0,
+      "high": 212.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Sodium Benzoate",
       "category": "Synthetic Aroma Chemical",
       "low": 17.0,
@@ -6694,7 +10174,7 @@
     {
       "name": "Soyabean Oil",
       "category": "Essential Oil",
-      "low": 18.0,
+      "low": 7.05,
       "high": 18.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -6712,6 +10192,16 @@
       "notes": null
     },
     {
+      "name": "Spirambrene",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1038.0,
+      "high": 1421.64,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Stemone",
       "category": "Synthetic Aroma Chemical",
       "low": 35.23,
@@ -6724,7 +10214,7 @@
     {
       "name": "Strawberry Aldehyde (C16)",
       "category": "Synthetic Aroma Chemical",
-      "low": 23.0,
+      "low": 16.25,
       "high": 95.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -6754,9 +10244,109 @@
     {
       "name": "TAGETE ABSOLUTE",
       "category": "Absolute",
-      "low": 965.0,
+      "low": 577.25,
       "high": 2397.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TANGERINOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 168.88,
+      "high": 450.37,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TCD ACETATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 39.0,
+      "high": 39.0,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TETRAHYDROLINALYL ACETATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 77.0,
+      "high": 195.98,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TETRAHYDROMYRCENOL PURE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 22.71,
+      "high": 56.28,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TETRAMETHYL ETHYL CYCLOHEXENONE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 166.0,
+      "high": 365.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "THUYAC",
+      "category": "Synthetic Aroma Chemical",
+      "low": 174.89,
+      "high": 221.08,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TINOGARD AS (light stabilizer OS) or LOWILITE 26",
+      "category": "Synthetic Aroma Chemical",
+      "low": 43.98,
+      "high": 43.98,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TINOGARD TS",
+      "category": "Synthetic Aroma Chemical",
+      "low": 30.5,
+      "high": 47.75,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TINOGARD TT DD",
+      "category": "Synthetic Aroma Chemical",
+      "low": 20.98,
+      "high": 25.55,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TOBACAROL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 380.01,
+      "high": 466.05,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -6772,11 +10362,111 @@
       "notes": null
     },
     {
+      "name": "TONALIDE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 36.33,
+      "high": 55.93,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TONKA BEAN ABS",
+      "category": "Absolute",
+      "low": 1491.0,
+      "high": 1491.0,
+      "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "TONKA BEANS ABSOLUTE",
       "category": "Absolute",
-      "low": 6190.0,
+      "low": 2509.5,
       "high": 6190.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TOSCANOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 529.0,
+      "high": 1196.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TRANS DECAHYDRO BETA NAPHTHYL ACET.",
+      "category": "Synthetic Aroma Chemical",
+      "low": 132.0,
+      "high": 132.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TRASEOLIDE  100",
+      "category": "Synthetic Aroma Chemical",
+      "low": 165.0,
+      "high": 379.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TRIETHANOLAMINE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 16.0,
+      "high": 16.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TRIFERNAL\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 158.0,
+      "high": 610.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TRIMENOL ACETATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 490.0,
+      "high": 980.0,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TRITON X 100",
+      "category": "Synthetic Aroma Chemical",
+      "low": 12.07,
+      "high": 12.6,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "TWEEN 80 K",
+      "category": "Synthetic Aroma Chemical",
+      "low": 6.52,
+      "high": 16.44,
+      "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": false,
       "notes": null
@@ -6794,7 +10484,7 @@
     {
       "name": "Terpentine",
       "category": "Essential Oil",
-      "low": 19.0,
+      "low": 16.9,
       "high": 19.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -6814,7 +10504,7 @@
     {
       "name": "Terpineol",
       "category": "Synthetic Aroma Chemical",
-      "low": 28.0,
+      "low": 12.26,
       "high": 28.0,
       "commodity": "Pine/Turpentine",
       "region": null,
@@ -6824,7 +10514,7 @@
     {
       "name": "Terpinyl Acetate Natural",
       "category": "Natural Isolate",
-      "low": 28.0,
+      "low": 15.73,
       "high": 418.25,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -6832,9 +10522,19 @@
       "notes": null
     },
     {
+      "name": "Terpinyl Propionate",
+      "category": "Synthetic Aroma Chemical",
+      "low": 43.0,
+      "high": 43.0,
+      "commodity": "Pine/Turpentine",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Tetra Hydro Linalool",
       "category": "Synthetic Aroma Chemical",
-      "low": 25.0,
+      "low": 20.55,
       "high": 395.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -6874,7 +10574,7 @@
     {
       "name": "Trans,Cis-2,6-Nonadienal",
       "category": "Synthetic Aroma Chemical",
-      "low": 4264.0,
+      "low": 1445.95,
       "high": 7260.0,
       "commodity": "Crude Oil",
       "region": null,
@@ -6904,7 +10604,7 @@
     {
       "name": "Tricyclo Decenyl Acetate / Verdyl Acetate",
       "category": "Synthetic Aroma Chemical",
-      "low": 7.0,
+      "low": 4.9,
       "high": 466.0,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
@@ -6914,8 +10614,8 @@
     {
       "name": "Trimethyl Hexyl Acetate",
       "category": "Synthetic Aroma Chemical",
-      "low": 17.0,
-      "high": 17.0,
+      "low": 12.0,
+      "high": 21.75,
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": false,
@@ -6932,7 +10632,47 @@
       "notes": null
     },
     {
+      "name": "Triplal  (20/80)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 16.01,
+      "high": 28.68,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Trisamber",
+      "category": "Synthetic Aroma Chemical",
+      "low": 553.0,
+      "high": 553.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Triton X-100",
+      "category": "Synthetic Aroma Chemical",
+      "low": 12.07,
+      "high": 12.6,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Triton X-100 (Prop 65 Free)",
+      "category": "Synthetic Aroma Chemical",
+      "low": 12.07,
+      "high": 14.96,
+      "commodity": "Crude Oil / Natural Gas",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Triton X-100 (T-Det 09)",
       "category": "Synthetic Aroma Chemical",
       "low": 12.07,
       "high": 12.6,
@@ -6962,6 +10702,16 @@
       "notes": null
     },
     {
+      "name": "ULTRAVANIL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 351.64,
+      "high": 1257.9,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "Undecavertol(Figovert)",
       "category": "Synthetic Aroma Chemical",
       "low": 26.0,
@@ -6972,11 +10722,101 @@
       "notes": null
     },
     {
+      "name": "VANILLA BEAN INDONESIA ORGANIC",
+      "category": "Synthetic Aroma Chemical",
+      "low": 33018.0,
+      "high": 33018.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "VANILLA PLANIFOLIA INFUSION",
+      "category": "Synthetic Aroma Chemical",
+      "low": 535.0,
+      "high": 535.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "VELOUTONE\u00ae",
+      "category": "Synthetic Aroma Chemical",
+      "low": 252.0,
+      "high": 458.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "VERDOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 16.63,
+      "high": 72.42,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "VERDYLATE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 18.64,
+      "high": 44.81,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "VERNALDEHYDE FIRINC",
+      "category": "Synthetic Aroma Chemical",
+      "low": 143.4,
+      "high": 329.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "VETIMOSS",
+      "category": "Synthetic Aroma Chemical",
+      "low": 235.0,
+      "high": 235.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
       "name": "VIOLET ABSOLUTE",
       "category": "Absolute",
-      "low": 3292.0,
+      "low": 1699.0,
       "high": 3292.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "VIOLETTYNE 10 MIP",
+      "category": "Synthetic Aroma Chemical",
+      "low": 742.0,
+      "high": 742.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "VIOLIFF",
+      "category": "Synthetic Aroma Chemical",
+      "low": 107.55,
+      "high": 227.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -6987,6 +10827,16 @@
       "low": 1320.0,
       "high": 1320.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Verdoracine",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1731.0,
+      "high": 1731.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
@@ -7006,6 +10856,16 @@
       "category": "Synthetic Aroma Chemical",
       "low": 5.62,
       "high": 7.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "WALNUT ESTER",
+      "category": "Synthetic Aroma Chemical",
+      "low": 864.0,
+      "high": 864.0,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -7044,7 +10904,7 @@
     {
       "name": "Ylang Ylang Oil #1",
       "category": "Essential Oil",
-      "low": 689.0,
+      "low": 262.9,
       "high": 1052.0,
       "commodity": "No identified commodity proxy",
       "region": null,
@@ -7057,6 +10917,26 @@
       "low": 2629.0,
       "high": 2629.0,
       "commodity": "No identified commodity proxy",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "Z 11 HD AMORCE",
+      "category": "Synthetic Aroma Chemical",
+      "low": 1225.42,
+      "high": 6462.0,
+      "commodity": "Crude Oil",
+      "region": null,
+      "flag": false,
+      "notes": null
+    },
+    {
+      "name": "ZEMEA PROPANEDIOL",
+      "category": "Synthetic Aroma Chemical",
+      "low": 77.0,
+      "high": 77.0,
+      "commodity": "Crude Oil",
       "region": null,
       "flag": false,
       "notes": null
