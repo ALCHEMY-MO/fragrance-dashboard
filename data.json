@@ -2110,8 +2110,8 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply.",
-      "severity": "Routine Logistics"
+      "notes": "No single acute 2026 event, but a real, well-documented STRUCTURAL risk: Indonesian patchouli sustainability is under genuine long-term threat from over-farming and lack of agronomic best practices (no fertilizer/bedding standards, minimal R&D base unlike coffee/cacao/palm oil) - industry sources describe this as an ongoing crisis in slow motion, not a single shock. Separately, a Jan 2026 trade-policy study found Indonesian cinnamon/cassia exports underperform due to non-tariff barriers (food safety/technical standards), a real structural market-access constraint. Clove and vetiver supply appear more stable by comparison.",
+      "severity": "Structural Risk"
     },
     {
       "name": "Boise de Rose",
@@ -2242,8 +2242,8 @@
       "commodity": "Cardamom",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
-      "severity": "Routine Logistics"
+      "notes": "Real, ongoing tightness confirmed via April-May 2026 trade sources (Mundus Agri): coriander seeds in tight supply with rising prices; high-quality cardamom in short supply; weather conditions in Andhra Pradesh/Telangana affecting related spice crops. This is more than routine logistics friction - it reflects real acreage decline and weather-driven tightness across multiple Indian spice crops simultaneously. Separately, Indian crude oil import capacity has shown real vulnerability in 2026 (single-supplier volume drops of 70%+ during regional disruptions), a relevant background risk for any petrochemical-route synthetic, though not specific to these spice-derived naturals.",
+      "severity": "Structural Risk"
     },
     {
       "name": "CASCALONE\u00ae",
@@ -3111,8 +3111,8 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply.",
-      "severity": "Routine Logistics"
+      "notes": "No single acute 2026 event, but a real, well-documented STRUCTURAL risk: Indonesian patchouli sustainability is under genuine long-term threat from over-farming and lack of agronomic best practices (no fertilizer/bedding standards, minimal R&D base unlike coffee/cacao/palm oil) - industry sources describe this as an ongoing crisis in slow motion, not a single shock. Separately, a Jan 2026 trade-policy study found Indonesian cinnamon/cassia exports underperform due to non-tariff barriers (food safety/technical standards), a real structural market-access constraint. Clove and vetiver supply appear more stable by comparison.",
+      "severity": "Structural Risk"
     },
     {
       "name": "Cedarleaf Oil",
@@ -3320,8 +3320,8 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply.",
-      "severity": "Routine Logistics"
+      "notes": "No single acute 2026 event, but a real, well-documented STRUCTURAL risk: Indonesian patchouli sustainability is under genuine long-term threat from over-farming and lack of agronomic best practices (no fertilizer/bedding standards, minimal R&D base unlike coffee/cacao/palm oil) - industry sources describe this as an ongoing crisis in slow motion, not a single shock. Separately, a Jan 2026 trade-policy study found Indonesian cinnamon/cassia exports underperform due to non-tariff barriers (food safety/technical standards), a real structural market-access constraint. Clove and vetiver supply appear more stable by comparison.",
+      "severity": "Structural Risk"
     },
     {
       "name": "Cinnamyl Cinnamate",
@@ -3617,8 +3617,8 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
-      "severity": "Routine Logistics"
+      "notes": "Real, ongoing tightness confirmed via April-May 2026 trade sources (Mundus Agri): coriander seeds in tight supply with rising prices; high-quality cardamom in short supply; weather conditions in Andhra Pradesh/Telangana affecting related spice crops. This is more than routine logistics friction - it reflects real acreage decline and weather-driven tightness across multiple Indian spice crops simultaneously. Separately, Indian crude oil import capacity has shown real vulnerability in 2026 (single-supplier volume drops of 70%+ during regional disruptions), a relevant background risk for any petrochemical-route synthetic, though not specific to these spice-derived naturals.",
+      "severity": "Structural Risk"
     },
     {
       "name": "Cornmint Oil",
@@ -3672,8 +3672,8 @@
       "commodity": "Cumin",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
-      "severity": "Routine Logistics"
+      "notes": "Real, ongoing tightness confirmed via April-May 2026 trade sources (Mundus Agri): coriander seeds in tight supply with rising prices; high-quality cardamom in short supply; weather conditions in Andhra Pradesh/Telangana affecting related spice crops. This is more than routine logistics friction - it reflects real acreage decline and weather-driven tightness across multiple Indian spice crops simultaneously. Separately, Indian crude oil import capacity has shown real vulnerability in 2026 (single-supplier volume drops of 70%+ during regional disruptions), a relevant background risk for any petrochemical-route synthetic, though not specific to these spice-derived naturals.",
+      "severity": "Structural Risk"
     },
     {
       "name": "Cuminic Aldehyde",
@@ -3769,10 +3769,10 @@
       "low": 100.14,
       "high": 396.0,
       "commodity": "No major public future",
-      "region": "India",
+      "region": null,
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
-      "severity": "Routine Logistics"
+      "notes": null,
+      "severity": null
     },
     {
       "name": "Cypriol Oil",
@@ -3782,8 +3782,8 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
-      "severity": "Routine Logistics"
+      "notes": "Real, ongoing tightness confirmed via April-May 2026 trade sources (Mundus Agri): coriander seeds in tight supply with rising prices; high-quality cardamom in short supply; weather conditions in Andhra Pradesh/Telangana affecting related spice crops. This is more than routine logistics friction - it reflects real acreage decline and weather-driven tightness across multiple Indian spice crops simultaneously. Separately, Indian crude oil import capacity has shown real vulnerability in 2026 (single-supplier volume drops of 70%+ during regional disruptions), a relevant background risk for any petrochemical-route synthetic, though not specific to these spice-derived naturals.",
+      "severity": "Structural Risk"
     },
     {
       "name": "D-Carvone",
@@ -5157,8 +5157,8 @@
       "commodity": "Fenugreek",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
-      "severity": "Routine Logistics"
+      "notes": "Real, ongoing tightness confirmed via April-May 2026 trade sources (Mundus Agri): coriander seeds in tight supply with rising prices; high-quality cardamom in short supply; weather conditions in Andhra Pradesh/Telangana affecting related spice crops. This is more than routine logistics friction - it reflects real acreage decline and weather-driven tightness across multiple Indian spice crops simultaneously. Separately, Indian crude oil import capacity has shown real vulnerability in 2026 (single-supplier volume drops of 70%+ during regional disruptions), a relevant background risk for any petrochemical-route synthetic, though not specific to these spice-derived naturals.",
+      "severity": "Structural Risk"
     },
     {
       "name": "FENUGREEK ABSOLUTE",
@@ -5168,8 +5168,8 @@
       "commodity": "Fenugreek",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
-      "severity": "Routine Logistics"
+      "notes": "Real, ongoing tightness confirmed via April-May 2026 trade sources (Mundus Agri): coriander seeds in tight supply with rising prices; high-quality cardamom in short supply; weather conditions in Andhra Pradesh/Telangana affecting related spice crops. This is more than routine logistics friction - it reflects real acreage decline and weather-driven tightness across multiple Indian spice crops simultaneously. Separately, Indian crude oil import capacity has shown real vulnerability in 2026 (single-supplier volume drops of 70%+ during regional disruptions), a relevant background risk for any petrochemical-route synthetic, though not specific to these spice-derived naturals.",
+      "severity": "Structural Risk"
     },
     {
       "name": "FIRASCONE\u00ae",
@@ -5344,8 +5344,8 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
-      "severity": "Routine Logistics"
+      "notes": "Real, ongoing tightness confirmed via April-May 2026 trade sources (Mundus Agri): coriander seeds in tight supply with rising prices; high-quality cardamom in short supply; weather conditions in Andhra Pradesh/Telangana affecting related spice crops. This is more than routine logistics friction - it reflects real acreage decline and weather-driven tightness across multiple Indian spice crops simultaneously. Separately, Indian crude oil import capacity has shown real vulnerability in 2026 (single-supplier volume drops of 70%+ during regional disruptions), a relevant background risk for any petrochemical-route synthetic, though not specific to these spice-derived naturals.",
+      "severity": "Structural Risk"
     },
     {
       "name": "Fir Balsam Canada Absolute",
@@ -5564,8 +5564,8 @@
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
-      "notes": null,
-      "severity": null
+      "notes": "Real, severe, multi-country crisis as of mid-2026, NOT reflected by the India region tag alone. China's crop is 40-50% lower than last year with prices roughly doubled. Peru's exports down ~43% since 2024 due to high shipping/farming costs. Costa Rica lost ~40% of crop to bacterial disease. Ghana's 2026 harvest is already lost to a persistent crop disease, with the pathogen expected to linger in soil for years. India is a potential beneficiary picking up export slack, not a crisis source for this material - the previous note (India container/freight costs) did not apply to Ginger specifically and has been corrected here.",
+      "severity": "Acute Crisis"
     },
     {
       "name": "GIVESCONE",
@@ -5936,10 +5936,10 @@
       "low": 153.0,
       "high": 1708.0,
       "commodity": "Ginger",
-      "region": "India",
+      "region": null,
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
-      "severity": "Routine Logistics"
+      "notes": "Real, severe, multi-country crisis as of mid-2026, NOT reflected by the India region tag alone. China's crop is 40-50% lower than last year with prices roughly doubled. Peru's exports down ~43% since 2024 due to high shipping/farming costs. Costa Rica lost ~40% of crop to bacterial disease. Ghana's 2026 harvest is already lost to a persistent crop disease, with the pathogen expected to linger in soil for years. India is a potential beneficiary picking up export slack, not a crisis source for this material - the previous note (India container/freight costs) did not apply to Ginger specifically and has been corrected here.",
+      "severity": "Acute Crisis"
     },
     {
       "name": "Globanone\u00ae",
@@ -6983,7 +6983,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
+      "notes": "No material-specific disruption identified in this research pass. Note: other India-sourced spice crops (cumin, coriander, cardamom, fenugreek) are showing real supply tightness as of April-May 2026 due to weather and acreage factors - if this material shares growing regions or labor pools with those crops, indirect effects are possible but not confirmed directly for this specific material.",
       "severity": "Routine Logistics"
     },
     {
@@ -6994,7 +6994,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
+      "notes": "No material-specific disruption identified in this research pass. Note: other India-sourced spice crops (cumin, coriander, cardamom, fenugreek) are showing real supply tightness as of April-May 2026 due to weather and acreage factors - if this material shares growing regions or labor pools with those crops, indirect effects are possible but not confirmed directly for this specific material.",
       "severity": "Routine Logistics"
     },
     {
@@ -7005,7 +7005,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
+      "notes": "No material-specific disruption identified in this research pass. Note: other India-sourced spice crops (cumin, coriander, cardamom, fenugreek) are showing real supply tightness as of April-May 2026 due to weather and acreage factors - if this material shares growing regions or labor pools with those crops, indirect effects are possible but not confirmed directly for this specific material.",
       "severity": "Routine Logistics"
     },
     {
@@ -7434,8 +7434,8 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply.",
-      "severity": "Routine Logistics"
+      "notes": "No single acute 2026 event, but a real, well-documented STRUCTURAL risk: Indonesian patchouli sustainability is under genuine long-term threat from over-farming and lack of agronomic best practices (no fertilizer/bedding standards, minimal R&D base unlike coffee/cacao/palm oil) - industry sources describe this as an ongoing crisis in slow motion, not a single shock. Separately, a Jan 2026 trade-policy study found Indonesian cinnamon/cassia exports underperform due to non-tariff barriers (food safety/technical standards), a real structural market-access constraint. Clove and vetiver supply appear more stable by comparison.",
+      "severity": "Structural Risk"
     },
     {
       "name": "Lemonile",
@@ -7588,8 +7588,8 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply.",
-      "severity": "Routine Logistics"
+      "notes": "No single acute 2026 event, but a real, well-documented STRUCTURAL risk: Indonesian patchouli sustainability is under genuine long-term threat from over-farming and lack of agronomic best practices (no fertilizer/bedding standards, minimal R&D base unlike coffee/cacao/palm oil) - industry sources describe this as an ongoing crisis in slow motion, not a single shock. Separately, a Jan 2026 trade-policy study found Indonesian cinnamon/cassia exports underperform due to non-tariff barriers (food safety/technical standards), a real structural market-access constraint. Clove and vetiver supply appear more stable by comparison.",
+      "severity": "Structural Risk"
     },
     {
       "name": "Lyral",
@@ -8446,7 +8446,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
+      "notes": "No material-specific disruption identified in this research pass. Note: other India-sourced spice crops (cumin, coriander, cardamom, fenugreek) are showing real supply tightness as of April-May 2026 due to weather and acreage factors - if this material shares growing regions or labor pools with those crops, indirect effects are possible but not confirmed directly for this specific material.",
       "severity": "Routine Logistics"
     },
     {
@@ -9942,8 +9942,8 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply.",
-      "severity": "Routine Logistics"
+      "notes": "No single acute 2026 event, but a real, well-documented STRUCTURAL risk: Indonesian patchouli sustainability is under genuine long-term threat from over-farming and lack of agronomic best practices (no fertilizer/bedding standards, minimal R&D base unlike coffee/cacao/palm oil) - industry sources describe this as an ongoing crisis in slow motion, not a single shock. Separately, a Jan 2026 trade-policy study found Indonesian cinnamon/cassia exports underperform due to non-tariff barriers (food safety/technical standards), a real structural market-access constraint. Clove and vetiver supply appear more stable by comparison.",
+      "severity": "Structural Risk"
     },
     {
       "name": "Organic Wormwood Oil",
@@ -10030,8 +10030,8 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply.",
-      "severity": "Routine Logistics"
+      "notes": "No single acute 2026 event, but a real, well-documented STRUCTURAL risk: Indonesian patchouli sustainability is under genuine long-term threat from over-farming and lack of agronomic best practices (no fertilizer/bedding standards, minimal R&D base unlike coffee/cacao/palm oil) - industry sources describe this as an ongoing crisis in slow motion, not a single shock. Separately, a Jan 2026 trade-policy study found Indonesian cinnamon/cassia exports underperform due to non-tariff barriers (food safety/technical standards), a real structural market-access constraint. Clove and vetiver supply appear more stable by comparison.",
+      "severity": "Structural Risk"
     },
     {
       "name": "PATCHOULI ABSOLUTE",
@@ -10041,8 +10041,8 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "No acute disruption identified as of June 2026. Note a real structural interlink: Indonesian farmers (esp. Sulawesi) shift distillation infrastructure between Patchouli and Clove oil depending on seasonal clove-bud harvest timing, so the two materials are not fully independent in supply.",
-      "severity": "Routine Logistics"
+      "notes": "No single acute 2026 event, but a real, well-documented STRUCTURAL risk: Indonesian patchouli sustainability is under genuine long-term threat from over-farming and lack of agronomic best practices (no fertilizer/bedding standards, minimal R&D base unlike coffee/cacao/palm oil) - industry sources describe this as an ongoing crisis in slow motion, not a single shock. Separately, a Jan 2026 trade-policy study found Indonesian cinnamon/cassia exports underperform due to non-tariff barriers (food safety/technical standards), a real structural market-access constraint. Clove and vetiver supply appear more stable by comparison.",
+      "severity": "Structural Risk"
     },
     {
       "name": "PATCHOULOL CRIST SEED",
@@ -11141,7 +11141,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
+      "notes": "No material-specific disruption identified in this research pass. Note: other India-sourced spice crops (cumin, coriander, cardamom, fenugreek) are showing real supply tightness as of April-May 2026 due to weather and acreage factors - if this material shares growing regions or labor pools with those crops, indirect effects are possible but not confirmed directly for this specific material.",
       "severity": "Routine Logistics"
     },
     {
@@ -11150,10 +11150,10 @@
       "low": 3685.0,
       "high": 12068.0,
       "commodity": "No major public future",
-      "region": "India",
+      "region": null,
       "flag": false,
-      "notes": "No major acute disruption as of mid-June 2026 - black pepper and cardamom prices reported stable-to-easing in domestic/export markets. Ongoing structural issue: Indian exporters report a container shortage and rising freight costs affecting spice exports broadly (logistics cost pressure, not a supply/crop event).",
-      "severity": "Routine Logistics"
+      "notes": null,
+      "severity": null
     },
     {
       "name": "Sandenol 803",
