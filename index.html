@@ -111,6 +111,33 @@
   .notes-btn { background: none; border: none; cursor: pointer; padding: 2px; color: var(--info-text); font-size: 14px; }
   .empty-cell { color: var(--text-secondary); opacity: 0.5; }
   footer { margin-top: 1.5rem; font-size: 12px; color: var(--text-secondary); text-align: center; }
+  #acute-panel {
+    background: var(--bg-secondary);
+    border: 1px solid #e8c4c2;
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    #acute-panel { border-color: #5a2a2a; }
+  }
+  .acute-panel-header { display: flex; align-items: center; gap: 8px; }
+  .acute-panel-header h2 { font-size: 15px; font-weight: 600; margin: 0; }
+  .acute-panel-sub { font-size: 12px; color: var(--text-secondary); margin: 2px 0 12px 17px; }
+  .acute-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 13px;
+  }
+  .acute-item:last-child { border-bottom: none; }
+  .acute-rank { color: var(--text-secondary); font-size: 12px; width: 20px; flex-shrink: 0; }
+  .acute-name { flex: 1; }
+  .acute-region { color: var(--text-secondary); font-size: 12px; margin-left: 8px; }
+  .acute-price { font-weight: 500; margin-left: 12px; white-space: nowrap; }
+  .acute-empty { font-size: 13px; color: var(--text-secondary); padding: 4px 0; }
 </style>
 </head>
 <body>
@@ -135,6 +162,15 @@
     <p class="stat-label">Grade-spread flags</p>
     <p class="stat-value" id="stat-flags">-</p>
   </div>
+</div>
+
+<div id="acute-panel">
+  <div class="acute-panel-header">
+    <span class="sev-dot dot-acute" style="margin-left:0;"></span>
+    <h2 id="acute-panel-title">Top Acute Crisis materials</h2>
+  </div>
+  <p class="acute-panel-sub" id="acute-panel-sub"></p>
+  <div id="acute-list"></div>
 </div>
 
 <div class="controls">
@@ -294,6 +330,44 @@ function render() {
   });
 }
 
+function renderAcutePanel(DATA) {
+  var acute = DATA.filter(function(d) { return d.severity === 'Acute Crisis'; });
+  acute.sort(function(a, b) { return (b.high || 0) - (a.high || 0); });
+  var top = acute.slice(0, 10);
+
+  var titleEl = document.getElementById('acute-panel-title');
+  var subEl = document.getElementById('acute-panel-sub');
+  var listEl = document.getElementById('acute-list');
+
+  titleEl.textContent = 'Top ' + top.length + ' Acute Crisis material' + (top.length === 1 ? '' : 's');
+  subEl.textContent = top.length > 0
+    ? 'Ranked by $/kg high-end price exposure. Click a material to read the full note.'
+    : '';
+  listEl.innerHTML = '';
+
+  if (top.length === 0) {
+    listEl.innerHTML = '<p class="acute-empty">No materials currently flagged as Acute Crisis.</p>';
+    return;
+  }
+
+  top.forEach(function(d, i) {
+    var rangeText = (d.low != null && d.high != null)
+      ? '$' + Math.round(d.low).toLocaleString() + ' - $' + Math.round(d.high).toLocaleString()
+      : 'No data';
+    var row = document.createElement('div');
+    row.className = 'acute-item';
+    row.style.cursor = 'pointer';
+    row.innerHTML =
+      '<span class="acute-rank">' + (i + 1) + '.</span>' +
+      '<span class="acute-name">' + escapeHtml(d.name) +
+        (d.region ? '<span class="acute-region">' + escapeHtml(d.region) + '</span>' : '') +
+      '</span>' +
+      '<span class="acute-price">' + rangeText + '</span>';
+    row.addEventListener('click', function() { showNotes(d.name, d.notes, d.severity); });
+    listEl.appendChild(row);
+  });
+}
+
 fetch('data.json')
   .then(function(res) { return res.json(); })
   .then(function(json) {
@@ -317,6 +391,7 @@ fetch('data.json')
       document.getElementById('notes-panel').style.display = 'none';
     });
 
+    renderAcutePanel(DATA);
     render();
   })
   .catch(function(err) {
