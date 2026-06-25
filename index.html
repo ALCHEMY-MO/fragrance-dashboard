@@ -157,7 +157,7 @@
 <h1>Fragrance materials market dashboard</h1>
 <p class="subtitle" id="last-updated">Loading...</p>
 
-<div class="stats">
+<div class="stats" style="grid-template-columns: repeat(5, 1fr);">
   <div class="stat-card">
     <p class="stat-label">Total materials</p>
     <p class="stat-value" id="stat-total">-</p>
@@ -169,6 +169,10 @@
   <div class="stat-card">
     <p class="stat-label">With market notes</p>
     <p class="stat-value" id="stat-notes">-</p>
+  </div>
+  <div class="stat-card">
+    <p class="stat-label">Wholesale-checked</p>
+    <p class="stat-value" id="stat-wholesale">-</p>
   </div>
   <div class="stat-card">
     <p class="stat-label">Grade-spread flags</p>
@@ -196,6 +200,7 @@
     <option value="Routine Logistics">Routine Logistics</option>
   </select>
   <label class="checkbox-label"><input type="checkbox" id="f-notes-only" />Notes only</label>
+  <label class="checkbox-label"><input type="checkbox" id="f-wholesale-only" />Wholesale-checked only</label>
   <input id="f-search" type="text" placeholder="Search name..." style="width: 140px;" />
   <select id="f-sort" class="sort-select">
     <option value="high-desc">Highest cost first</option>
@@ -309,6 +314,7 @@ function render() {
   var reg = document.getElementById('f-region').value;
   var sev = document.getElementById('f-severity').value;
   var notesOnly = document.getElementById('f-notes-only').checked;
+  var wholesaleOnly = document.getElementById('f-wholesale-only').checked;
   var search = document.getElementById('f-search').value.toLowerCase();
   var sort = document.getElementById('f-sort').value;
 
@@ -318,6 +324,7 @@ function render() {
     if (reg && d.region !== reg) return false;
     if (sev && d.severity !== sev) return false;
     if (notesOnly && !d.notes) return false;
+    if (wholesaleOnly && !d.wholesale_check) return false;
     if (search && d.name.toLowerCase().indexOf(search) === -1) return false;
     return true;
   });
@@ -403,6 +410,7 @@ fetch('data.json')
     document.getElementById('last-updated').textContent = 'Last updated: ' + json.last_updated;
     document.getElementById('stat-total').textContent = DATA.length;
     document.getElementById('stat-notes').textContent = DATA.filter(function(d){ return d.notes; }).length;
+    document.getElementById('stat-wholesale').textContent = DATA.filter(function(d){ return d.wholesale_check; }).length;
     document.getElementById('stat-flags').textContent = DATA.filter(function(d){ return d.flag; }).length;
 
     var categories = uniqueSorted(DATA.map(function(d){ return d.category; }));
@@ -412,7 +420,7 @@ fetch('data.json')
     populateSelect('f-commodity', commodities);
     populateSelect('f-region', regions);
 
-    ['f-category','f-commodity','f-region','f-severity','f-search','f-sort','f-notes-only'].forEach(function(id) {
+    ['f-category','f-commodity','f-region','f-severity','f-search','f-sort','f-notes-only','f-wholesale-only'].forEach(function(id) {
       document.getElementById(id).addEventListener('input', render);
     });
     document.getElementById('notes-panel-close').addEventListener('click', function() {
