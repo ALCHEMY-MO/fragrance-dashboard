@@ -24,6 +24,10 @@
       --info-bg: #042c53;
       --info-text: #b5d4f4;
     }
+    .sev-acute { background: #4a1414; color: #f5b3b3; }
+    .sev-structural { background: #4a3608; color: #f5d896; }
+    .sev-routine { background: #38372f; color: #cfcdc3; }
+    #acute-panel { border-color: #5a2a2a; }
   }
   * { box-sizing: border-box; }
   body {
@@ -65,6 +69,22 @@
   #notes-panel .header { display: flex; justify-content: space-between; align-items: start; gap: 8px; }
   #notes-panel .title { font-weight: 500; margin: 0 0 6px; color: var(--info-text); }
   #notes-panel .body { margin: 0; color: var(--text); }
+  #notes-panel-wholesale {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border);
+    display: none;
+  }
+  #notes-panel-wholesale .wholesale-label {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--text-secondary);
+    margin: 0 0 4px;
+  }
+  #notes-panel-wholesale .wholesale-text { margin: 0 0 4px; color: var(--text); }
+  #notes-panel-wholesale .wholesale-source { margin: 0; font-size: 11px; color: var(--text-secondary); font-style: italic; }
   #notes-panel .severity-badge {
     display: inline-block;
     font-size: 11px;
@@ -77,11 +97,6 @@
   .sev-acute { background: #fbe1e1; color: #9b1c1c; }
   .sev-structural { background: #fbedd2; color: #8a5a09; }
   .sev-routine { background: #e9e8e3; color: #5f5e5a; }
-  @media (prefers-color-scheme: dark) {
-    .sev-acute { background: #4a1414; color: #f5b3b3; }
-    .sev-structural { background: #4a3608; color: #f5d896; }
-    .sev-routine { background: #38372f; color: #cfcdc3; }
-  }
   .sev-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-left: 5px; }
   .dot-acute { background: #c1352f; }
   .dot-structural { background: #c98a1f; }
@@ -117,9 +132,6 @@
     border-radius: 10px;
     padding: 1rem 1.25rem;
     margin-bottom: 1.5rem;
-  }
-  @media (prefers-color-scheme: dark) {
-    #acute-panel { border-color: #5a2a2a; }
   }
   .acute-panel-header { display: flex; align-items: center; gap: 8px; }
   .acute-panel-header h2 { font-size: 15px; font-weight: 600; margin: 0; }
@@ -199,6 +211,7 @@
   </div>
   <p class="severity-badge" id="notes-panel-severity"></p>
   <p class="body" id="notes-panel-body"></p>
+  <div id="notes-panel-wholesale"></div>
 </div>
 
 <div class="table-wrap">
@@ -247,6 +260,14 @@ function escapeHtml(s) {
   d.textContent = s;
   return d.innerHTML;
 }
+function formatRange(d) {
+  return (d.low != null && d.high != null)
+    ? '$' + Math.round(d.low).toLocaleString() + ' - $' + Math.round(d.high).toLocaleString()
+    : 'No data';
+}
+function openNotesFor(d) {
+  showNotes(d.name, d.notes, d.severity, d.wholesale_check, d.wholesale_source);
+}
 var severityClass = {
   'Acute Crisis': 'sev-acute',
   'Structural Risk': 'sev-structural',
@@ -257,9 +278,9 @@ var severityDotClass = {
   'Structural Risk': 'dot-structural',
   'Routine Logistics': 'dot-routine'
 };
-function showNotes(name, notes, severity) {
+function showNotes(name, notes, severity, wholesaleCheck, wholesaleSource) {
   document.getElementById('notes-panel-title').textContent = name;
-  document.getElementById('notes-panel-body').textContent = notes;
+  document.getElementById('notes-panel-body').textContent = notes || '';
   var sevEl = document.getElementById('notes-panel-severity');
   if (severity) {
     sevEl.textContent = severity;
@@ -267,6 +288,17 @@ function showNotes(name, notes, severity) {
     sevEl.style.display = 'inline-block';
   } else {
     sevEl.style.display = 'none';
+  }
+  var wsEl = document.getElementById('notes-panel-wholesale');
+  if (wholesaleCheck) {
+    wsEl.innerHTML =
+      '<p class="wholesale-label">Wholesale reference check</p>' +
+      '<p class="wholesale-text">' + escapeHtml(wholesaleCheck) + '</p>' +
+      (wholesaleSource ? '<p class="wholesale-source">Source: ' + escapeHtml(wholesaleSource) + '</p>' : '');
+    wsEl.style.display = 'block';
+  } else {
+    wsEl.style.display = 'none';
+    wsEl.innerHTML = '';
   }
   document.getElementById('notes-panel').style.display = 'block';
 }
@@ -300,9 +332,7 @@ function render() {
   tbody.innerHTML = '';
   filtered.forEach(function(d) {
     var colors = catColors[d.category] || { bg: '#f1efe8', text: '#5f5e5a' };
-    var rangeText = (d.low != null && d.high != null)
-      ? '$' + Math.round(d.low).toLocaleString() + ' - $' + Math.round(d.high).toLocaleString()
-      : 'No data';
+    var rangeText = formatRange(d);
     var regionText = d.region || '\u2014';
 
     var tr = document.createElement('tr');
@@ -315,13 +345,13 @@ function render() {
       '<td class="col-notes"></td>';
 
     var notesCell = tr.querySelector('.col-notes');
-    if (d.notes) {
+    if (d.notes || d.wholesale_check) {
       var btn = document.createElement('button');
       btn.className = 'notes-btn';
       btn.setAttribute('aria-label', 'View market note for ' + d.name + (d.severity ? ' (' + d.severity + ')' : ''));
       btn.title = d.severity || '';
       btn.innerHTML = '\u24D8' + (d.severity ? '<span class="sev-dot ' + (severityDotClass[d.severity] || '') + '"></span>' : '');
-      btn.addEventListener('click', function() { showNotes(d.name, d.notes, d.severity); });
+      btn.addEventListener('click', function() { openNotesFor(d); });
       notesCell.appendChild(btn);
     } else {
       notesCell.innerHTML = '<span class="empty-cell">\u2014</span>';
@@ -351,9 +381,7 @@ function renderAcutePanel(DATA) {
   }
 
   top.forEach(function(d, i) {
-    var rangeText = (d.low != null && d.high != null)
-      ? '$' + Math.round(d.low).toLocaleString() + ' - $' + Math.round(d.high).toLocaleString()
-      : 'No data';
+    var rangeText = formatRange(d);
     var row = document.createElement('div');
     row.className = 'acute-item';
     row.style.cursor = 'pointer';
@@ -363,7 +391,7 @@ function renderAcutePanel(DATA) {
         (d.region ? '<span class="acute-region">' + escapeHtml(d.region) + '</span>' : '') +
       '</span>' +
       '<span class="acute-price">' + rangeText + '</span>';
-    row.addEventListener('click', function() { showNotes(d.name, d.notes, d.severity); });
+    row.addEventListener('click', function() { openNotesFor(d); });
     listEl.appendChild(row);
   });
 }
