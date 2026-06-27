@@ -1775,8 +1775,8 @@
       "flag": false,
       "notes": null,
       "severity": null,
-      "wholesale_check": null,
-      "wholesale_source": null,
+      "wholesale_check": "Real disagreement across sources, not a clean verification: our $704-1,238/kg range sits ABOVE industrial bulk B2B trade data (~$61/kg for premium-grade powder per reedintelligence/accio.com 2026 trade analysis), but within range of small-quantity boutique 'true KAO Ambroxan' crystal retail (perfumersupplyhouse.com shows wide $8-63 for small packs, scaling up plausibly to four figures per kg). The $350-590/kg figure originally cited (premierepeau) appears to be a third, middle tier. This material has genuinely fragmented pricing by purity/brand/volume tier - treat any single number with caution.",
+      "wholesale_source": "Cross-source reference table (perfumesociety, premierepeau, ads-perfumes, alphaaromatics) - June 2026",
       "is_concentrate": false
     },
     {
@@ -8887,8 +8887,8 @@
       "flag": false,
       "notes": "No material-specific disruption identified in this research pass. Note: other India-sourced spice crops (cumin, coriander, cardamom, fenugreek) are showing real supply tightness as of April-May 2026 due to weather and acreage factors - if this material shares growing regions or labor pools with those crops, indirect effects are possible but not confirmed directly for this specific material.",
       "severity": "Routine Logistics",
-      "wholesale_check": null,
-      "wholesale_source": null,
+      "wholesale_check": "jasmine: within expected $5,000-$16,000/kg band",
+      "wholesale_source": "Cross-source reference table (perfumesociety, premierepeau, ads-perfumes, alphaaromatics) - June 2026",
       "is_concentrate": true
     },
     {
@@ -12583,8 +12583,8 @@
       "flag": false,
       "notes": null,
       "severity": null,
-      "wholesale_check": null,
-      "wholesale_source": null,
+      "wholesale_check": "rose: within expected $3,000-$15,000/kg band",
+      "wholesale_source": "Cross-source reference table (perfumesociety, premierepeau, ads-perfumes, alphaaromatics) - June 2026",
       "is_concentrate": false
     },
     {
