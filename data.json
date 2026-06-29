@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24",
+  "last_updated": "2026-06-28",
   "materials": [
     {
       "name": "1,3,5,-Undecatriene FCC",
@@ -481,14 +481,14 @@
       "name": "2-Methoxy-3-Methyl Pyrazine",
       "category": "Synthetic Aroma Chemical",
       "low": 1495.0,
-      "high": 3250.0,
+      "high": 1495.0,
       "commodity": "Corn",
       "region": null,
       "flag": false,
       "notes": null,
       "severity": null,
-      "wholesale_check": null,
-      "wholesale_source": null,
+      "wholesale_check": "CORRECTED: Vigon's source data assigns CAS 2847-30-5 to BOTH \"Methoxy-2 3-Methyl Pyrazine\" ($1,495/kg) AND \"Methoxy-2 3-isobutyl Pyrazine\" ($3,250/kg). Confirmed via 9 independent chemical references (NIST WebBook, Sigma-Aldrich, TCI, ChemicalBook) that CAS 2847-30-5 belongs ONLY to the methyl variant - the isobutyl variant is a real, distinct, separately-documented compound (used in wine aroma chemistry) that has been mislabeled with the wrong CAS by Vigon. Range corrected to remove the contaminated isobutyl price.",
+      "wholesale_source": "NIST WebBook, Sigma-Aldrich, TCI America, ChemicalBook (June 2026)",
       "is_concentrate": false
     },
     {
@@ -2018,20 +2018,6 @@
       "is_concentrate": false
     },
     {
-      "name": "BENZOIN SIAM 50%BB",
-      "category": "Synthetic Aroma Chemical",
-      "low": 69.31,
-      "high": 1225.42,
-      "commodity": "Crude Oil",
-      "region": null,
-      "flag": false,
-      "notes": null,
-      "severity": null,
-      "wholesale_check": null,
-      "wholesale_source": null,
-      "is_concentrate": false
-    },
-    {
       "name": "BENZONITRILE",
       "category": "Synthetic Aroma Chemical",
       "low": 59.75,
@@ -3348,7 +3334,7 @@
       "is_concentrate": false
     },
     {
-      "name": "COCONUT OIL",
+      "name": "Coconut CO2 Extract (concentrated extract, NOT plain cooking oil)",
       "category": "Essential Oil",
       "low": 1160.0,
       "high": 1160.0,
@@ -3357,9 +3343,9 @@
       "flag": false,
       "notes": null,
       "severity": null,
-      "wholesale_check": null,
-      "wholesale_source": null,
-      "is_concentrate": false
+      "wholesale_check": "Real wholesale plain Coconut Oil: $2-15/kg (Tridge, Selina Wamucii, multiple 2026 trade sources) - our priced entry is actually \"Coconut CO2 Extract\" (confirmed via raw source data), a concentrated supercritical extract, not plain cooking-grade oil. $1,160/kg is plausible for a CO2 extract concentrate, NOT for plain coconut oil - name corrected to avoid this confusion.",
+      "wholesale_source": "Tridge, Selina Wamucii (2026) + Perfumers Apprentice raw source data",
+      "is_concentrate": true
     },
     {
       "name": "COFFEE EXTR CONC HIGH ROAST 47 B",
@@ -3450,20 +3436,6 @@
       "category": "Synthetic Aroma Chemical",
       "low": 334.6,
       "high": 334.6,
-      "commodity": "Crude Oil",
-      "region": null,
-      "flag": false,
-      "notes": null,
-      "severity": null,
-      "wholesale_check": null,
-      "wholesale_source": null,
-      "is_concentrate": false
-    },
-    {
-      "name": "COUMAREX DB",
-      "category": "Synthetic Aroma Chemical",
-      "low": 149.38,
-      "high": 222.27,
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
@@ -4155,20 +4127,6 @@
       "flag": false,
       "notes": "No acute supply/crop disruption identified. Real current logistics/compliance risk: mandatory digital customs system (Nafeza/ACI) can strand unfamiliar suppliers shipments at port for weeks with fines.",
       "severity": "Routine Logistics",
-      "wholesale_check": null,
-      "wholesale_source": null,
-      "is_concentrate": false
-    },
-    {
-      "name": "Chamomile Syn OLIFFAC \"N&A\"",
-      "category": "Synthetic Aroma Chemical",
-      "low": 35.73,
-      "high": 45.17,
-      "commodity": "Crude Oil",
-      "region": null,
-      "flag": false,
-      "notes": null,
-      "severity": null,
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false
@@ -6001,20 +5959,6 @@
       "commodity": "Crude Oil / Natural Gas",
       "region": null,
       "flag": true,
-      "notes": null,
-      "severity": null,
-      "wholesale_check": null,
-      "wholesale_source": null,
-      "is_concentrate": false
-    },
-    {
-      "name": "Ethyl Alcohol  / PG Blend 45/55 GRAS  Shake before use",
-      "category": "Synthetic Aroma Chemical",
-      "low": 47.44,
-      "high": 87.22,
-      "commodity": "Crude Oil",
-      "region": null,
-      "flag": false,
       "notes": null,
       "severity": null,
       "wholesale_check": null,
@@ -15427,6 +15371,20 @@
       "severity": null,
       "wholesale_check": null,
       "wholesale_source": null,
+      "is_concentrate": false
+    },
+    {
+      "name": "Benzoin Siam",
+      "category": "Resinoid",
+      "low": 197.18,
+      "high": 656.06,
+      "commodity": "Unknown",
+      "region": null,
+      "flag": false,
+      "notes": null,
+      "severity": null,
+      "wholesale_check": "Real CAS for Benzoin Siam confirmed as 9000-72-0 via ScenTree, BOC Sciences, Vigon SDS, Sigma-Aldrich - distinct from Sumatra Benzoin (CAS 9000-05-9, a different source species, Styrax benzoin vs Styrax tonkinensis). Price from RFP \"Benzoin Siam Resin pure Granulated\" bids ($82.50-$274.50), adjusted forward 2.39x per the established Vigon/RFP ratio.",
+      "wholesale_source": "ScenTree, BOC Sciences, Vigon SDS, Sigma-Aldrich (June 2026)",
       "is_concentrate": false
     }
   ]
