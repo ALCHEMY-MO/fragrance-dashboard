@@ -150,6 +150,9 @@
   .acute-region { color: var(--text-secondary); font-size: 12px; margin-left: 8px; }
   .acute-price { font-weight: 500; margin-left: 12px; white-space: nowrap; }
   .acute-empty { font-size: 13px; color: var(--text-secondary); padding: 4px 0; }
+  .price-up   { color: #c0392b; font-size: 11px; margin-left: 4px; }
+  .price-down { color: #27ae60; font-size: 11px; margin-left: 4px; }
+  .price-flat { color: var(--text-secondary); font-size: 11px; margin-left: 4px; }
 </style>
 </head>
 <body>
@@ -270,6 +273,12 @@ function formatRange(d) {
     ? '$' + Math.round(d.low).toLocaleString() + ' - $' + Math.round(d.high).toLocaleString()
     : 'No data';
 }
+function directionArrow(dir) {
+  if (dir === 'up')   return '<span class="price-up" title="Price up since last update">\u25B2</span>';
+  if (dir === 'down') return '<span class="price-down" title="Price down since last update">\u25BC</span>';
+  if (dir === 'flat') return '<span class="price-flat" title="Price unchanged since last update">\u2192</span>';
+  return '';
+}
 function openNotesFor(d) {
   showNotes(d.name, d.notes, d.severity, d.wholesale_check, d.wholesale_source);
 }
@@ -348,7 +357,7 @@ function render() {
       '<td class="col-cat"><span class="badge" style="background:' + colors.bg + ';color:' + colors.text + '">' + escapeHtml(d.category) + '</span></td>' +
       '<td class="col-comm">' + escapeHtml(d.commodity) + '</td>' +
       '<td class="col-region">' + escapeHtml(regionText) + '</td>' +
-      '<td class="col-price">' + rangeText + '</td>' +
+      '<td class="col-price">' + rangeText + directionArrow(d.direction) + '</td>' +
       '<td class="col-notes"></td>';
 
     var notesCell = tr.querySelector('.col-notes');
@@ -397,7 +406,7 @@ function renderAcutePanel(DATA) {
       '<span class="acute-name">' + escapeHtml(d.name) +
         (d.region ? '<span class="acute-region">' + escapeHtml(d.region) + '</span>' : '') +
       '</span>' +
-      '<span class="acute-price">' + rangeText + '</span>';
+      '<span class="acute-price">' + rangeText + directionArrow(d.direction) + '</span>';
     row.addEventListener('click', function() { openNotesFor(d); });
     listEl.appendChild(row);
   });
