@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-09-10",
   "materials": [
     {
       "name": "1,3,5,-Undecatriene FCC",
@@ -29,7 +29,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "1-HEXANOL NATURAL EU BESTALLY",
@@ -74,7 +74,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "1-OCTEN-3-YL ACETATE BIOSYNTHETIC",
@@ -479,7 +479,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "2-METHYLTETRAHYDROFURAN-3-ONE",
@@ -734,7 +734,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "5H-5-Methyl-6,7-Dihydrocyclopentapyrazine",
@@ -884,7 +884,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "ALDEHYDE C 11 UNDECYLIC",
@@ -944,7 +944,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": true,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "ALDRON",
@@ -959,7 +959,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "ALMOND OIL, VIRGIN  BIO",
@@ -989,7 +989,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "AMBRETTOLIDE",
@@ -1004,7 +1004,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "AMBROX DL PR AMBROX DL COEUR",
@@ -1019,7 +1019,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "ANISE OIL USP (STAR) \"P&N\"",
@@ -1119,7 +1119,7 @@
       "commodity": "No major public future",
       "region": "Morocco",
       "flag": false,
-      "notes": "No new acute event found August 2026. UN General Assembly declared May 10 the International Day of Argania (adopted by 113 member states) - signals ongoing international recognition of argan tree conservation concerns. Chronic drought structural risk holds. No change in severity assessment.",
+      "notes": "No new acute event September 2026. Chronic drought structural risk holds. International Day of Argania (May 10) confirmed by UN General Assembly - international recognition of conservation concern. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -1154,7 +1154,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "AURANTIA",
@@ -1169,7 +1169,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "AVOCADO OIL, REFINED",
@@ -1214,7 +1214,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Acetal",
@@ -1229,7 +1229,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Acetanisole",
@@ -1244,7 +1244,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Acetate C-10",
@@ -1289,7 +1289,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Acetate C-9",
@@ -1304,7 +1304,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Acetic Acid",
@@ -1319,7 +1319,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Acetoin",
@@ -1349,7 +1349,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Acetyl Valeryl",
@@ -1379,7 +1379,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Alcohol C-10",
@@ -1394,7 +1394,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Alcohol C-12",
@@ -1424,7 +1424,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Alcohol C-9",
@@ -1439,7 +1439,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Aldehyde C-08",
@@ -1454,7 +1454,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Aldehyde C-10",
@@ -1469,7 +1469,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Aldehyde C-11 (ISO)",
@@ -1499,7 +1499,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Aldehyde C-12 Lauric",
@@ -1514,7 +1514,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Aldehyde C-12 MNA",
@@ -1589,7 +1589,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Allyl Amyl Glycolate",
@@ -1604,7 +1604,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Allyl Caproate",
@@ -1619,7 +1619,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Allyl Cyclo Hexyl Propionate",
@@ -1649,7 +1649,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Allyl Ionone",
@@ -1724,7 +1724,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Alpha Farnesene",
@@ -1754,7 +1754,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Alpha Ionone",
@@ -1769,7 +1769,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Alpha Methyl Cinnamic Aldehyde",
@@ -1799,7 +1799,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Alpha Terpineol",
@@ -1814,7 +1814,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Alpha Tocopherols",
@@ -1844,7 +1844,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Ambrarom Absolute",
@@ -1889,7 +1889,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ambroxan",
@@ -1904,7 +1904,7 @@
       "wholesale_check": "Real disagreement across sources, not a clean verification: our $704-1,238/kg range sits ABOVE industrial bulk B2B trade data (~$61/kg for premium-grade powder per reedintelligence/accio.com 2026 trade analysis), but within range of small-quantity boutique 'true KAO Ambroxan' crystal retail (perfumersupplyhouse.com shows wide $8-63 for small packs, scaling up plausibly to four figures per kg). The $350-590/kg figure originally cited (premierepeau) appears to be a third, middle tier. This material has genuinely fragmented pricing by purity/brand/volume tier - treat any single number with caution.",
       "wholesale_source": "Cross-source reference table (perfumesociety, premierepeau, ads-perfumes, alphaaromatics) - June 2026",
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Amyl Acetate",
@@ -1919,7 +1919,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Amyl Butyrate",
@@ -1934,7 +1934,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Amyl Cinnamic Aldehyde",
@@ -1949,7 +1949,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Amyl Salicylate",
@@ -2024,7 +2024,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Anisyl Alcohol",
@@ -2039,7 +2039,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Anther",
@@ -2054,7 +2054,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Aphermate",
@@ -2069,7 +2069,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Argrunitrile",
@@ -2084,7 +2084,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Armoise Oil \"P&N\"",
@@ -2144,7 +2144,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": true,
-      "supply_risk": "red"
+      "supply_risk": "yellow"
     },
     {
       "name": "BENZOIN BAUMAROME TRIAC",
@@ -2294,7 +2294,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "BETA BISABOLENE NAT",
@@ -2354,7 +2354,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "BORONIA ABS",
@@ -2399,7 +2399,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "BRAN ABSOLUTE IFF",
@@ -2519,7 +2519,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Bay Oil",
@@ -2564,7 +2564,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Benzaldehyde Propylene Glycol Acetal",
@@ -2594,7 +2594,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Benzoic Acid",
@@ -2624,7 +2624,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Benzyl Acetate",
@@ -2639,7 +2639,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "red"
+      "supply_risk": "yellow"
     },
     {
       "name": "Benzyl Acetone",
@@ -2669,7 +2669,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Benzyl Benzoate",
@@ -2684,7 +2684,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Benzyl Cinnamate",
@@ -2699,7 +2699,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Benzyl Formate",
@@ -2759,7 +2759,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Benzyl Salicylate",
@@ -2774,7 +2774,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Beta Caryophyllene",
@@ -2789,7 +2789,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Beta Ionone",
@@ -2804,7 +2804,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Beta Pinene",
@@ -2834,7 +2834,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Bitter Orange Oil 5 Fold",
@@ -2859,7 +2859,7 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "UPDATED August 2026. Ultra International (world's largest patchouli exporter, production partner PT Van Aroma) confirms: Indonesia accounts for over 80% of global patchouli market; Sulawesi now represents ~80% of total raw material (major geographic shift from historical Java/Sumatra base); annual production ~1,000-1,200MT with market demand calculated at roughly the same level - virtually zero buffer. This single-island concentration in Sulawesi is a real, confirmed structural vulnerability not well-understood outside the trade. US tariffs (active August 7, 2026) now apply to Indonesian origin materials - direct cost impact for US buyers of patchouli, clove, cinnamon. Still no acute 2026 event, but the supply-demand balance and geographic concentration are tighter than any previous note indicated. Upgraded from prior framing: this is a genuine, well-evidenced Structural Risk.",
+      "notes": "UPDATED September 2026. Patchouli H1 2026 assessment (Procurement Resource, July 2026): \"balanced to mildly firm tone\" through H1 2026. Expanded cultivation footprint from earlier high prices now maturing, sustaining adequate leaf availability. However quality differentiation pronounced - aged oil commands premium over freshly distilled; premium perfumery buyers procuring selectively. Variable inland logistics and periodic weather disruption creating episodic tightness. H2 2026 outlook: \"range bound, quality differentiated supply and steady fragrance demand keeping market balanced\" per Procurement Resource. Structural risk still real and confirmed by CBI (Jan 2026): 90% global patchouli from Indonesia; over-tapping and soil depletion ongoing. US tariffs (active August 7, 2026) on Indonesian origin apply. Patchouli Light: \"broadly stable H2 2026, supported by improved Indonesian supply practices\" per Procurement Resource. Overall picture improved from prior note - less acutely tight, but structural fragility unchanged. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -2909,7 +2909,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Butyl Acetate",
@@ -2924,7 +2924,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Butyl Butyryl Lactate",
@@ -2939,7 +2939,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Butyl Isobutyrate",
@@ -2999,7 +2999,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Butyric Acid",
@@ -3014,7 +3014,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "C3 Hexenyl Butyrate",
@@ -3039,7 +3039,7 @@
       "commodity": "Cardamom",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -3059,7 +3059,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "CASCARILLA OIL ARR",
@@ -3084,7 +3084,7 @@
       "commodity": "No major public future",
       "region": "Morocco",
       "flag": false,
-      "notes": "No new acute event found August 2026. UN General Assembly declared May 10 the International Day of Argania (adopted by 113 member states) - signals ongoing international recognition of argan tree conservation concerns. Chronic drought structural risk holds. No change in severity assessment.",
+      "notes": "No new acute event September 2026. Chronic drought structural risk holds. International Day of Argania (May 10) confirmed by UN General Assembly - international recognition of conservation concern. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -3134,7 +3134,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "CEDROXYDE\u00ae",
@@ -3149,7 +3149,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "CHAMOMILE ABS MATRICARIA NAT",
@@ -3159,7 +3159,7 @@
       "commodity": "No major public future",
       "region": "Egypt",
       "flag": false,
-      "notes": "No new acute disruption identified August 2026. Nafeza/ACI customs compliance risk ongoing. No change.",
+      "notes": "No new acute disruption September 2026. Nafeza/ACI customs compliance friction ongoing. No change.",
       "severity": "Routine Logistics",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -3284,7 +3284,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "CIS-3-HEXENYL BENZOATE BIOSYNTHETIC",
@@ -3299,7 +3299,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "CIS-3-Hexenyl Propionate",
@@ -3359,7 +3359,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "CITRAL NAT EX LEMON 7360 ARR",
@@ -3389,7 +3389,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "CITRONELLYL PROPIONATE",
@@ -3449,7 +3449,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "CITROWANIL B",
@@ -3479,7 +3479,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "CLARITONE (Symrise 600285) DO NOT USE IN NEW",
@@ -3494,7 +3494,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "CLONAL",
@@ -3509,7 +3509,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "CLOVE TERPENES",
@@ -3519,7 +3519,7 @@
       "commodity": "No major public future",
       "region": "Madagascar",
       "flag": false,
-      "notes": "UPDATED August 2026. Two significant new developments since last update: (1) US TARIFFS: Reciprocal tariffs active as of August 7, 2026 (Executive Order 14257) now apply to Madagascar, Indonesia, Sri Lanka, Vietnam, and Comoros. De Monchy Natural Products (August 2026) confirms procurement teams are navigating \"a new, yet still fluid reality\" with policy shifts still possible quickly. Direct cost-structure impact for US buyers of clove and vanilla. (2) VANILLA SUSTAINABILITY: Fairtrade/Frontier Co-op DONUTS program launched August 5, 2026 - 3.5 year capacity-building project for Malagasy smallholder vanilla cooperatives (SAVA region). EKL Export (Madagascar exporter) confirms August 2026 as export preparation/planning phase for the main 2026 harvest. Wholesale vanilla still $6.06-$23.57/kg (Selina Wamucii, 2026) - low/oversupply phase persisting despite cyclone crop damage. (3) CLOVE: 50-70% harvest collapse confirmed; US tariffs now add further cost burden for American buyers. European buyers remain most exposed given Indonesia cannot fill gap. Remains Acute Crisis.",
+      "notes": "UPDATED September 2026. CLOVE: Cyclone damage (50-70% harvest collapse) ongoing. US reciprocal tariffs active August 7, 2026 adding direct cost for US buyers. AG Organica (July 2026 Essential Oil Market Report) confirms clove supply remains tight globally. VANILLA: Market now clearly at the bottom of the cycle. Expert Market Research (June 2026): cured Grade A averaged USD 200/kg in Q1 2026, down 2.4% from Q4 2025. WholesaleVanillaBeans.com (July 9, 2026): \"the picture this season is one of normalization at the bottom of the cycle.\" 2026 Madagascar crop projected 3,000-3,500 MT; April 2023 removal of $250 minimum export price let market find real level. Farm-gate prices fell to ~$1.50/kg green beans in 2025 - pressure to rush curing process a real quality risk. Uganda trading at discount to comparable Madagascar grades with twice-yearly harvest cushioning supply calendar. Export season opened early July per Madagascar government rules. Fairtrade/Frontier Co-op DONUTS program (launched August 5, 2026) supporting SAVA region smallholder cooperatives. Clove remains Acute Crisis; vanilla has moved to a genuine oversupply/low-price phase despite cyclone damage.",
       "severity": "Acute Crisis",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -3554,7 +3554,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "COCOA BUTTER",
@@ -3644,7 +3644,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "CORPS RACINE",
@@ -3659,7 +3659,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "CORPS RHUBARBE",
@@ -3704,7 +3704,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "CUMIN NITRILE",
@@ -3809,7 +3809,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "CYCLOGERANIATE DE METH BRUT",
@@ -3869,7 +3869,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Cade Oil",
@@ -3944,7 +3944,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Camellia Seed Oil P&N Organic",
@@ -3974,7 +3974,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Camphor",
@@ -3989,7 +3989,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Camphor Gum Natural",
@@ -4019,7 +4019,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Cananga Oil",
@@ -4094,7 +4094,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Caramel Furanone 100%",
@@ -4109,7 +4109,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Caraway",
@@ -4124,7 +4124,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Carrot Seed Oil",
@@ -4154,7 +4154,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Carvyl Acetate",
@@ -4184,7 +4184,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Caryophyllene Oxide",
@@ -4199,7 +4199,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Cassia Oil",
@@ -4209,7 +4209,7 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "UPDATED August 2026. Ultra International (world's largest patchouli exporter, production partner PT Van Aroma) confirms: Indonesia accounts for over 80% of global patchouli market; Sulawesi now represents ~80% of total raw material (major geographic shift from historical Java/Sumatra base); annual production ~1,000-1,200MT with market demand calculated at roughly the same level - virtually zero buffer. This single-island concentration in Sulawesi is a real, confirmed structural vulnerability not well-understood outside the trade. US tariffs (active August 7, 2026) now apply to Indonesian origin materials - direct cost impact for US buyers of patchouli, clove, cinnamon. Still no acute 2026 event, but the supply-demand balance and geographic concentration are tighter than any previous note indicated. Upgraded from prior framing: this is a genuine, well-evidenced Structural Risk.",
+      "notes": "UPDATED September 2026. Patchouli H1 2026 assessment (Procurement Resource, July 2026): \"balanced to mildly firm tone\" through H1 2026. Expanded cultivation footprint from earlier high prices now maturing, sustaining adequate leaf availability. However quality differentiation pronounced - aged oil commands premium over freshly distilled; premium perfumery buyers procuring selectively. Variable inland logistics and periodic weather disruption creating episodic tightness. H2 2026 outlook: \"range bound, quality differentiated supply and steady fragrance demand keeping market balanced\" per Procurement Resource. Structural risk still real and confirmed by CBI (Jan 2026): 90% global patchouli from Indonesia; over-tapping and soil depletion ongoing. US tariffs (active August 7, 2026) on Indonesian origin apply. Patchouli Light: \"broadly stable H2 2026, supported by improved Indonesian supply practices\" per Procurement Resource. Overall picture improved from prior note - less acutely tight, but structural fragility unchanged. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -4244,7 +4244,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Cedarwood Oil Atlas",
@@ -4274,7 +4274,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Cedarwood Oil White",
@@ -4289,7 +4289,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Cedrene",
@@ -4334,7 +4334,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cedryl Acetate 50%",
@@ -4349,7 +4349,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Cedryl Methyl Ether",
@@ -4419,7 +4419,7 @@
       "commodity": "No major public future",
       "region": "Egypt",
       "flag": false,
-      "notes": "No new acute disruption identified August 2026. Nafeza/ACI customs compliance risk ongoing. No change.",
+      "notes": "No new acute disruption September 2026. Nafeza/ACI customs compliance friction ongoing. No change.",
       "severity": "Routine Logistics",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -4439,7 +4439,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cinnamalua (Cinnamyl Nitrile)",
@@ -4454,7 +4454,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Cinnamic Alcohol",
@@ -4469,7 +4469,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cinnamon Bark Oil",
@@ -4479,7 +4479,7 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "UPDATED August 2026. Ultra International (world's largest patchouli exporter, production partner PT Van Aroma) confirms: Indonesia accounts for over 80% of global patchouli market; Sulawesi now represents ~80% of total raw material (major geographic shift from historical Java/Sumatra base); annual production ~1,000-1,200MT with market demand calculated at roughly the same level - virtually zero buffer. This single-island concentration in Sulawesi is a real, confirmed structural vulnerability not well-understood outside the trade. US tariffs (active August 7, 2026) now apply to Indonesian origin materials - direct cost impact for US buyers of patchouli, clove, cinnamon. Still no acute 2026 event, but the supply-demand balance and geographic concentration are tighter than any previous note indicated. Upgraded from prior framing: this is a genuine, well-evidenced Structural Risk.",
+      "notes": "UPDATED September 2026. Patchouli H1 2026 assessment (Procurement Resource, July 2026): \"balanced to mildly firm tone\" through H1 2026. Expanded cultivation footprint from earlier high prices now maturing, sustaining adequate leaf availability. However quality differentiation pronounced - aged oil commands premium over freshly distilled; premium perfumery buyers procuring selectively. Variable inland logistics and periodic weather disruption creating episodic tightness. H2 2026 outlook: \"range bound, quality differentiated supply and steady fragrance demand keeping market balanced\" per Procurement Resource. Structural risk still real and confirmed by CBI (Jan 2026): 90% global patchouli from Indonesia; over-tapping and soil depletion ongoing. US tariffs (active August 7, 2026) on Indonesian origin apply. Patchouli Light: \"broadly stable H2 2026, supported by improved Indonesian supply practices\" per Procurement Resource. Overall picture improved from prior note - less acutely tight, but structural fragility unchanged. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -4499,7 +4499,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Cinnamyl Propionate",
@@ -4544,7 +4544,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cis 3 Hexenyl Benzoate",
@@ -4604,7 +4604,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cis 3 Hexenyl Tiglate",
@@ -4634,7 +4634,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cis Hexenyl Isobutyrate",
@@ -4664,7 +4664,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "red"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cis-3-Hexenyl Isovalerate",
@@ -4709,7 +4709,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Citral Ex Litsea(Citral )",
@@ -4724,7 +4724,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Citronella Java",
@@ -4739,7 +4739,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Citronellal",
@@ -4754,7 +4754,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Citronellol 80",
@@ -4769,7 +4769,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Citronelly Isobutyrate",
@@ -4799,7 +4799,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Citronellyl Butyrate",
@@ -4829,7 +4829,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Clary Sage Oil",
@@ -4844,7 +4844,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Clove Bud Oil",
@@ -4854,7 +4854,7 @@
       "commodity": "No major public future",
       "region": "Madagascar",
       "flag": false,
-      "notes": "UPDATED August 2026. Two significant new developments since last update: (1) US TARIFFS: Reciprocal tariffs active as of August 7, 2026 (Executive Order 14257) now apply to Madagascar, Indonesia, Sri Lanka, Vietnam, and Comoros. De Monchy Natural Products (August 2026) confirms procurement teams are navigating \"a new, yet still fluid reality\" with policy shifts still possible quickly. Direct cost-structure impact for US buyers of clove and vanilla. (2) VANILLA SUSTAINABILITY: Fairtrade/Frontier Co-op DONUTS program launched August 5, 2026 - 3.5 year capacity-building project for Malagasy smallholder vanilla cooperatives (SAVA region). EKL Export (Madagascar exporter) confirms August 2026 as export preparation/planning phase for the main 2026 harvest. Wholesale vanilla still $6.06-$23.57/kg (Selina Wamucii, 2026) - low/oversupply phase persisting despite cyclone crop damage. (3) CLOVE: 50-70% harvest collapse confirmed; US tariffs now add further cost burden for American buyers. European buyers remain most exposed given Indonesia cannot fill gap. Remains Acute Crisis.",
+      "notes": "UPDATED September 2026. CLOVE: Cyclone damage (50-70% harvest collapse) ongoing. US reciprocal tariffs active August 7, 2026 adding direct cost for US buyers. AG Organica (July 2026 Essential Oil Market Report) confirms clove supply remains tight globally. VANILLA: Market now clearly at the bottom of the cycle. Expert Market Research (June 2026): cured Grade A averaged USD 200/kg in Q1 2026, down 2.4% from Q4 2025. WholesaleVanillaBeans.com (July 9, 2026): \"the picture this season is one of normalization at the bottom of the cycle.\" 2026 Madagascar crop projected 3,000-3,500 MT; April 2023 removal of $250 minimum export price let market find real level. Farm-gate prices fell to ~$1.50/kg green beans in 2025 - pressure to rush curing process a real quality risk. Uganda trading at discount to comparable Madagascar grades with twice-yearly harvest cushioning supply calendar. Export season opened early July per Madagascar government rules. Fairtrade/Frontier Co-op DONUTS program (launched August 5, 2026) supporting SAVA region smallholder cooperatives. Clove remains Acute Crisis; vanilla has moved to a genuine oversupply/low-price phase despite cyclone damage.",
       "severity": "Acute Crisis",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -4869,7 +4869,7 @@
       "commodity": "No major public future",
       "region": "Madagascar",
       "flag": false,
-      "notes": "UPDATED August 2026. Two significant new developments since last update: (1) US TARIFFS: Reciprocal tariffs active as of August 7, 2026 (Executive Order 14257) now apply to Madagascar, Indonesia, Sri Lanka, Vietnam, and Comoros. De Monchy Natural Products (August 2026) confirms procurement teams are navigating \"a new, yet still fluid reality\" with policy shifts still possible quickly. Direct cost-structure impact for US buyers of clove and vanilla. (2) VANILLA SUSTAINABILITY: Fairtrade/Frontier Co-op DONUTS program launched August 5, 2026 - 3.5 year capacity-building project for Malagasy smallholder vanilla cooperatives (SAVA region). EKL Export (Madagascar exporter) confirms August 2026 as export preparation/planning phase for the main 2026 harvest. Wholesale vanilla still $6.06-$23.57/kg (Selina Wamucii, 2026) - low/oversupply phase persisting despite cyclone crop damage. (3) CLOVE: 50-70% harvest collapse confirmed; US tariffs now add further cost burden for American buyers. European buyers remain most exposed given Indonesia cannot fill gap. Remains Acute Crisis.",
+      "notes": "UPDATED September 2026. CLOVE: Cyclone damage (50-70% harvest collapse) ongoing. US reciprocal tariffs active August 7, 2026 adding direct cost for US buyers. AG Organica (July 2026 Essential Oil Market Report) confirms clove supply remains tight globally. VANILLA: Market now clearly at the bottom of the cycle. Expert Market Research (June 2026): cured Grade A averaged USD 200/kg in Q1 2026, down 2.4% from Q4 2025. WholesaleVanillaBeans.com (July 9, 2026): \"the picture this season is one of normalization at the bottom of the cycle.\" 2026 Madagascar crop projected 3,000-3,500 MT; April 2023 removal of $250 minimum export price let market find real level. Farm-gate prices fell to ~$1.50/kg green beans in 2025 - pressure to rush curing process a real quality risk. Uganda trading at discount to comparable Madagascar grades with twice-yearly harvest cushioning supply calendar. Export season opened early July per Madagascar government rules. Fairtrade/Frontier Co-op DONUTS program (launched August 5, 2026) supporting SAVA region smallholder cooperatives. Clove remains Acute Crisis; vanilla has moved to a genuine oversupply/low-price phase despite cyclone damage.",
       "severity": "Acute Crisis",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -4884,7 +4884,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -4949,7 +4949,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cumin Seed Oil",
@@ -4959,7 +4959,7 @@
       "commodity": "Cumin",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -4979,7 +4979,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Cuminyl Acetate",
@@ -5024,7 +5024,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cyclo Hexyl Acetate",
@@ -5054,7 +5054,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cyclohexyl Salicylate",
@@ -5069,7 +5069,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Cyclomethylene Citronellol (Citrus Propanol)",
@@ -5084,7 +5084,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Cypress Oil",
@@ -5109,7 +5109,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -5129,7 +5129,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "D-Limonene",
@@ -5144,7 +5144,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "DAMASCOL-4  Do Not Use in New",
@@ -5174,7 +5174,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "DECATONE",
@@ -5204,7 +5204,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "DELPHONE",
@@ -5219,7 +5219,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "DIHYDRO ISOJASMONATE",
@@ -5279,7 +5279,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "DIMETHYL OCTENONE",
@@ -5294,7 +5294,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "DIMYRCETOL",
@@ -5384,7 +5384,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "DORYSANE",
@@ -5399,7 +5399,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "DYNASCONE\u00ae",
@@ -5414,7 +5414,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Damascenone",
@@ -5429,7 +5429,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Davana Oil",
@@ -5444,7 +5444,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Delta 3 Carene",
@@ -5459,7 +5459,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Delta Damascone",
@@ -5489,7 +5489,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Delta Dodecalactone",
@@ -5504,7 +5504,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Delta Nonalactone",
@@ -5564,7 +5564,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Delta-Hexalactone",
@@ -5594,7 +5594,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Diethyl Hexyl Adipate",
@@ -5609,7 +5609,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Diethyl Malonate",
@@ -5624,7 +5624,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Diethyl Phthalate",
@@ -5669,7 +5669,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Dihydro Beta Ionone",
@@ -5684,7 +5684,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Dihydro Carvyl Acetate",
@@ -5714,7 +5714,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Dihydro Jasmone (3-Methyl-pentyl-2-cylcopentenone)",
@@ -5744,7 +5744,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Dihydro Myrcenol",
@@ -5759,7 +5759,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Dihydro Terpinyl Acetate",
@@ -5804,7 +5804,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Dillseed Oil",
@@ -5849,7 +5849,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Dimethyl Benzyl Carbinol Isobutyrate",
@@ -5864,7 +5864,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Dimethyl Benzyl Carbinyl Acetate",
@@ -5879,7 +5879,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Dimethyl Benzyl Carbinyl Butyrate",
@@ -5894,7 +5894,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Dimethyl Phenyl Ethyl Carbinol",
@@ -5909,7 +5909,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Dimethyl Phenyl Ethyl Carbinyl Isobutyrate",
@@ -5969,7 +5969,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Dioctyl Adipate",
@@ -6029,7 +6029,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "red"
+      "supply_risk": "yellow"
     },
     {
       "name": "Diphenyl Methane",
@@ -6059,7 +6059,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Dipropylene Glycol",
@@ -6074,7 +6074,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Disodium Succinate",
@@ -6119,7 +6119,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "EDENOLIDE (IFF #00012375)",
@@ -6164,7 +6164,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "ETHYL 2-METHYLPENTANOATE (MANZANATE)",
@@ -6179,7 +6179,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "ETHYL ACETATE NATURAL EU",
@@ -6209,7 +6209,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "EUGENYL ACETATE, NATURAL",
@@ -6269,7 +6269,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Elemi Oil",
@@ -6279,7 +6279,7 @@
       "commodity": "No major public future",
       "region": "Philippines",
       "flag": false,
-      "notes": "No acute disruption identified August 2026. Elemi trade stable.",
+      "notes": "No acute disruption September 2026. Elemi trade stable.",
       "severity": "Routine Logistics",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -6299,7 +6299,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Estragon Oil Tarragon",
@@ -6314,7 +6314,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Ethone",
@@ -6359,7 +6359,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl 3-Hydroxy Butyrate",
@@ -6434,7 +6434,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Benzoylacetate",
@@ -6464,7 +6464,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Caprate",
@@ -6479,7 +6479,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Caproate",
@@ -6494,7 +6494,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Caprylate",
@@ -6509,7 +6509,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Cinnamate",
@@ -6524,7 +6524,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Fenugreek Lactone",
@@ -6569,7 +6569,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Iso Butyrate",
@@ -6584,7 +6584,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Iso Valerate",
@@ -6599,7 +6599,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Lactate",
@@ -6629,7 +6629,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Levulinate",
@@ -6659,7 +6659,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Linalyl Acetate",
@@ -6674,7 +6674,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Maltol",
@@ -6689,7 +6689,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Myristate",
@@ -6704,7 +6704,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Ethyl Nonanoate",
@@ -6809,7 +6809,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Safranate",
@@ -6839,7 +6839,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl Vanillin",
@@ -6854,7 +6854,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ethyl-2-Methyl-3-4 Pentenoates",
@@ -6884,7 +6884,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Eucalyptol",
@@ -6899,7 +6899,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Eucalyptus Citriodora Brazil",
@@ -6914,7 +6914,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Eucalyptus Oil",
@@ -6944,7 +6944,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "FENCHONE ALPHA",
@@ -6969,7 +6969,7 @@
       "commodity": "Fenugreek",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -6984,7 +6984,7 @@
       "commodity": "Fenugreek",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -7004,7 +7004,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "FIRSANTOL HEXYLENEGLYCOL TBMIX",
@@ -7034,7 +7034,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "FLEURAMONE",
@@ -7124,7 +7124,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "FLOROPAL",
@@ -7139,7 +7139,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "FRUCTALATE\u00ae",
@@ -7154,7 +7154,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "FRUITATE",
@@ -7184,7 +7184,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Farnesol Synthetic",
@@ -7224,7 +7224,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -7259,7 +7259,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Fir Needle Oil Canadian",
@@ -7304,7 +7304,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Floropal",
@@ -7364,7 +7364,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Frescile (3-Methyldodecanonitrile)",
@@ -7394,7 +7394,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Furaneol 15% PG",
@@ -7469,7 +7469,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "GELSONE",
@@ -7524,7 +7524,7 @@
       "commodity": "Crude Oil",
       "region": null,
       "flag": false,
-      "notes": "UPDATED August 2026. Market stabilizing but still elevated: Tridge (updated August 7, 2026): global Fresh Ginger wholesale $0.54-$4.32/kg over past 4 weeks; top YoY shifts: Costa Rica +71.7%, Colombia -51.8%, Ecuador -43.7%. China wholesale ~$1.20/kg; India farmgate ~$0.72/kg; South Korea $4.54/kg. Business Focus (May 2026): \"By early 2026 things aren't as frantic as last year.\" Brazil baby ginger from May 2026 helping bring prices down. Procurement Tactics: Peru export volume up 9.4% but insufficient to cover global demand; Brazil output lasted only 2 weeks as farmers planted less due to high production costs. Big spice brands spreading sourcing to smaller emerging suppliers or signing long-term deals to maintain supply. India/China reduced supply from lower yields still a factor. Overall: less acute than 2025 peak but still structurally fragile. Note: ginger essential oil is a distillate of the fresh/dried rhizome, so these fresh ginger market signals are directionally relevant but not directly equivalent. Remains Acute Crisis given ongoing multi-country supply constraints.",
+      "notes": "UPDATED September 2026. Market stabilizing but supply structurally fragile: India mandi data September 6, 2026: avg green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal (Commodity Online). Tridge (August 23, 2026): top YoY shifts - Costa Rica +71.7%, Colombia -51.0%, Ecuador -43.7%; wholesale benchmarks China $1.20/kg, India $0.72/kg, South Korea $4.54/kg. BusinessFocus (May 2026): \"by early 2026 things aren't as frantic as last year\" - Brazil baby ginger from May helping prices. Procurement Tactics: Peru up 9.4% but insufficient; Brazil output lasted only 2 weeks (farmers planted less due to high costs). Global trade value projected $5.2B (2025) to $5.51B (2026) - demand not dropping even as supply scrambles. Big spice brands spreading sourcing or signing long-term deals. China market normalized but remains dominant European supplier. Less acute than 2025 peak but still Acute Crisis given ongoing multi-country structural supply constraints.",
       "severity": "Acute Crisis",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -7544,7 +7544,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "GLYCOLIERRAL",
@@ -7559,7 +7559,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "GRISALVA",
@@ -7604,7 +7604,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "GYRANE",
@@ -7629,7 +7629,7 @@
       "commodity": "No major public future",
       "region": "Iran",
       "flag": false,
-      "notes": "No Galbanum-specific disruption found August 2026. US/Western sanctions and general geopolitical background risk unchanged. No new findings.",
+      "notes": "No Galbanum-specific disruption September 2026. US/Western sanctions background geopolitical risk unchanged. No new finding.",
       "severity": "Acute Crisis",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -7679,7 +7679,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Gamma Dodecalactone",
@@ -7694,7 +7694,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Gamma Heptalactone",
@@ -7724,7 +7724,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Gamma Methyl Decalactone",
@@ -7739,7 +7739,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Gamma Methyl Ionone",
@@ -7769,7 +7769,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Gamma Terpinene",
@@ -7784,7 +7784,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Gamma Undecalactone(C-14)",
@@ -7799,7 +7799,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Gamma Valerolactone",
@@ -7859,7 +7859,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Geranium Oil",
@@ -7869,12 +7869,12 @@
       "commodity": "No major public future",
       "region": "China",
       "flag": false,
-      "notes": "No new disruption identified August 2026. Ginger market stabilizing per prior update; geranium oil (Yunnan) no specific issues. US tariff situation bears monitoring for Chinese-origin synthetic aroma chemicals.",
-      "severity": "Routine Logistics",
+      "notes": "UPDATED September 2026. NEW FINDING: AG Organica July 2026 Essential Oil Market Report flags Geranium Oil (Yunnan) as YELLOW/TIGHT SUPPLY: \"persistent heavy rainfall has delayed new production season until November-December 2026. Spot market completely dependent on existing carryover stocks. Farmers and consolidators holding reserves, keeping asking prices firm USD 19.50-22.00/kg FOB. Forward purchasing 50-60% of Q4 requirements strongly recommended.\" Also flagged as RED/SUPPLY RISK: Litsea Cubeba (Yunnan) - continuous rainfall restricting harvesting and lowering extraction yields 15-20%; active constituent levels diluted in unrefined batches. Ginger: China remains default European supplier, Shandong market normalized (July 14 report showed smooth sales). This is a real, genuine, industry-sourced upgrade for China from Routine Logistics - at minimum Geranium Oil and Litsea Cubeba face confirmed tight supply through end 2026. Reclassifying to Structural Risk based on confirmed tightness in multiple Chinese-origin materials.",
+      "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Geranodyle (Reaction Mixture)",
@@ -7904,7 +7904,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Geranyl Butyrate",
@@ -7949,7 +7949,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Geranyl Propionate",
@@ -8009,7 +8009,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Germacrene D Natural",
@@ -8034,7 +8034,7 @@
       "commodity": "Ginger",
       "region": null,
       "flag": false,
-      "notes": "UPDATED August 2026. Market stabilizing but still elevated: Tridge (updated August 7, 2026): global Fresh Ginger wholesale $0.54-$4.32/kg over past 4 weeks; top YoY shifts: Costa Rica +71.7%, Colombia -51.8%, Ecuador -43.7%. China wholesale ~$1.20/kg; India farmgate ~$0.72/kg; South Korea $4.54/kg. Business Focus (May 2026): \"By early 2026 things aren't as frantic as last year.\" Brazil baby ginger from May 2026 helping bring prices down. Procurement Tactics: Peru export volume up 9.4% but insufficient to cover global demand; Brazil output lasted only 2 weeks as farmers planted less due to high production costs. Big spice brands spreading sourcing to smaller emerging suppliers or signing long-term deals to maintain supply. India/China reduced supply from lower yields still a factor. Overall: less acute than 2025 peak but still structurally fragile. Note: ginger essential oil is a distillate of the fresh/dried rhizome, so these fresh ginger market signals are directionally relevant but not directly equivalent. Remains Acute Crisis given ongoing multi-country supply constraints.",
+      "notes": "UPDATED September 2026. Market stabilizing but supply structurally fragile: India mandi data September 6, 2026: avg green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal (Commodity Online). Tridge (August 23, 2026): top YoY shifts - Costa Rica +71.7%, Colombia -51.0%, Ecuador -43.7%; wholesale benchmarks China $1.20/kg, India $0.72/kg, South Korea $4.54/kg. BusinessFocus (May 2026): \"by early 2026 things aren't as frantic as last year\" - Brazil baby ginger from May helping prices. Procurement Tactics: Peru up 9.4% but insufficient; Brazil output lasted only 2 weeks (farmers planted less due to high costs). Global trade value projected $5.2B (2025) to $5.51B (2026) - demand not dropping even as supply scrambles. Big spice brands spreading sourcing or signing long-term deals. China market normalized but remains dominant European supplier. Less acute than 2025 peak but still Acute Crisis given ongoing multi-country structural supply constraints.",
       "severity": "Acute Crisis",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -8054,7 +8054,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Glycerine",
@@ -8114,7 +8114,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Guaiacwood Oil (CITES)",
@@ -8124,7 +8124,7 @@
       "commodity": "No major public future",
       "region": "Paraguay",
       "flag": false,
-      "notes": "No acute disruption identified August 2026. Guaiacwood CITES cap unchanged.",
+      "notes": "No acute disruption September 2026. Guaiacwood CITES cap unchanged.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -8144,7 +8144,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "HELIOTROPYL ACETATE",
@@ -8174,7 +8174,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "HEPTADECANE",
@@ -8234,7 +8234,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "HEXADECANOLIDE (DihydroAmbrettolide) (Store at Room Temp)",
@@ -8264,7 +8264,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "HEXYL FORMATE",
@@ -8309,7 +8309,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "HYDRATROPIC ALCOHOL",
@@ -8369,7 +8369,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Helichrysum Oil",
@@ -8414,7 +8414,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Hexyl Acetate",
@@ -8429,7 +8429,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Hexyl Butyrate",
@@ -8474,7 +8474,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Hexyl Isobutyrate",
@@ -8489,7 +8489,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Hexyl Propionate",
@@ -8519,7 +8519,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Hexyl aldehyde",
@@ -8534,7 +8534,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ho Leaf Oil",
@@ -8544,12 +8544,12 @@
       "commodity": "No major public future",
       "region": "China",
       "flag": false,
-      "notes": "No new disruption identified August 2026. Ginger market stabilizing per prior update; geranium oil (Yunnan) no specific issues. US tariff situation bears monitoring for Chinese-origin synthetic aroma chemicals.",
-      "severity": "Routine Logistics",
+      "notes": "UPDATED September 2026. NEW FINDING: AG Organica July 2026 Essential Oil Market Report flags Geranium Oil (Yunnan) as YELLOW/TIGHT SUPPLY: \"persistent heavy rainfall has delayed new production season until November-December 2026. Spot market completely dependent on existing carryover stocks. Farmers and consolidators holding reserves, keeping asking prices firm USD 19.50-22.00/kg FOB. Forward purchasing 50-60% of Q4 requirements strongly recommended.\" Also flagged as RED/SUPPLY RISK: Litsea Cubeba (Yunnan) - continuous rainfall restricting harvesting and lowering extraction yields 15-20%; active constituent levels diluted in unrefined batches. Ginger: China remains default European supplier, Shandong market normalized (July 14 report showed smooth sales). This is a real, genuine, industry-sourced upgrade for China from Routine Logistics - at minimum Geranium Oil and Litsea Cubeba face confirmed tight supply through end 2026. Reclassifying to Structural Risk based on confirmed tightness in multiple Chinese-origin materials.",
+      "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Hydratropic Aldehyde Dimethyl Acetal",
@@ -8564,7 +8564,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Hydrocinnamaldehyde",
@@ -8594,7 +8594,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Hydroxy Citronellol",
@@ -8639,7 +8639,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "IMBENTIN 70",
@@ -8669,7 +8669,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "INDOLENE",
@@ -8699,7 +8699,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "IRISNITRILE",
@@ -8774,7 +8774,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "ISOBUTYL QUINOLINE G",
@@ -8864,7 +8864,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "ISOPROPYL QUINOLINE",
@@ -8909,7 +8909,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Irone Alpha",
@@ -8924,7 +8924,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Iso Amyl Caproate",
@@ -8969,7 +8969,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Iso E Super",
@@ -8984,7 +8984,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Iso Eugenyl Acetate",
@@ -8999,7 +8999,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Iso Nonyl Acetate",
@@ -9044,7 +9044,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "IsoMenthone",
@@ -9059,7 +9059,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "IsoPropyl Palmitate",
@@ -9089,7 +9089,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Isoamyl Benzoate",
@@ -9134,7 +9134,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Isoamyl Phenyl Acetate",
@@ -9179,7 +9179,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Isobornyl Acetate",
@@ -9194,7 +9194,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Isobornyl Cyclohexanol, Pure",
@@ -9314,7 +9314,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Isobutyraldehyde",
@@ -9344,7 +9344,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Isoeugenol",
@@ -9359,7 +9359,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Isononyl Aldehyde",
@@ -9434,7 +9434,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "JASMATONE  (Dihydro isojasmone)",
@@ -9449,7 +9449,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "JASMINE ABSOLUTE",
@@ -9459,7 +9459,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": "jasmine: within expected $5,000-$16,000/kg band",
       "wholesale_source": "Cross-source reference table (perfumesociety, premierepeau, ads-perfumes, alphaaromatics) - June 2026",
@@ -9474,7 +9474,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": "Reviewed - material/price plausible, no specific wholesale $/kg figure found to confirm precisely",
       "wholesale_source": "Spot-check search, June 2026",
@@ -9489,7 +9489,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": "Reviewed - material/price plausible, no specific wholesale $/kg figure found to confirm precisely",
       "wholesale_source": "Spot-check search, June 2026",
@@ -9524,7 +9524,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "JOJOBA OIL",
@@ -9534,7 +9534,7 @@
       "commodity": "No major public future",
       "region": "Argentina",
       "flag": false,
-      "notes": "No acute disruption identified August 2026. No change.",
+      "notes": "No acute disruption September 2026. No change.",
       "severity": "Routine Logistics",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -9554,7 +9554,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Jasmal / Jorasmin Plus",
@@ -9584,7 +9584,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Juniper Berry Oil",
@@ -9614,7 +9614,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "KOAVONE",
@@ -9674,7 +9674,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Ketone 101",
@@ -9839,7 +9839,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "LIMETOL",
@@ -9854,7 +9854,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "LINALOOL OXIDE",
@@ -9884,7 +9884,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "LINALYL CINNAMATE",
@@ -9959,7 +9959,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Lauric acid",
@@ -10004,7 +10004,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": true,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Lavender Oil Spike",
@@ -10019,7 +10019,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Laveo Carvone",
@@ -10034,7 +10034,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Leaf Acetal",
@@ -10074,7 +10074,7 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "UPDATED August 2026. Ultra International (world's largest patchouli exporter, production partner PT Van Aroma) confirms: Indonesia accounts for over 80% of global patchouli market; Sulawesi now represents ~80% of total raw material (major geographic shift from historical Java/Sumatra base); annual production ~1,000-1,200MT with market demand calculated at roughly the same level - virtually zero buffer. This single-island concentration in Sulawesi is a real, confirmed structural vulnerability not well-understood outside the trade. US tariffs (active August 7, 2026) now apply to Indonesian origin materials - direct cost impact for US buyers of patchouli, clove, cinnamon. Still no acute 2026 event, but the supply-demand balance and geographic concentration are tighter than any previous note indicated. Upgraded from prior framing: this is a genuine, well-evidenced Structural Risk.",
+      "notes": "UPDATED September 2026. Patchouli H1 2026 assessment (Procurement Resource, July 2026): \"balanced to mildly firm tone\" through H1 2026. Expanded cultivation footprint from earlier high prices now maturing, sustaining adequate leaf availability. However quality differentiation pronounced - aged oil commands premium over freshly distilled; premium perfumery buyers procuring selectively. Variable inland logistics and periodic weather disruption creating episodic tightness. H2 2026 outlook: \"range bound, quality differentiated supply and steady fragrance demand keeping market balanced\" per Procurement Resource. Structural risk still real and confirmed by CBI (Jan 2026): 90% global patchouli from Indonesia; over-tapping and soil depletion ongoing. US tariffs (active August 7, 2026) on Indonesian origin apply. Patchouli Light: \"broadly stable H2 2026, supported by improved Indonesian supply practices\" per Procurement Resource. Overall picture improved from prior note - less acutely tight, but structural fragility unchanged. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -10094,7 +10094,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Levulinic Acid",
@@ -10124,7 +10124,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Liliphenal(Bourgeonal)",
@@ -10139,7 +10139,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Lily Aldehyde",
@@ -10199,7 +10199,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Linalool Oxide",
@@ -10214,7 +10214,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Linalyl Benzoate",
@@ -10284,7 +10284,7 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "UPDATED August 2026. Ultra International (world's largest patchouli exporter, production partner PT Van Aroma) confirms: Indonesia accounts for over 80% of global patchouli market; Sulawesi now represents ~80% of total raw material (major geographic shift from historical Java/Sumatra base); annual production ~1,000-1,200MT with market demand calculated at roughly the same level - virtually zero buffer. This single-island concentration in Sulawesi is a real, confirmed structural vulnerability not well-understood outside the trade. US tariffs (active August 7, 2026) now apply to Indonesian origin materials - direct cost impact for US buyers of patchouli, clove, cinnamon. Still no acute 2026 event, but the supply-demand balance and geographic concentration are tighter than any previous note indicated. Upgraded from prior framing: this is a genuine, well-evidenced Structural Risk.",
+      "notes": "UPDATED September 2026. Patchouli H1 2026 assessment (Procurement Resource, July 2026): \"balanced to mildly firm tone\" through H1 2026. Expanded cultivation footprint from earlier high prices now maturing, sustaining adequate leaf availability. However quality differentiation pronounced - aged oil commands premium over freshly distilled; premium perfumery buyers procuring selectively. Variable inland logistics and periodic weather disruption creating episodic tightness. H2 2026 outlook: \"range bound, quality differentiated supply and steady fragrance demand keeping market balanced\" per Procurement Resource. Structural risk still real and confirmed by CBI (Jan 2026): 90% global patchouli from Indonesia; over-tapping and soil depletion ongoing. US tariffs (active August 7, 2026) on Indonesian origin apply. Patchouli Light: \"broadly stable H2 2026, supported by improved Indonesian supply practices\" per Procurement Resource. Overall picture improved from prior note - less acutely tight, but structural fragility unchanged. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -10334,7 +10334,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "MAJENTOL",
@@ -10499,7 +10499,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "METHYL 2-METHYLBUTYRATE",
@@ -10544,7 +10544,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "METHYL TERPENYL ETHER",
@@ -10629,7 +10629,7 @@
       "commodity": "No major public future",
       "region": "Morocco",
       "flag": false,
-      "notes": "No new acute event found August 2026. UN General Assembly declared May 10 the International Day of Argania (adopted by 113 member states) - signals ongoing international recognition of argan tree conservation concerns. Chronic drought structural risk holds. No change in severity assessment.",
+      "notes": "No new acute event September 2026. Chronic drought structural risk holds. International Day of Argania (May 10) confirmed by UN General Assembly - international recognition of conservation concern. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -10644,7 +10644,7 @@
       "commodity": "No major public future",
       "region": "Morocco",
       "flag": false,
-      "notes": "No new acute event found August 2026. UN General Assembly declared May 10 the International Day of Argania (adopted by 113 member states) - signals ongoing international recognition of argan tree conservation concerns. Chronic drought structural risk holds. No change in severity assessment.",
+      "notes": "No new acute event September 2026. Chronic drought structural risk holds. International Day of Argania (May 10) confirmed by UN General Assembly - international recognition of conservation concern. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -10769,7 +10769,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "MUSKINA FIRINDIA",
@@ -10814,7 +10814,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Maltol",
@@ -10829,7 +10829,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Maltol Isobutyrate",
@@ -10874,7 +10874,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Marjoram Oil Spanish",
@@ -10919,7 +10919,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Melonal",
@@ -10934,7 +10934,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Menthol Crystals",
@@ -10979,7 +10979,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "red"
+      "supply_risk": "yellow"
     },
     {
       "name": "Menthone",
@@ -10994,7 +10994,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Menthyl Acetate",
@@ -11009,7 +11009,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Mercapto Menthone",
@@ -11039,7 +11039,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Methyl 2-Furoate",
@@ -11069,7 +11069,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Methyl Anthranilate",
@@ -11099,7 +11099,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Methyl Butyrate",
@@ -11174,7 +11174,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Methyl Cinnamate",
@@ -11189,7 +11189,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Methyl Cyclo Pentenolone",
@@ -11234,7 +11234,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Methyl Heptenone",
@@ -11264,7 +11264,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "red"
+      "supply_risk": "yellow"
     },
     {
       "name": "Methyl Heptine Carbonate",
@@ -11279,7 +11279,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Methyl Hexyl Ketone",
@@ -11294,7 +11294,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Methyl Ionone Alpha",
@@ -11324,7 +11324,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Methyl Iso Eugenol",
@@ -11339,7 +11339,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Methyl Jasmonate",
@@ -11369,7 +11369,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Methyl Pamplemousse",
@@ -11384,7 +11384,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Methyl Phenyl Acetate",
@@ -11429,7 +11429,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Methyl p-tert-butylphenylacetate",
@@ -11454,7 +11454,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -11474,7 +11474,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Mugetanol",
@@ -11504,7 +11504,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Musk Amberol (Velvione)",
@@ -11519,7 +11519,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Musk C-14",
@@ -11534,7 +11534,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Musk Cashmeran (Cashmeran Type)",
@@ -11549,7 +11549,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Musk Ketone",
@@ -11564,7 +11564,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Myrac Aldehyde",
@@ -11609,7 +11609,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Myrcenyl Acetate",
@@ -11634,7 +11634,7 @@
       "commodity": "No major public future",
       "region": "Somalia",
       "flag": false,
-      "notes": "UPDATED August 2026. Eden Botanicals confirmed actively sourcing Frankincense from Sanaag Region cooperatives as of July 13, 2026 (page updated); cooperatives established 2005, continuing to operate. Trade active and normal. No acute disruption. Long-term structural fragility (over-tapping, climate pressure on Boswellia/Commiphora trees) remains real and documented by CBI. Remains Structural Risk - active trade, not in crisis, but long-term sustainability genuinely at risk from harvesting pressure.",
+      "notes": "No new acute disruption September 2026. CBI (Jan 2026) structural fragility documented: frankincense trees over-tapped without sufficient resting periods, depleting health and increasing vulnerability. Eden Botanicals actively sourcing from Sanaag cooperatives. Trade active. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": "Hermitage Oils wholesale (July 2026 - confirmed via site dated 08/07/2026): 50G=EUR 70, 100G=EUR 115, 250G=EUR 250, 1KG=EUR 750. Implies $810-$1,512/kg depending on pack size (1.08 USD/EUR). PA retail price ($1,580/kg) reflects small-quantity retail pricing, not bulk. CAS 8016-37-3 confirmed correct (steam distilled) across multiple sources. Note: Organic Myrrh Oil (CAS 84929-26-0) is a separately-registered material. Also available as Myrrh Absolute (Hermitage: 250G solid=EUR 150, ~EUR 600/kg). Range updated to $810-$1,580/kg to reflect real wholesale-to-retail spread.",
       "wholesale_source": "hermitageoils.com (08/07/2026), PerfumersApprentice",
@@ -11654,7 +11654,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "N-BUTYL ANTHRANILATE",
@@ -11684,7 +11684,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "NEROLIONE",
@@ -11699,7 +11699,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "NORLIMBANOL\u00ae DEXTRO",
@@ -11714,7 +11714,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Nar. Anisyl Formate",
@@ -11819,7 +11819,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nat. Bisabolol Alpha",
@@ -11834,7 +11834,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nat. Butanol (Butyl alcohol)",
@@ -12104,7 +12104,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nat. Oleic Acid",
@@ -12149,7 +12149,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nat. Phenyl Ethyl Acetate",
@@ -12224,7 +12224,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "red"
+      "supply_risk": "yellow"
     },
     {
       "name": "Nat. Phenylethyl Benzoate",
@@ -12239,7 +12239,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nat. Phenylethyl Butyrate",
@@ -12359,7 +12359,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nat. Propyl Acetate",
@@ -12449,7 +12449,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nat. Spearmint Oil",
@@ -12689,7 +12689,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nat. Valeric Acid",
@@ -12779,7 +12779,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nat. a- Pinene Laevo",
@@ -12794,7 +12794,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nectarate",
@@ -12824,7 +12824,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Nerol Oxide",
@@ -12854,7 +12854,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nerolidol",
@@ -12869,7 +12869,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Nerolin Bromelia Crystals",
@@ -12899,7 +12899,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Nerone",
@@ -12929,7 +12929,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "red"
+      "supply_risk": "yellow"
     },
     {
       "name": "Neryl Acetate",
@@ -12944,7 +12944,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Nootkatone 86%",
@@ -12959,7 +12959,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Nopyl Acetate",
@@ -12989,7 +12989,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "OAKMOSS ABSOLUTE",
@@ -13019,7 +13019,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": true,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "OAKWOOD CHIPS SFE PG CRUDE MT",
@@ -13064,7 +13064,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "OCTANILE",
@@ -13154,7 +13154,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "OMS - Mineral Spirits Odorless",
@@ -13199,7 +13199,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "OSMANTHUS ABSOLUTE",
@@ -13259,7 +13259,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "OZONIL",
@@ -13284,7 +13284,7 @@
       "commodity": "No major public future",
       "region": "Somalia",
       "flag": false,
-      "notes": "UPDATED August 2026. Eden Botanicals confirmed actively sourcing Frankincense from Sanaag Region cooperatives as of July 13, 2026 (page updated); cooperatives established 2005, continuing to operate. Trade active and normal. No acute disruption. Long-term structural fragility (over-tapping, climate pressure on Boswellia/Commiphora trees) remains real and documented by CBI. Remains Structural Risk - active trade, not in crisis, but long-term sustainability genuinely at risk from harvesting pressure.",
+      "notes": "No new acute disruption September 2026. CBI (Jan 2026) structural fragility documented: frankincense trees over-tapped without sufficient resting periods, depleting health and increasing vulnerability. Eden Botanicals actively sourcing from Sanaag cooperatives. Trade active. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -13299,7 +13299,7 @@
       "commodity": "No major public future",
       "region": "Somalia",
       "flag": false,
-      "notes": "UPDATED August 2026. Eden Botanicals confirmed actively sourcing Frankincense from Sanaag Region cooperatives as of July 13, 2026 (page updated); cooperatives established 2005, continuing to operate. Trade active and normal. No acute disruption. Long-term structural fragility (over-tapping, climate pressure on Boswellia/Commiphora trees) remains real and documented by CBI. Remains Structural Risk - active trade, not in crisis, but long-term sustainability genuinely at risk from harvesting pressure.",
+      "notes": "No new acute disruption September 2026. CBI (Jan 2026) structural fragility documented: frankincense trees over-tapped without sufficient resting periods, depleting health and increasing vulnerability. Eden Botanicals actively sourcing from Sanaag cooperatives. Trade active. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -13319,7 +13319,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Orange Flower Absolute  \"P&N\"",
@@ -13364,7 +13364,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Orange Terpene Light",
@@ -13379,7 +13379,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Oranger Crystals",
@@ -13394,7 +13394,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Organic Petitgrain Oil",
@@ -13439,7 +13439,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Organic Sage Oil",
@@ -13454,7 +13454,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Organic Tea Tree Oil Australian",
@@ -13484,7 +13484,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Organic Vetiver Oil",
@@ -13494,7 +13494,7 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "UPDATED August 2026. Ultra International (world's largest patchouli exporter, production partner PT Van Aroma) confirms: Indonesia accounts for over 80% of global patchouli market; Sulawesi now represents ~80% of total raw material (major geographic shift from historical Java/Sumatra base); annual production ~1,000-1,200MT with market demand calculated at roughly the same level - virtually zero buffer. This single-island concentration in Sulawesi is a real, confirmed structural vulnerability not well-understood outside the trade. US tariffs (active August 7, 2026) now apply to Indonesian origin materials - direct cost impact for US buyers of patchouli, clove, cinnamon. Still no acute 2026 event, but the supply-demand balance and geographic concentration are tighter than any previous note indicated. Upgraded from prior framing: this is a genuine, well-evidenced Structural Risk.",
+      "notes": "UPDATED September 2026. Patchouli H1 2026 assessment (Procurement Resource, July 2026): \"balanced to mildly firm tone\" through H1 2026. Expanded cultivation footprint from earlier high prices now maturing, sustaining adequate leaf availability. However quality differentiation pronounced - aged oil commands premium over freshly distilled; premium perfumery buyers procuring selectively. Variable inland logistics and periodic weather disruption creating episodic tightness. H2 2026 outlook: \"range bound, quality differentiated supply and steady fragrance demand keeping market balanced\" per Procurement Resource. Structural risk still real and confirmed by CBI (Jan 2026): 90% global patchouli from Indonesia; over-tapping and soil depletion ongoing. US tariffs (active August 7, 2026) on Indonesian origin apply. Patchouli Light: \"broadly stable H2 2026, supported by improved Indonesian supply practices\" per Procurement Resource. Overall picture improved from prior note - less acutely tight, but structural fragility unchanged. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -13514,7 +13514,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Osyrol",
@@ -13544,7 +13544,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "PAEGA (PHEN.ACETALD.ET.GLY.ACETAL)",
@@ -13559,7 +13559,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "PALMAROSA EO",
@@ -13574,7 +13574,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "PARAFFIN OIL",
@@ -13604,7 +13604,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "PATCHOULI ABSOLUTE",
@@ -13614,7 +13614,7 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "UPDATED August 2026. Ultra International (world's largest patchouli exporter, production partner PT Van Aroma) confirms: Indonesia accounts for over 80% of global patchouli market; Sulawesi now represents ~80% of total raw material (major geographic shift from historical Java/Sumatra base); annual production ~1,000-1,200MT with market demand calculated at roughly the same level - virtually zero buffer. This single-island concentration in Sulawesi is a real, confirmed structural vulnerability not well-understood outside the trade. US tariffs (active August 7, 2026) now apply to Indonesian origin materials - direct cost impact for US buyers of patchouli, clove, cinnamon. Still no acute 2026 event, but the supply-demand balance and geographic concentration are tighter than any previous note indicated. Upgraded from prior framing: this is a genuine, well-evidenced Structural Risk.",
+      "notes": "UPDATED September 2026. Patchouli H1 2026 assessment (Procurement Resource, July 2026): \"balanced to mildly firm tone\" through H1 2026. Expanded cultivation footprint from earlier high prices now maturing, sustaining adequate leaf availability. However quality differentiation pronounced - aged oil commands premium over freshly distilled; premium perfumery buyers procuring selectively. Variable inland logistics and periodic weather disruption creating episodic tightness. H2 2026 outlook: \"range bound, quality differentiated supply and steady fragrance demand keeping market balanced\" per Procurement Resource. Structural risk still real and confirmed by CBI (Jan 2026): 90% global patchouli from Indonesia; over-tapping and soil depletion ongoing. US tariffs (active August 7, 2026) on Indonesian origin apply. Patchouli Light: \"broadly stable H2 2026, supported by improved Indonesian supply practices\" per Procurement Resource. Overall picture improved from prior note - less acutely tight, but structural fragility unchanged. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -13629,7 +13629,7 @@
       "commodity": "No major public future",
       "region": "Indonesia",
       "flag": false,
-      "notes": "UPDATED August 2026. Ultra International (world's largest patchouli exporter, production partner PT Van Aroma) confirms: Indonesia accounts for over 80% of global patchouli market; Sulawesi now represents ~80% of total raw material (major geographic shift from historical Java/Sumatra base); annual production ~1,000-1,200MT with market demand calculated at roughly the same level - virtually zero buffer. This single-island concentration in Sulawesi is a real, confirmed structural vulnerability not well-understood outside the trade. US tariffs (active August 7, 2026) now apply to Indonesian origin materials - direct cost impact for US buyers of patchouli, clove, cinnamon. Still no acute 2026 event, but the supply-demand balance and geographic concentration are tighter than any previous note indicated. Upgraded from prior framing: this is a genuine, well-evidenced Structural Risk.",
+      "notes": "UPDATED September 2026. Patchouli H1 2026 assessment (Procurement Resource, July 2026): \"balanced to mildly firm tone\" through H1 2026. Expanded cultivation footprint from earlier high prices now maturing, sustaining adequate leaf availability. However quality differentiation pronounced - aged oil commands premium over freshly distilled; premium perfumery buyers procuring selectively. Variable inland logistics and periodic weather disruption creating episodic tightness. H2 2026 outlook: \"range bound, quality differentiated supply and steady fragrance demand keeping market balanced\" per Procurement Resource. Structural risk still real and confirmed by CBI (Jan 2026): 90% global patchouli from Indonesia; over-tapping and soil depletion ongoing. US tariffs (active August 7, 2026) on Indonesian origin apply. Patchouli Light: \"broadly stable H2 2026, supported by improved Indonesian supply practices\" per Procurement Resource. Overall picture improved from prior note - less acutely tight, but structural fragility unchanged. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -13784,7 +13784,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "PHENEXAL",
@@ -13829,7 +13829,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "PHENYLETHYL PIVALATE",
@@ -13874,7 +13874,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "PHYTOL TAMA BASE",
@@ -13994,7 +13994,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "PIPERITONE EX EUCALYPTUS",
@@ -14054,7 +14054,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "PRISMANTOL",
@@ -14114,7 +14114,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Palo Santo Oil",
@@ -14159,7 +14159,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Para Cresyl Phenyl Acetate",
@@ -14174,7 +14174,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Para Cymene",
@@ -14189,7 +14189,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Para Tolyl Aldehyde",
@@ -14204,7 +14204,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Paradisamide",
@@ -14219,7 +14219,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Patchone",
@@ -14264,7 +14264,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Peppermint Cyclohexanone",
@@ -14279,7 +14279,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Phenethyl Phenyl Acetate",
@@ -14309,7 +14309,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Phenethyl salicylate",
@@ -14324,7 +14324,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Phenoxy Ethanol (Rose Ether)",
@@ -14354,7 +14354,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Phenyl Acetaldehyde Dimethyl Acetal",
@@ -14369,7 +14369,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Phenyl Hexanol",
@@ -14384,7 +14384,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Phenyl Propyl Acetate",
@@ -14414,7 +14414,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Phenyl Propyl Cinnamate",
@@ -14444,7 +14444,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Pimento Berry Oil",
@@ -14474,7 +14474,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Prenyl Acetate",
@@ -14489,7 +14489,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Profarnesal S/A Oncidal",
@@ -14534,7 +14534,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "RESEDA BODY",
@@ -14594,7 +14594,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "RMI COFFEE EXTRACT BLEND ORG",
@@ -14624,7 +14624,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "ROMASCONE",
@@ -14639,7 +14639,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "ROSALVA",
@@ -14654,7 +14654,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "ROSAMUSK",
@@ -14714,7 +14714,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Rhumacetal",
@@ -14729,7 +14729,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Rosalin",
@@ -14774,7 +14774,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Rosehip Oil CP \"P&N\"",
@@ -14804,7 +14804,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "SALICYNILE\u00ae",
@@ -14819,7 +14819,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "SCENTENAL\u00ae",
@@ -14894,7 +14894,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "SCLAREOLATE\u00ae",
@@ -14984,7 +14984,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "STAR ANISE EO",
@@ -15029,7 +15029,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "SUSTANE",
@@ -15089,7 +15089,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Sandacanol",
@@ -15104,7 +15104,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Sandalore(Sandasweet)",
@@ -15119,7 +15119,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Sandalwood Oil",
@@ -15129,7 +15129,7 @@
       "commodity": "No major public future",
       "region": "India",
       "flag": false,
-      "notes": "UPDATED August 2026. Live government auction data (Spices Board, August 13, 2026): Small Cardamom max Rs.4,277/kg, avg Rs.3,084/kg - prices holding firm. Large Cardamom: Singtam Rs.1,350-1,500/kg, Gangtok Rs.1,300-1,450/kg, Siliguri Rs.1,525-1,675/kg (August 13, 2026). CUMIN (Mundus Agri, July 2026): prices falling further with declining arrivals and mediocre quality current crop. Significant discrepancy between market assessments (30% crop shortfall) and official government forecast (5-7% deficit). Acreage declined steadily since 2023; no large stocks expected. Prices likely to hold at stable minimum then reverse upward when Chinese demand returns. Export demand subdued due to West Asia geopolitical tensions and disrupted shipping routes. Overall: confirmed Structural Risk with active price monitoring now possible via real government auction data (indianspices.com, cardamom.auction).",
+      "notes": "UPDATED September 2026. Live Spices Board auction data September 8, 2026: Small Cardamom - Kochi: Max Rs.3,629/kg, Avg Rs.3,045/kg; Santhanpara: Max Rs.3,616/kg. August 27 auction: Max Rs.4,111/kg, Avg Rs.2,924/kg. Large Cardamom August 20: Singtam Rs.1,400-1,500/kg, Siliguri Rs.1,537-1,675/kg. Commodity Online September 6, 2026: average green ginger Rs.12,948/quintal (~$155/kg), range Rs.1,000-37,500/quintal showing significant regional variation. Cumin: export prices fell ~USD 25/mt despite domestic price uptick; Pakistan/Bangladesh demand growing but Chinese buyers still waiting for lower prices; acreage decline continuing - local estimates suggest 30% crop shortfall vs government 5-7% figure. Buying opportunity per analysts (3-4 month hold). Coriander: tight supplies supporting prices. Fenugreek: smaller sowings, EU imports down 44%. India cardamom prices actively volatile - max price variability between Rs.2,924-4,111/kg across late Aug/early Sep 2026 auctions confirming active, live market movement. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -15179,7 +15179,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Sodium Benzoate",
@@ -15239,7 +15239,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Stemone",
@@ -15254,7 +15254,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Strawberry Aldehyde (C16)",
@@ -15269,7 +15269,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Sulfurol (4-Methyl-5-Thiazoleethanol)",
@@ -15284,7 +15284,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "T3 Hexenyl Acetate",
@@ -15389,7 +15389,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "THUYAC",
@@ -15539,7 +15539,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "TRANS DECAHYDRO BETA NAPHTHYL ACET.",
@@ -15569,7 +15569,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "TRIETHANOLAMINE",
@@ -15599,7 +15599,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "TRIMENOL ACETATE",
@@ -15614,7 +15614,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "TRITON X 100",
@@ -15689,7 +15689,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Terpineol",
@@ -15749,7 +15749,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Theaspirane",
@@ -15779,7 +15779,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Tonalide",
@@ -15794,7 +15794,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Trans,Cis-2,6-Nonadienal",
@@ -15809,7 +15809,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Trans-4-Decen-1-al",
@@ -15854,7 +15854,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "red"
     },
     {
       "name": "Trimethyl Hexyl Acetate",
@@ -15884,7 +15884,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Triplal  (20/80)",
@@ -16019,7 +16019,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Vanilla Bourbon SFE Organic (concentrated extract, NOT raw beans)",
@@ -16029,7 +16029,7 @@
       "commodity": "Crude Oil",
       "region": "Madagascar",
       "flag": false,
-      "notes": "UPDATED August 2026. Two significant new developments since last update: (1) US TARIFFS: Reciprocal tariffs active as of August 7, 2026 (Executive Order 14257) now apply to Madagascar, Indonesia, Sri Lanka, Vietnam, and Comoros. De Monchy Natural Products (August 2026) confirms procurement teams are navigating \"a new, yet still fluid reality\" with policy shifts still possible quickly. Direct cost-structure impact for US buyers of clove and vanilla. (2) VANILLA SUSTAINABILITY: Fairtrade/Frontier Co-op DONUTS program launched August 5, 2026 - 3.5 year capacity-building project for Malagasy smallholder vanilla cooperatives (SAVA region). EKL Export (Madagascar exporter) confirms August 2026 as export preparation/planning phase for the main 2026 harvest. Wholesale vanilla still $6.06-$23.57/kg (Selina Wamucii, 2026) - low/oversupply phase persisting despite cyclone crop damage. (3) CLOVE: 50-70% harvest collapse confirmed; US tariffs now add further cost burden for American buyers. European buyers remain most exposed given Indonesia cannot fill gap. Remains Acute Crisis.",
+      "notes": "UPDATED September 2026. CLOVE: Cyclone damage (50-70% harvest collapse) ongoing. US reciprocal tariffs active August 7, 2026 adding direct cost for US buyers. AG Organica (July 2026 Essential Oil Market Report) confirms clove supply remains tight globally. VANILLA: Market now clearly at the bottom of the cycle. Expert Market Research (June 2026): cured Grade A averaged USD 200/kg in Q1 2026, down 2.4% from Q4 2025. WholesaleVanillaBeans.com (July 9, 2026): \"the picture this season is one of normalization at the bottom of the cycle.\" 2026 Madagascar crop projected 3,000-3,500 MT; April 2023 removal of $250 minimum export price let market find real level. Farm-gate prices fell to ~$1.50/kg green beans in 2025 - pressure to rush curing process a real quality risk. Uganda trading at discount to comparable Madagascar grades with twice-yearly harvest cushioning supply calendar. Export season opened early July per Madagascar government rules. Fairtrade/Frontier Co-op DONUTS program (launched August 5, 2026) supporting SAVA region smallholder cooperatives. Clove remains Acute Crisis; vanilla has moved to a genuine oversupply/low-price phase despite cyclone damage.",
       "severity": "Acute Crisis",
       "wholesale_check": "Raw Madagascar vanilla beans: $6-24/kg wholesale (2026); concentrated SFE extracts are legitimately much higher due to concentration factor - our price is plausible for an SFE specifically, not for raw beans",
       "wholesale_source": "selinawamucii.com, Tridge, multiple 2026 sources",
@@ -16044,7 +16044,7 @@
       "commodity": "Crude Oil",
       "region": "Madagascar",
       "flag": false,
-      "notes": "UPDATED August 2026. Two significant new developments since last update: (1) US TARIFFS: Reciprocal tariffs active as of August 7, 2026 (Executive Order 14257) now apply to Madagascar, Indonesia, Sri Lanka, Vietnam, and Comoros. De Monchy Natural Products (August 2026) confirms procurement teams are navigating \"a new, yet still fluid reality\" with policy shifts still possible quickly. Direct cost-structure impact for US buyers of clove and vanilla. (2) VANILLA SUSTAINABILITY: Fairtrade/Frontier Co-op DONUTS program launched August 5, 2026 - 3.5 year capacity-building project for Malagasy smallholder vanilla cooperatives (SAVA region). EKL Export (Madagascar exporter) confirms August 2026 as export preparation/planning phase for the main 2026 harvest. Wholesale vanilla still $6.06-$23.57/kg (Selina Wamucii, 2026) - low/oversupply phase persisting despite cyclone crop damage. (3) CLOVE: 50-70% harvest collapse confirmed; US tariffs now add further cost burden for American buyers. European buyers remain most exposed given Indonesia cannot fill gap. Remains Acute Crisis.",
+      "notes": "UPDATED September 2026. CLOVE: Cyclone damage (50-70% harvest collapse) ongoing. US reciprocal tariffs active August 7, 2026 adding direct cost for US buyers. AG Organica (July 2026 Essential Oil Market Report) confirms clove supply remains tight globally. VANILLA: Market now clearly at the bottom of the cycle. Expert Market Research (June 2026): cured Grade A averaged USD 200/kg in Q1 2026, down 2.4% from Q4 2025. WholesaleVanillaBeans.com (July 9, 2026): \"the picture this season is one of normalization at the bottom of the cycle.\" 2026 Madagascar crop projected 3,000-3,500 MT; April 2023 removal of $250 minimum export price let market find real level. Farm-gate prices fell to ~$1.50/kg green beans in 2025 - pressure to rush curing process a real quality risk. Uganda trading at discount to comparable Madagascar grades with twice-yearly harvest cushioning supply calendar. Export season opened early July per Madagascar government rules. Fairtrade/Frontier Co-op DONUTS program (launched August 5, 2026) supporting SAVA region smallholder cooperatives. Clove remains Acute Crisis; vanilla has moved to a genuine oversupply/low-price phase despite cyclone damage.",
       "severity": "Acute Crisis",
       "wholesale_check": null,
       "wholesale_source": null,
@@ -16064,7 +16064,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "VERDOL",
@@ -16079,7 +16079,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "VERDYLATE",
@@ -16109,7 +16109,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "VETIMOSS",
@@ -16169,7 +16169,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Valerian Root Oil",
@@ -16214,7 +16214,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Verdyl Propionate",
@@ -16229,7 +16229,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "WALNUT ESTER",
@@ -16289,7 +16289,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "Ylang Ylang Oil #1",
@@ -16334,7 +16334,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "ZEMEA PROPANEDIOL",
@@ -16364,7 +16364,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "yellow"
+      "supply_risk": "red"
     },
     {
       "name": "iso Bornyl Cyclo Hexanol",
@@ -16409,7 +16409,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "red"
+      "supply_risk": "yellow"
     },
     {
       "name": "laevo Bornyl Acetate",
@@ -16469,7 +16469,7 @@
       "wholesale_check": null,
       "wholesale_source": null,
       "is_concentrate": false,
-      "supply_risk": "green"
+      "supply_risk": "yellow"
     },
     {
       "name": "Benzoin Siam",
@@ -16494,7 +16494,7 @@
       "commodity": "No major public future",
       "region": "France",
       "flag": false,
-      "notes": "No acute disruption identified August 2026. Orris (Italy/France), Blackcurrant Bud (Burgundy) - no specific supply events found.",
+      "notes": "No acute disruption September 2026. Orris (Iris pallida, Italy/France), Blackcurrant Bud (Burgundy) - no specific supply events found.",
       "severity": "Routine Logistics",
       "wholesale_check": "Price confirmed as highly irone-dependent: ~\u20ac12,000/kg for concrete, up to \u20ac70,000/kg for high-irone absolute (55-85% irones) per premierepeau.com 2025 wholesale data. IFF LMR Naturals confirms CAS 8002-73-1, yield ~1kg per 2,000kg of rhizome. Hermitage Oils (June 2026) confirms 70%+ irones absolute trades above \u20ac50,000/kg. Rule of thumb per Basenotes industry forum: ~$1,000/kg per percentage point of irone content - so a 15% irones product costs ~$15,000/kg, 60% irones ~$60,000/kg. Grade_warning flag is intentional: wide spread reflects real, by-design grade variation, not a data error.",
       "wholesale_source": "IFF LMR Naturals (March 2026), premierepeau.com (2025), ScenTree, hermitageoils.com (June 2026), Basenotes industry forum",
@@ -16509,7 +16509,7 @@
       "commodity": "No major public future",
       "region": "Morocco",
       "flag": false,
-      "notes": "No new acute event found August 2026. UN General Assembly declared May 10 the International Day of Argania (adopted by 113 member states) - signals ongoing international recognition of argan tree conservation concerns. Chronic drought structural risk holds. No change in severity assessment.",
+      "notes": "No new acute event September 2026. Chronic drought structural risk holds. International Day of Argania (May 10) confirmed by UN General Assembly - international recognition of conservation concern. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": "Hermitage Oils wholesale (May 2026 update): 50g = EUR 45, 100g = EUR 80, both in 50% TEC dilution from Morocco. Implies EUR 800-900/kg for pure absolute (EUR 1,600-1,800/kg at 100% concentration), or approx $1,728-$1,944/kg at 1.08 USD/EUR. IFF LMR Naturals also produces (IPC 133267, CAS 68916-96-1; 77-93-0). NOTE: Hermitage updated origin to Morocco (from Paraguay) as of 04/05/2026. PA sells as a diluted mixture (CAS listed as Mixture - Mate Abs 68916-96-1 + PG + Ethanol) so PA price is NOT used here as it reflects a diluted blend, not the pure absolute.",
       "wholesale_source": "hermitageoils.com (04/05/2026 update), IFF LMR Naturals compendium",
@@ -16539,7 +16539,7 @@
       "commodity": "Unknown",
       "region": "France",
       "flag": false,
-      "notes": "No acute disruption identified August 2026. Orris (Italy/France), Blackcurrant Bud (Burgundy) - no specific supply events found.",
+      "notes": "No acute disruption September 2026. Orris (Iris pallida, Italy/France), Blackcurrant Bud (Burgundy) - no specific supply events found.",
       "severity": "Routine Logistics",
       "wholesale_check": "Hermitage Oils wholesale (May 2026, updated 22/05/2026): 50g=EUR 195, 100g=EUR 350 - confirmed PURE absolute (not diluted). Implies EUR 3,500-3,900/kg (approx $3,780-$4,212/kg at 1.08 USD/EUR). Origin: Burgundy, France. Harvest: December-February. CAS 97676-19-2 confirmed via Perfumer's Apprentice product listing. LMR Naturals offers two variants: 37% TEC dilution and \"For Life\" Burgundy. Eden Botanicals also carries this material.",
       "wholesale_source": "hermitageoils.com (22/05/2026), Perfumers Apprentice, IFF LMR Naturals compendium",
@@ -16554,7 +16554,7 @@
       "commodity": "Unknown",
       "region": "Egypt",
       "flag": false,
-      "notes": "No new acute disruption identified August 2026. Nafeza/ACI customs compliance risk ongoing. No change.",
+      "notes": "No new acute disruption September 2026. Nafeza/ACI customs compliance friction ongoing. No change.",
       "severity": "Routine Logistics",
       "wholesale_check": "Hermitage Oils wholesale (March 2026): 50g=EUR 350 (only size offered). Implies EUR 7,000/kg (~$7,560/kg at 1.08 USD/EUR). CAS 8021-43-0 confirmed via Good Scents Company. Premi\u00e8re Peau 2025 confirms Egypt as sole commercial source, production negligible. IMPORTANT: this material is so scarce it may be unavailable entirely; Eden Botanicals also carries it but availability is sporadic.",
       "wholesale_source": "hermitageoils.com (March 2026), premierepeau.com (2025), Good Scents Company",
@@ -16569,7 +16569,7 @@
       "commodity": "No major public future",
       "region": "Somalia",
       "flag": false,
-      "notes": "UPDATED August 2026. Eden Botanicals confirmed actively sourcing Frankincense from Sanaag Region cooperatives as of July 13, 2026 (page updated); cooperatives established 2005, continuing to operate. Trade active and normal. No acute disruption. Long-term structural fragility (over-tapping, climate pressure on Boswellia/Commiphora trees) remains real and documented by CBI. Remains Structural Risk - active trade, not in crisis, but long-term sustainability genuinely at risk from harvesting pressure.",
+      "notes": "No new acute disruption September 2026. CBI (Jan 2026) structural fragility documented: frankincense trees over-tapped without sufficient resting periods, depleting health and increasing vulnerability. Eden Botanicals actively sourcing from Sanaag cooperatives. Trade active. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": "Hermitage Oils wholesale (April 2026): 250G pure solid = EUR 150, implying EUR 600/kg (~$648/kg at 1.08 USD/EUR). NOTE: the 10ml retail option is 50% in ethanol and is NOT used for pricing - only the pure 250G solid wholesale weight. Shares CAS 8016-37-3 with Myrrh Oil (steam distilled) - both derive from Commiphora myrrha. Origin: Somalian material solvent extracted in France (per Hermitage). Produced by solvent extracting the resinoid (not directly from crude via alcohol extraction). Notably priced BELOW the steam-distilled oil ($810/kg bulk wholesale) due to different extraction economics.",
       "wholesale_source": "hermitageoils.com (April 2026)",
@@ -16584,7 +16584,7 @@
       "commodity": "No major public future",
       "region": "Somalia",
       "flag": false,
-      "notes": "UPDATED August 2026. Eden Botanicals confirmed actively sourcing Frankincense from Sanaag Region cooperatives as of July 13, 2026 (page updated); cooperatives established 2005, continuing to operate. Trade active and normal. No acute disruption. Long-term structural fragility (over-tapping, climate pressure on Boswellia/Commiphora trees) remains real and documented by CBI. Remains Structural Risk - active trade, not in crisis, but long-term sustainability genuinely at risk from harvesting pressure.",
+      "notes": "No new acute disruption September 2026. CBI (Jan 2026) structural fragility documented: frankincense trees over-tapped without sufficient resting periods, depleting health and increasing vulnerability. Eden Botanicals actively sourcing from Sanaag cooperatives. Trade active. Remains Structural Risk.",
       "severity": "Structural Risk",
       "wholesale_check": "Hermitage Oils wholesale (Feb 2026): 50G=EUR 45, 100G=EUR 85, 250G=EUR 175, 1KG=EUR 580. Implies $626-$972/kg at 1.08 USD/EUR. Also known as \"sweet myrrh\" - cousin of Commiphora myrrha. Steam distilled from the resin of Commiphora erythraea. Hermitage notes this material is sourced directly from the same Somalian producer that supplies major French corporate houses, allowing savings of up to 50% vs competitors for same material. CAS 8021-36-1 confirmed via Good Scents Company, PerfumersWorld, Selleckchem (multiple independent sources). NOTE: existing OPOPONAX RESINOID ABSOLUTE (also CAS 8021-36-1) at $704/kg from PA is a different extraction method - both correct.",
       "wholesale_source": "hermitageoils.com (Feb 2026), Good Scents Company, PerfumersWorld",
