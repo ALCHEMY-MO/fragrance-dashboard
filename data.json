@@ -4886,9 +4886,9 @@
       "prev_price_date": "2026-09-10"
     },
     {
-      "severity": "",
-      "notes": "",
-      "notes_asof": "",
+      "severity": "Structural Risk",
+      "notes": "Cistus/Labdanum Nov 15 2026: Biolandes flagging troubled market. Spain 2026 wildfire season burned ~50,000 hectares by July — Andalusia (Huelva, Córdoba, Jaén) and Aragón hardest hit; Extremadura/western Andalusia cistus growing regions exposed. Spain also recorded hottest, driest start to summer on record — heat stress affects gum yield and shortens already-narrow ~3-month harvest window. Landema labdanum absolute showing out-of-stock. Supply highly concentrated (Biolandes primary processor). No specific harvest volume or price data available publicly — treat as Structural Risk pending quantified impact from supplier. Flag for Q1 2027 contract review.",
+      "notes_asof": "2026-11-15",
       "low": 207.93,
       "high": 4210.0,
       "wholesale_check": "",
@@ -4899,8 +4899,8 @@
       "direction": "",
       "cas": "8016-26-0",
       "name": "CISTUS ABSOLUTE",
-      "region": "",
-      "supply_risk_proxy": "0.0",
+      "region": "Spain",
+      "supply_risk_proxy": "2.0",
       "is_cost_index": "",
       "is_concentrate_or_extract": "True",
       "prev_low": "207.93",
@@ -24523,6 +24523,28 @@
       "display_value": "~$26.50-27.00",
       "display_unit": "$/hr",
       "trend": "up"
+    },
+    {
+      "severity": "Structural Risk",
+      "notes": "Cistus/Labdanum Nov 15 2026: Biolandes flagging troubled market. Spain 2026 wildfire season burned ~50,000 hectares by July — Andalusia (Huelva, Córdoba, Jaén) and Aragón hardest hit; Extremadura/western Andalusia cistus growing regions exposed. Spain also recorded hottest, driest start to summer on record — heat stress affects gum yield and shortens already-narrow ~3-month harvest window. Landema labdanum absolute showing out-of-stock. Supply highly concentrated (Biolandes primary processor). No specific harvest volume or price data available publicly — treat as Structural Risk pending quantified impact from supplier. Flag for Q1 2027 contract review.",
+      "notes_asof": "2026-11-15",
+      "low": 35.0,
+      "high": 80.0,
+      "wholesale_check": "No current public price data. Range estimated from trade sources.",
+      "wholesale_source": "Trade estimate; no authoritative public source Nov 2026",
+      "category": "Natural Resinoid",
+      "commodity": "Cistus gum (Spain)",
+      "flag": "",
+      "direction": "",
+      "cas": "90082-73-8",
+      "name": "LABDANUM RESINOID",
+      "region": "Spain",
+      "supply_risk_proxy": "2.0",
+      "is_cost_index": "",
+      "is_concentrate_or_extract": "False",
+      "prev_low": "",
+      "prev_high": "",
+      "prev_price_date": ""
     }
   ]
 }
